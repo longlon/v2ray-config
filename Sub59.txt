@@ -3,6 +3,23 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@69.162.95.5:443/?type=tcp&security=tls&sni=trus.moonfree.top&allowInsecure=1#✅@v2ray_configs_pools
+trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@74.63.241.23:443/?type=tcp&security=tls&sni=trus.moonfree.top&allowInsecure=1#✅@v2ray_configs_pools
+trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@103.168.56.77:443?security=tls&fp=chrome&type=tcp&allowInsecure=1#✅@v2ray_configs_pools
+trojan://51c44c4e-f8c2-4419-a52b-b4b7bd915078@ap.liangyuandian.top:443?security=tls&fp=chrome&type=tcp&allowInsecure=1#✅@v2ray_configs_pools
+trojan://58dcd460-65df-47b1-b062-517df30bef29@usa.liangyuandian.top:443?security=tls&fp=chrome&type=tcp&allowInsecure=1#✅@v2ray_configs_pools
+trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@jp-h1.sshub.xyz:443/?type=tcp&security=tls#✅@v2ray_configs_pools
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@a10.taipeicitygovernment.kyiv.ua:3462/?type=tcp&security=tls&sni=45.32.28.232#✅@v2ray_configs_pools
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@my.singaporenodeserverone.kyiv.ua:443/?type=tcp&security=tls&sni=45.32.28.232#✅@v2ray_configs_pools
+trojan://7778e684-f435-4166-bf9e-0256cb28bf10@15.197.162.184:443/?type=tcp&security=tls&sni=download2hkt.windowsupdate.lol&allowInsecure=1#✅@v2ray_configs_pools
+trojan://84587c21-9938-42fc-a4b0-4f72dd72b7aa@pt.mjt000.com:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=pt.mjt000.com#✅@v2ray_configs_pools
+trojan://84587c21-9938-42fc-a4b0-4f72dd72b7aa@pt.mjt000.com:443?security=tls&sni=pt.mjt000.com&fp=chrome&type=tcp&allowInsecure=1#✅@v2ray_configs_pools
+trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@13.76.251.170:443/?type=tcp&security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#✅@v2ray_configs_pools
+trojan://94cf288d-f764-4ce9-a547-a7228144f056@gerxyz.bm04.xyz:2053?allowInsecure=0&sni=gerxyz.bm04.xyz#✅@v2ray_configs_pools
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@203.210.16.78:8443/?type=tcp&security=tls&sni=official.seoulcitygovernment.com.ua&allowInsecure=1#✅@v2ray_configs_pools
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.ivano-frankivsk.ua:8443?security=tls&fp=chrome&type=tcp&allowInsecure=1#✅@v2ray_configs_pools
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.chernigov.ua:2053?security=tls&fp=chrome&type=tcp&allowInsecure=1#✅@v2ray_configs_pools
+trojan://a13820c547fa34c5c45515c12f0cd576@117.149.198.190:10051/?type=tcp&security=tls&sni=zz6.91js.pw&allowInsecure=1#✅@v2ray_configs_pools
 trojan://b341f309-7e2b-45c4-a316-9e23037e3711@sg.liangyuandian.top:443?security=tls&fp=chrome&type=tcp&allowInsecure=1#✅@v2ray_configs_pools
 trojan://b4e8771997c94732acbc9ec4d19c2589@jobscareertoday.com:443?allowInsecure=1#t.me/entryNET/config=1837966079560934
 trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir&fp=chrome&type=tcp&allowInsecure=1#✅@v2ray_configs_pools
@@ -486,20 +503,3 @@ vless://f503c72d-485e-4091-9d0c-9ad34d61c914@31.58.144.156:12765?path=/telegram@
 vless://f503c72d-485e-4091-9d0c-9ad34d61c914@31.58.144.156:12765?path=/telegram@FergalVpnMod&security=none&encryption=none&host=cloudflare.com&type=ws#🇩🇪🌍𝙶𝚎𝚛𝚖𝚊
 vless://f503c72d-485e-4091-9d0c-9ad34d61c914@31.58.144.156:12765?path=/telegram@FergalVpnMod&security=none&encryption=none&host=cloudflare.com&type=ws#🇩🇪🌍𝙶𝚎𝚛𝚖𝚊𝚗𝚢 𝙻𝚘𝚌𝚊𝚝𝚒𝚘𝚗 | 𝚇𝙿𝚕𝚞𝚜 𝚅𝙿𝙽🌍🇩🇪
 vless://f503c72d-485e-4091-9d0c-9ad34d61c914@31.58.144.156:12765?path=/telegram@v2ray_configs_pools&security=none&encryption=none&host=cloudflare.com&type=ws#✅@v2ray_configs_pools
-vless://f5cf098f-5143-440f-a490-7fc24ff27fb0@104.26.7.89:8443?path=/?ed=2560&security=tls&encryption=none&host=brmahasang.ahaysiahzangi.dpdns.org&fp=chrome&type=ws&sni=brmahasang.ahaysiahzangi.dpdns.org#✅@v2ray_configs_pools
-vless://f5cf098f-5143-440f-a490-7fc24ff27fb0@104.26.7.89:8443?path=/v2ray_configs_pools?ed=2560&security=tls&encryption=none&host=brmahasang.ahaysiahzangi.dpdns.org&fp=chrome&type=ws&sni=brmahasang.ahaysiahzangi.dpdns.org#✅@v2ray_configs_pools
-vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/?Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=none&encryption=none&type=ws#t.me/entryNET/config=1837969791155809
-vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?security=&type=ws&path=/&encryption=none#🇮🇷IR | @v2ray_configs_pools
-vless://f954f48a-3448-4824-b500-69a583c8b902@65.109.191.119:4041?mode=gun&security=none&encryption=none&type=grpc&serviceName=MoonL_V2ray_Channel#✅@v2ray_configs_pools
-vless://f954f48a-3448-4824-b500-69a583c8b902@65.109.191.119:4041?mode=gun&security=none&encryption=none&type=grpc&serviceName=v2ray_configs_pools_Channel#✅@v2ray_configs_pools
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@159.242.242.63:8880?path=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net/&security=none&encryption=none&host=jp.laoyoutiao.link&type=ws&sni=jp.laoyoutiao.link#🇺🇸 | @External_Net
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@162.159.243.19:8880?path=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net/&security=none&encryption=none&host=hk.laoyoutiao.link&type=ws&sni=hk.laoyoutiao.link#🏴‍☠️ | @External_Net
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@188.42.88.63:8880?path=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net/&security=none&encryption=none&host=jp.laoyoutiao.link&type=ws&sni=jp.laoyoutiao.link#🇱🇺 | @External_Net
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@213.109.205.63:8880?path=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net/&security=none&encryption=none&host=jp.laoyoutiao.link&type=ws&sni=jp.laoyoutiao.link#🇨🇾 | @External_Net
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.131.209.63:8880?path=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net/&security=none&encryption=none&host=jp.laoyoutiao.link&type=ws&sni=jp.laoyoutiao.link#🇳🇱 | @External_Net
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.14:8880/?type=ws&encryption=none&flow=&host=tw.laoyoutiao.link&path=/Telegram🇨🇳@WangCai2/?ed=2048#Telegram:@config_proxy 🔥
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.14:8880/?type=ws&encryption=none&flow=&host=tw.laoyoutiao.link&path=/Telegram🇨🇳@WangCai2/?ed=2048#t.me/entryNET/config=1837962806211034
-vless://fac1c66f-3ba3-4d24-8ae8-d6049d949898@51.38.64.196:443?security=reality&encryption=none&pbk=guQofANvA8Ia_uVwhRMriU09zudRTM_k7Nr498g161s&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=a31a8d04622560#✅@v2ray_configs_pools
-vless://fac5bd45-2183-40d0-981a-d22d2166fd4f@104.16.12.126:443?security=tls&sni=dalinceshi.icu&type=ws&host=dalinceshi.icu&path=/?ed=2560&fp=chrome#t.me/entryNET/config=1837968984006192
-vless://fc26a536-91b7-4c25-8a39-977847eb82da@Status:8888?security=none&type=tcp&headerType=http&path=/&host=google.com#✅@v2ray_configs_pools
-vless://fc26a536-91b7-4c25-8a39-977847eb82da@fdsaf.mxspeed8-3.ir:6311?security=none&type=tcp&headerType=http&path=/&host=s3.amazonaws.com#✅@v2ray_configs_pools
