@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
+vless://cc81c35e-48af-40bf-8b78-d72a04d3a682@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=1750158741.tencentapp.cn&path=%2F&host=1750158741.tencentapp.cn#%F0%9F%8F%81%E9%80%9A%E7%9F%A5%EF%BC%9A%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E8%AF%B7%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
+
 vless://cc81c35e-48af-40bf-8b78-d72a04d3a682@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=hk1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=hk1.loopycloudcfjiasucdn.pp.ua#%E9%A6%99%E6%B8%AF%F0%9F%87%AD%F0%9F%87%B0-%E4%B9%9D%E9%BE%99-CDN+%7C+1x
 
 vless://cc81c35e-48af-40bf-8b78-d72a04d3a682@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=nl1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=nl1.loopycloudcfjiasucdn.pp.ua#%E8%8D%B7%E5%85%B0%F0%9F%87%B3%F0%9F%87%B1-%E9%98%BF%E5%A7%86-CDN+%7C+1x
@@ -501,5 +503,3 @@ trojan://telegram-id-directvpn@18.156.18.83:22223?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@18.157.66.125:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@18.192.190.191:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@18.192.94.201:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-directvpn@18.197.77.20:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-directvpn@3.65.114.120:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
