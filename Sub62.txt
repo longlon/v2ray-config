@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://357b1bba-6400-4944-baff-1b933311ff28@104.21.88.226:443?sni=XxxxxXXXXXXxXf.wwW890604.Dpdns.orG#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
+trojan://3c4e10af98c30972@60.249.35.37:443?sni=TG.WangCai2#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD2
+trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?sni=rc8.freeguard.org#US3%20136.9KB%2Fs
 trojan://0cc6b4268dea0ba8@118.163.200.42:443?sni=TG.WangCai2#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD3
 trojan://fa050497-fc2a-45ee-89c0-96670c4ecb65@172.67.145.200:443?sni=Rrr4.8906004.xYZ#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5
 trojan://0cc6b4268dea0ba8@60.249.35.2:443?sni=TG.WangCai2#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD4
@@ -15,6 +18,7 @@ trojan://0cc6b4268dea0ba8@134.195.101.83:443?sni=TG.WangCai2#%F0%9F%87%BA%F0%9F%
 trojan://tg-fq521free@45.67.215.95:443?type=ws&sni=torjan.xn--xhq44j.eu.org&path=/&host=torjan.xn--xhq44j.eu.org#%E6%9C%AA%E7%9F%A511
 trojan://cdec9d57-661d-456a-bbf2-b4c38e9c6711@104.21.30.37:443?sni=DDdcVfbGHy7.444682.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD7
 trojan://def14a51-e0d9-11ec-8429-f23c91cfbbc9@4560c642-swin40-tjuq6l-wf62.cu.plebai.net:15229?sni=4560c642-swin40-tjuq6l-wf62.cu.plebai.net#%E6%9C%AA%E7%9F%A512
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTMiLCJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwicG9ydCI6IjQzMyIsImlkIjoiRnJlZSIsImFpZCI6IjAiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxMyJ9
 trojan://7248e825-887c-48b9-83bc-c26bc6392bf8@172.67.214.21:443?sni=xXcdvFgt.191268.XYz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:53248?sni=www.baidu.com#%E6%9C%AA%E7%9F%A515
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:4447?sni=www.baidu.com#%E6%9C%AA%E7%9F%A516
@@ -499,7 +503,3 @@ vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.19.144.212:443?type=ws&security
 vless://cbabaac-abac-acba-dcab-abcacbbacacb@127.0.0.1:1080?security=tls&type=tcp#Telegram:@config_proxy 🔥
 vless://d10fae09-dd50-4067-90cf-f3e09eb9c206@89.47.202.38:80/?security=none&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy 🔥
 vless://d10fae09-dd50-4067-90cf-f3e09eb9c206@89.47.202.38:80?security=none&encryption=none&headerType=none&type=tcp#t.me/entryNET/config=1837957208929122
-vless://d84b9243-9f80-4cbd-a8d1-90fec7160911@151.101.158.204:80?security=none&sni=zmaoz.faculty.ucdavis.edu.&type=ws&host=fatmelo.com&path=/olem/ws?ed=64@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi&fp=chrome&alpn=h2,http/1.1#Telegram:@config_proxy 🔥
-vless://daa32d4b-92ce-4901-9fad-28ead37d324b@2.188.227.134:2060?type=tcp&security=none#Telegram:@config_proxy 🔥
-vless://dbc5c95a-6285-4454-9a0f-86433da1e9ad@193.107.48.76:26575?security=none&type=tcp&host=zula.ir&headerType=http#Telegram:@config_proxy 🔥
-vless://dc316ea1-2449-4217-a6fb-12db67a9177d@151.101.130.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v01.drlimit.net#Telegram:@config_proxy 🔥
