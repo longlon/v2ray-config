@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#Telegram+@vmessorg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#🌐𝚙𝚒𝚗𝚐: 203.0 𝚖𝚜 - 𝚃𝚎𝚕: @𝙵𝚁𝙴𝙴𝚅𝟸𝚁𝙽𝙶
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@172.187.109.127:443#@.TEHRANARGO
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@172.187.109.127:443#@Daily_Configs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@172.187.109.127:443#@Selinc
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@172.187.109.127:443#@icv2ray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@172.187.109.127:443#@varn_Net
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@172.187.109.127:443#@vipV2rayNGnp
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@74.177.199.135:443#@Selinc
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@74.177.199.135:443#@V2RAYROZ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@74.177.199.135:443#All🇩🇪@Rk_VPS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@74.177.199.135:443#🛟
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#@Capoit
@@ -285,10 +275,14 @@ ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.440:443#@Filter_breaker | Unit
 ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.450:443#@Filter_breaker | United States
 ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.470:443#@Filter_breaker | United States
 ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.480:443#@Filter_breaker | United States
+ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.480:443#@Filter_breaker_104.21.25.480
+ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.490:443#@Filter_breaker | United States
 ss://chacha20-ietf-poly1305:shadowsocks@185.146.173.2250:443#@Filter_breaker | Germany
 ss://chacha20-ietf-poly1305:shadowsocks@185.146.173.2350:443#@Filter_breaker | Germany
 ss://chacha20-ietf-poly1305:shadowsocks@185.146.173.2650:443#@Filter_breaker | Germany
 ss://chacha20-ietf-poly1305:shadowsocks@185.146.173.3050:443#@Filter_breaker | Germany
+ss://chacha20-ietf-poly1305:shadowsocks@185.146.173.3050:443#@Filter_breaker_185.146.173.3050
+ss://chacha20-ietf-poly1305:shadowsocks@185.146.173.3100:443#@Filter_breaker | Germany
 ss://chacha20-ietf-poly1305:shadowsocks@203.23.128.420:443#@Filter_breaker | Hong Kong
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@193.108.119.230:8080#t.me/entryNET/config=1838046169028155
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@23.251.121.242:8080#t.me/entryNET/config=1838045607253857
@@ -382,7 +376,10 @@ trojan://m7n8o9p0-5678-9abc-def0-1234567890ab@104.21.25.450:443?type=ws&host=tro
 trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&headerType=none&type=tcp&sni=x1-czech-aruba-v2.devefun.org#@V2ray1_Ng
 trojan://n8o9p0q1-9012-3bcd-4abc-5678abcdef56@104.21.25.470:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
 trojan://o9p0q1r2-3456-7bcd-8abc-9012abcdef56@104.21.25.480:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
+trojan://o9p0q1r2-3456-7bcd-8abc-9012abcdef56@104.21.25.480:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker_104.21.25.480
 trojan://ouo@18.162.246.4:18443?allowInsecure=0&sni=tr.koiok.us.kg&ws=1&wspath=/?ed=2560#t.me/entryNET/config=1838047495203295
+trojan://q1r2s3t4-3456-7bcd-8abc-9012abcdef12@104.21.25.490:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
+trojan://r2s3t4u5-5678-9abc-def0-1234567890ab@185.146.173.3150:443?type=ws&host=trojan.de.vpnfree.org&path=/trojan#@Filter_breaker | Germany
 trojan://rhSacvSrrW@join-dailyconfigs.resurrection-time.sbs:56807?mode=gun&security=reality&pbk=ZDqMqclXIFjaEvYbYCElqQXLgglpsP06zKTpHrq2EQ4&fp=chrome&spx=/&type=grpc&serviceName=DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=2060&sni=fafait.net&sid=fe3a2e89#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
 trojan://rhSacvSrrW@join-dailyconfigs.resurrection-time.sbs:56807?mode=gun&security=reality&pbk=ZDqMqclXIFjaEvYbYCElqQXLgglpsP06zKTpHrq2EQ4&fp=chrome&spx=/&type=grpc&serviceName=DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=2060&sni=fafait.net&sid=fe3a2e89#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
 trojan://telegram-id-directvpn@18.170.94.221:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#t.me/entryNET/config=1838042461231469
@@ -463,6 +460,7 @@ vless://029f4737-0bb2-477e-8c9f-2ffb7933e284@royal26.starlinkz.cloud:31878?secur
 vless://02c8ad61-615d-4b06-9855-e953b0629d89@www.speedtest.net:2082?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws#@spikevpn👈 جوین بده💯⚡
 vless://02d3ce27-70f5-4d26-ae35-6e5840d5c1a0@172.245.232.117:443?security=reality&encryption=none&pbk=dl8h7j1NKxBL_p2leIy9SWKznB0VG5h8ftsb0hlLICk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=2404#آمریکا 🇺🇸 @V2xay
 vless://0334916a-95e8-4a91-995b-e60c26c9dfe3@www.speedtest.net:8443?security=tls&encryption=none&host=de4vipys.sevenploos.com&fp=chrome&type=ws&sni=de4vipys.sevenploos.com#28/11
+vless://03631162-452d-4c21-b0cc-fa652b0895a4@151.101.0.155:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048&security=&encryption=none&host=Zedmodeonjoinyour-name.global.ssl.fastly.net&type=xhttp#🇩🇪 Telegram @SRCVPN
 vless://038416de-dc40-4dc0-8c8e-10de534c7cc0@185.133.35.92:2052?security=none&encryption=none&host=xsvpn-ch.90908585.ir&type=ws#☁️ @server_free2 ☁️
 vless://038416de-dc40-4dc0-8c8e-10de534c7cc0@8.47.69.4:2052?security=none&encryption=none&host=xsvpn-ch.90908585.ir&type=ws#☁️ @server_free2 ☁️
 vless://04327cef-1084-431a-d595-cfcf9593cbc3@151.101.3.8:80?mode=auto&path=/&security=none&encryption=none&host=qeshmserverfree.global.ssl.fastly.net&type=xhttp#@warp_city
@@ -503,3 +501,5 @@ vless://05e6ff19-7c2f-42ce-9e66-f45bec9e8b0f@104.21.72.109:443?path=/Telegram:@C
 vless://05e6ff19-7c2f-42ce-9e66-f45bec9e8b0f@104.21.72.109:443?path=/Telegram:@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=pamchall.com&fp=chrome&type=ws&sni=PamcHalL.coM#Telegram@ConfingV2RaayNG
 vless://05e6ff19-7c2f-42ce-9e66-f45bec9e8b0f@104.26.6.89:443?path=/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=pamchall.com&fp=chrome&type=ws&sni=PamcHalL.coM#@icv2ray
 vless://05e6ff19-7c2f-42ce-9e66-f45bec9e8b0f@104.26.6.89:80?path=/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2?ed=2560&security=none&encryption=none&host=paMchall.cOm.&type=ws#@icv2ray
+vless://05e6ff19-7c2f-42ce-9e66-f45bec9e8b0f@172.67.181.173:80?path=/ELiV2-RAY---ELiV2-RAY--ELiV2-RAY---ELiV2-RAY--ELiV2-RAY--ELiV2-RAY?ed=2560&security=&alpn=h2,http/1.1&encryption=none&host=paMchall.cOm.&fp=chrome&type=ws&sni=PamcHalL.coM#test
+vless://05e6ff19-7c2f-42ce-9e66-f45bec9e8b0f@172.67.181.173:80?path=/ELiV2-RAY---ELiV2-RAY--ELiV2-RAY---ELiV2-RAY--ELiV2-RAY--ELiV2-RAY?ed=2560&security=none&alpn=h2,http/1.1&encryption=none&host=paMchall.cOm.&fp=chrome&type=ws&sni=PamcHalL.coM#🇫🇮ws+@ELiV2ray
