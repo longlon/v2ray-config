@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=%2Fassets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#%F0%9F%87%A6%F0%9F%87%B2%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
+vless://8c658fd7-3253-4254-8366-ed2282360cac@2.144.5.61:17432?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#iSeqaro
+vless://01e3cb69-c63c-49d4-b652-cc98ae4a6ea5@85.133.238.84:9089?path=%2F&security=none&encryption=none&host=zula.ir&type=ws#iSeqaro
+vless://ef9b115b-3f25-43fe-ae7f-257759442edd@91.99.229.232:50222?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
+vless://fdc0229d-2037-48c4-94d3-496e67cce5d8@85.234.65.120:443?security=reality&encryption=none&pbk=307pppp6s7XwguGbsjY3xaJPIubgj_D8zNJT5SmtsVA&headerType=none&fp=chrome&type=tcp&sni=github.com&sid=f90c#%F0%9F%87%AC%F0%9F%87%B1%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 vless://54b4c039-7be6-448f-b704-820251b079db@5.75.197.120:2025?mode=gun&security=reality&encryption=none&pbk=AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram%20%3A%20%40PouRia_Cheat&sni=www.cloudflare.com&sid=8d9c20be72b4#%F0%9F%87%BA%F0%9F%87%B8%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%F0%9F%87%AB%F0%9F%87%B7%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?path=%2F8WuhXm4QjK0L68Uf%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=gghdfa.pages.dev&fp=randomized&type=ws&sni=gGHDFa.pAgeS.Dev#%F0%9F%87%AC%F0%9F%87%B8%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
@@ -498,8 +503,3 @@ hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flymg.flylink.cyou:35210/?insec
 
 hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flyrb.flylink.cyou:35300/?insecure=1&sni=flyxg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E6%97%A5%E6%9C%AC
 
-hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flyxg.flylink.cyou:35290/?insecure=1&sni=flyxg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E9%A6%99%E6%B8%AF1
-
-hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flyxghy.flylink.cyou:35260/?insecure=1&sni=flyxghy.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E9%A6%99%E6%B8%AF
-
-hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flyyg.flylink.cyou:35240/?insecure=1&sni=flyyg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E8%8B%B1%E5%9B%BD
