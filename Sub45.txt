@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://65015e02-9cd3-4925-9bf9-61ded9c561e7@185.29.223.151:2083?type=tcp&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40ansel_team%20%7C%201
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLNUg3QVRTaHVzSGhsaDdUYnM2QU5L@213.111.142.59:8443#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20ss%20%7C%20%40argo_vpn1%20%7C%2012
 vless://52200463-3f3e-4751-8887-b80b70212af7@vrp2.vidasuniversity.ir:8443?security=none&encryption=none&host=google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40argotaz%20%7C%200
 vmess://eyJhZGQiOiJhc2lhLmFydHVubmVsNTcuaG9zdCIsImFpZCI6IjAiLCJob3N0IjoiYXNpYS5hcnR1bm5lbDU3Lmhvc3QiLCJpZCI6IjY1ZTQ0NTAxLWRlZmQtNDYwOS1hNGUzLTcwMjhkYzQxN2I1MCIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MtbnRscyIsInBvcnQiOiI4MCIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJcdTI3NTQgWFggfCBcdWQ4M2RcdWRkMzQgfCB2bWVzcyB8IEBhcm1vZGNoYW5uZWwgfCA2MiJ9
 vless://6db4a91c-838d-419a-af83-bc5bd211ffc6@Artemis.sbs:80?encryption=none&headerType=none&type=ws&path=%2F%40Artemis_vpn&host=free-02.artemis-03.sbs#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40artemis_vpn_free%20%7C%201
@@ -503,3 +501,5 @@ vless://ea286109-d20f-415e-849e-4af20ab04b65@147135001195.sec22org.com:443?secur
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080#%3E%3E%40FreakConfig%3A%3ANL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#%3E%3E%40V2rayNG3%3A%3ANL
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AFR
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147135004002.sec20org.com:443?security=tls&encryption=none&headerType=none&type=tcp#%3E%3E%40V2rayNG3%3A%3AUS
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@104.17.147.22:2087?path=%2F&security=tls&encryption=none&host=smart.v2plusify.org&fp=chrome&type=ws&sni=smart.v2plusify.org#%3E%3E%40outlinev2rayng%3A%3ADE
