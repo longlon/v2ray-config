@@ -3,26 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://telegram-id-directvpn@51.44.36.244:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-directvpn@51.44.58.153:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-directvpn@51.44.89.249:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-directvpn@52.47.136.181:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-directvpn@52.47.142.216:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-directvpn@52.47.166.182:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-directvpn@52.47.64.164:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-directvpn@52.47.68.103:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-directvpn@52.58.208.200:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-directvpn@63.176.181.172:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-directvpn@63.176.8.122:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-directvpn@63.178.209.45:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-directvpn@63.179.32.181:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-directvpn@63.179.35.160:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-directvpn@63.180.0.166:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://trojan@104.18.13.229:8443?security=tls&sni=pangpi.pages.dev&fp=chrome&type=ws&host=pangpi.pages.dev&path=/#Telegram : @Ezaccess1 Server : USA
-vless://007d3ef7-b3cb-4681-917e-c5edeebdbb6c@94.183.158.12:8083?path=/&security=&encryption=none&type=ws#Telegram:@config_proxy 🔥
-vless://01970283-51b9-4ad4-96ef-9dfc8ee3dd74@162.159.136.234:2053?security=tls&sni=sub1.ailreza.org.tr&type=grpc&serviceName=2053vless&fp=chrome#Telegram:@config_proxy 🔥
-vless://01970283-51b9-4ad4-96ef-9dfc8ee3dd74@194.76.18.253:2087?security=tls&sni=qauuf2.telzirrr.com.tr&type=grpc&serviceName=2087vless&fp=chrome#Telegram:@config_proxy 🔥
-vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweeT-coMBInATIOn.SeOtooLsFORyOU.co.Uk:80?path=/&security=none&encryption=none&type=ws#Telegram:@config_proxy 🔥
 vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweeT-coMBInATIOn.SeOtooLsFORyOU.co.Uk:80?path=/&security=none&encryption=none&type=ws#t.me/entryNET/config=1838019307261450
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.60.127.98:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#Telegram:@config_proxy 🔥
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.157.34.105:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#Telegram:@config_proxy 🔥
@@ -503,3 +483,23 @@ vless://446ab78d-c706-5941-987f-7bec8e2e6d30@pl-1-ssm.medicaldream.ir:443?securi
 vless://48cae1f8-87f9-4553-aa68-ac5c58175c3d@es-1-rvp.medicaldream.ir:443?security=tls&sni=es-1-rvp.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=es-1-rvp.medicaldream.ir&encryption=none#Rayan%20-%20RVP%20-%20ES%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
 
+
+
+
+
+
+
+
+
+
+vless://50be692b-06ba-5536-a993-556df69b96ab@lu-1-ssm.medicaldream.ir:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=lu-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20LU%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
+
+vless://50be692b-06ba-5536-a993-556df69b96ab@www.speedtest.net:443?security=tls&sni=lu-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=lu-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20LU%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
+
+vless://56ed7930-c400-5c8b-8eba-e888a329204b@ca-1-ssm.medicaldream.ir:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ca-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20CA%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
+
+
+vless://57511480-2d8d-58db-bfff-7267260383f2@hu-1-ssm.medicaldream.ir:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=hu-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20HU%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
+
+
+vless://5ca25681-6e38-4598-a7f6-9d6c69494009@nl-1-rvp.medicaldream.ir:443?security=tls&sni=nl-1-rvp.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=nl-1-rvp.medicaldream.ir&encryption=none#Rayan%20-%20RVP%20-%20NL%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
