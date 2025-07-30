@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://telegram-id-privatevpns@63.179.35.160:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40privatevpns%20%7C%2017
+vless://27d32caf-84d0-45b1-aedf-cf45b4d25ec9@dl.dataserverplus.top:2082?path=%2F&security=&encryption=none&host=refersion.com&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40proxyandvpnofficial1%20%7C%2014
 vless://28ec01eb-1683-4e4e-a766-4d6123350942@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40v2pedia%20%7C%2021
 vmess://eyJ2IjoyLCJhZGQiOiJjYzJkYXNoLjg5MDYwMDA0Lnh5eiIsInBvcnQiOjIwOTYsImlkIjoiMmZjMzc3MTMtMzAxNy00OTdlLWZmMmQtOTY1ZjgyNmExOWEzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiY2MyZGFzaC44OTA2MDAwNC54eXoiLCJwYXRoIjoiXC8iLCJ0bHMiOnRydWUsInNuaSI6IiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVTIHwgXHVkODNkXHVkZmUyIHwgdm1lc3MgfCBAdjJyYXlfZnJlZV9jb25mIHwgMTkifQ
 vless://4a8c5dde-908b-4a8f-84ed-669fbce496c9@nl-one.vipshopiran.ir:2299?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40v2raying%20%7C%2017
@@ -501,5 +503,3 @@ vless://156ffa16-9b2f-499b-aa5b-52d95c7a15de@91.247.171.93:27817?security=none&t
 vless://17034eef-9472-45cc-bca5-a71f90e36244@104.21.112.1:8080?path=/@@v2ray_configs_pools?ed=2480&security=none&encryption=none&host=join-to-unlimiteddev.sabadyt.ir&type=ws#✅@v2ray_configs_pools
 vless://17034eef-9472-45cc-bca5-a71f90e36244@104.21.112.1:8080?path=/@v2ray_configs_pools----@v2ray_configs_pools?ed=2480&security=none&encryption=none&host=join-to-v2ray_configs_pools.sabadyt.ir&type=ws#✅@v2ray_configs_pools
 vless://17034eef-9472-45cc-bca5-a71f90e36244@104.21.112.1:8080?security=&type=ws&path=/@v2ray_configs_pools----@v2ray_configs_pools----@v2ray_configs_pools?ed=2480&host=join-to-unlimiteddev.sabadyt.ir&encryption=none#✅@v2ray_configs_pools
-vless://17034eef-9472-45cc-bca5-a71f90e36244@192.0.54.219:8080?path=/@v2ray_configs_pools----@v2ray_configs_pools?ed=2480&security=none&encryption=none&host=join-to-unlimiteddev.sabadyt.ir&type=ws#✅@v2ray_configs_pools
-vless://1aae9657-c653-495d-e8ad-8ca52916cea8@8.219.233.201:443?security=tls&sni=de.bolagskontaktstockholm.se&type=ws&host=de.bolagskontaktstockholm.se&path=/ws#Telegram:@config_proxy 🔥
