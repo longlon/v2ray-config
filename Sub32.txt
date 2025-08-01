@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://b7a8bf9d-0a31-438d-c8c5-c6e819cae0af@172.235.165.34:15738?type=tcp&path=%2F&headerType=http&security=none#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayprotocol%20%5B9%5D
+vless://8a2e7f51-54c3-48e5-8da6-ca71f9eb2c05@185.209.21.36:40887?encryption=none&security=none&type=tcp&headerType=http&host=tgju.org#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayprotocol%20%5B10%5D
 vless://5c105446-0e06-48ad-e3d0-6ccc3f97a574@185.209.21.36:40887?type=tcp&path=%2F&host=tgju.org&headerType=http&security=none#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayprotocol%20%5B11%5D
 vless://5d71b518-9f52-414a-abf2-b806684233be@157.180.82.171:2087?security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pic2.zarashop0.ir#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2raytg%20%5B73%5D
 vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f9@[2a06:98c1:3120::1]:443?path=%2FPSZPkYG71g6bn84o%2FMTQxLjE0OC4yMDMuNg%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=myphotomoments.ir&fp=randomized&type=ws&sni=MypHOtomoments.iR#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2raytg%20%5B74%5D
@@ -500,6 +502,4 @@ vless://82db5ebc-7f11-5009-831b-9e9c5b5a22af@185.255.178.188:443?security=tls&sn
 vless://82db5ebc-7f11-5009-831b-9e9c5b5a22af@www.speedtest.net:443?security=tls&sni=ee-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ee-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20EE%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 
 vless://914ed56d-08ce-442f-8f03-3778b5d57685@185.58.115.104:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.58.115.104&encryption=none#Rayan%20-%20CBT%20-%20SE%20-%20I%20-%20%E2%9A%AB%EF%B8%8F%20t.me/Rayan_Config
-
-vless://914ed56d-08ce-442f-8f03-3778b5d57685@www.speedtest.net:2087?security=tls&sni=se-1-cbt.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=se-1-cbt.medicaldream.ir&encryption=none#Rayan%20-%20CBT%20-%20SE%20-%20I%20-%20%E2%9A%BD%EF%B8%8F%20t.me/Rayan_Config
 
