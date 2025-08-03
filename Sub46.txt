@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://u5v6w7x8-9012-3bcd-4abc-5678abcdef90@45.76.123.410:8443?security=tls&type=ws&path=/vless#@Filter_breaker | Singapore
 vless://v2NeT_IraN@www.speedtest.net:8080?path=/V2NETIRAN?ed=2048&security=none&encryption=none&host=V2NET-IRAN-NL-V2ray.lars1.nl&type=ws#🆔@V2NET_IRAN
 vless://v2w3x4y5-6a7b-4c8d-9e0f-1a2b3c4d5e6f@185.231.205.249:8880/?type=grpc&encryption=none&flow=#@Filter_breaker | Netherlands
 vless://w1x2y3z4-5678-9abc-def0-1234567890ab@203.23.128.370:443?security=tls&type=ws&path=/vless#@Filter_breaker | Hong Kong
@@ -502,4 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOVGRrWg==@www.outline.network.ak1915.fr86788
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40outlinev2rayng%20%7C%2014
 trojan://telegram-id-privatevpns@13.37.64.205:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40privatevpns%20%7C%2015
 vmess://eyJhZGQiOiIxODUuMTQzLjIzMy4xMjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFpcjUuYXJzaS1tYW1hZC5zYnMiLCJpZCI6ImQ3ZjliZDg0LTNkMWQtNGI0YS1kMmI4LTVhZThiNDJlNzZhYSIsIm5ldCI6IndzIiwicGF0aCI6IlwvQXJzYWxhblRhdUJvdCIsInBvcnQiOiIyMDk1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IElSIHwgXHVkODNkXHVkZDM0IHwgdm1lc3MgfCBAcHJvX2NoYW5lZWwgfCAxIn0
-vmess://eyJhZGQiOiJjaGFubmVsLnYxLWFtaXJvbmV0d29yay5zaXRlIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJqb2luLnYxLWFtaXJvbmV0d29yay5zaXRlIiwiaWQiOiI1ZjFiYWNjMy1iZTY3LTQ0ODAtOGYzMi03YWJkMGUyNTg5NGEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLzIwMzM0IiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJqb2luLnYxLWFtaXJvbmV0d29yay5zaXRlIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdTI3NTQgWFggfCBcdWQ4M2RcdWRmZTIgfCB2bWVzcyB8IEBwcm9veHlrIHwgNCJ9
