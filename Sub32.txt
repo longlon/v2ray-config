@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vmess://eyJhZGQiOiIxODUuMjE5LjIyMS4xMjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjVjOTQwMzFiLTQ4YzgtNDI3Ni1kOGI1LTgwZmEzZTg5ZGEzOCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjIyNzkzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6Ilx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSBERSB8IFx1ZDgzZFx1ZGQxMiBWTUVTUyB8IEB2MnJheW5nY2hhbm5lbGxsIFs2XSJ9
+trojan://telegram-id-directvpn@15.222.9.61:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayngconfig%20%5B44%5D
+trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayngconfig%20%5B45%5D
+trojan://79c935c0-27dc-4383-b307-dcac1b8e5509@104.149.155.13:443?security=tls&sni=vzwzasc.cn&type=tcp&headerType=none&host=vzwzasc.cn#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayngconfig%20%5B46%5D
+vless://b087edf1-4da7-4379-9485-352f483be71f@172.66.40.99:443?path=%2FTelegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray%3Fed%3D2048&security=tls&encryption=none&host=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net&type=ws&sni=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayngconfiig%20%5B11%5D
+vmess://eyJhZGQiOiJjdXN0b21lcnMudGVsZS1zaG9wLXRvby5zdHVkaW8iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZGQxZjVlMzYtZmIwNS00NWZkLWI5MGQtMzhmYjNiZWY1ZTU5IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzMzIwMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgREUgfCBcdWQ4M2RcdWRkMTMgVk1FU1MgfCBAdjJyYXluZ2NvbmZpaWcgWzEyXSJ9
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2Fproxyip&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayngconfiig%20%5B13%5D
 vless://4fac0e66-13a0-443f-fd7a-8c0b027e4632@Join.V2RayTz.sbs:2083?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray&sni=fe.MsV2ray.cfd#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayngconfings%20%5B16%5D
 vless://738c5e99-7faa-4893-81a8-4d6655adde47@5.75.215.191:443?mode=gun&security=reality&encryption=none&pbk=e2VGvHwmGudsNxadrgFCv3ENvRLyD_8x9csN6tTMGns&fp=firefox&spx=%2F&type=grpc&serviceName=%40Digiv2ray&sni=www.speedtest.net&sid=ab7b40b2#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayngconfings%20%5B17%5D
@@ -497,9 +503,3 @@ vless://1f054e40-a9bc-4cd3-b6d1-4e0dc3470ed6@104.16.14.211:8080?security=&fp=chr
 vless://1f054e40-a9bc-4cd3-b6d1-4e0dc3470ed6@104.18.36.234:8080?security=&fp=chrome&type=httpupgrade&path=/22496/nextlife&host=cdn4.farsiblockchain.com&encryption=none
 
 vless://1f054e40-a9bc-4cd3-b6d1-4e0dc3470ed6@45.131.4.146:8080?security=&fp=chrome&type=httpupgrade&path=/22496/nextlife&host=cdn4.farsiblockchain.com&encryption=none
-
-vless://1f054e40-a9bc-4cd3-b6d1-4e0dc3470ed6@94.140.0.174:8080?security=&fp=chrome&type=httpupgrade&path=/22496/nextlife&host=cfhdnl.clockdeny2.eu&encryption=none
-
-vless://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&sni=1lpxy6haqm-451516713-direct.zamam.co&alpn=h2,http/1.1&fp=randomized&type=tcp&flow=xtls-rprx-vision&encryption=none
-
-vless://238b76b1-2530-424d-8936-1b1852088b37@139.59.75.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=139.59.75.181&encryption=none#Rayan%20-%20RVP%20-%20IN%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
