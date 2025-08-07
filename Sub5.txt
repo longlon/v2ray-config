@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#@V2ray_cartel
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#🛡️ @FreakConfig
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#All@configfu-5
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443?type=tcp#@configMs
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#🇬🇧𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#🇺🇸@ai_duet | @v2rayngsupbot
@@ -209,7 +206,6 @@ trojan://NISHIKUITAN111@104.20.4.250:443?allowInsecure=1#t.me/entryNET/config=18
 trojan://NISHIKUITAN111@104.20.8.252:443?allowInsecure=1#t.me/entryNET/config=1839760905693849
 trojan://NISHIKUITAN111@104.23.120.109:443?allowInsecure=1#t.me/entryNET/config=1839756755141028
 trojan://NISHIKUITAN111@104.24.60.239:443?allowInsecure=1#t.me/entryNET/config=1839753417790208
-trojan://NISHIKUITAN111@104.25.221.170:443?allowInsecure=1#t.me/entryNET/config=1839749579592637
 trojan://NISHIKUITAN111@141.101.113.229:443?allowInsecure=1#t.me/entryNET/config=1839768517149468
 trojan://NISHIKUITAN111@159.246.55.202:443?allowInsecure=1#t.me/entryNET/config=1839768079155550
 trojan://NISHIKUITAN111@172.64.205.164:443?allowInsecure=1#t.me/entryNET/config=1839771854568476
@@ -218,7 +214,6 @@ trojan://NISHIKUITAN111@172.67.199.141:443?allowInsecure=1#t.me/entryNET/config=
 trojan://NISHIKUITAN111@172.67.231.25:443?allowInsecure=1#t.me/entryNET/config=1839771914319789
 trojan://NISHIKUITAN111@172.67.234.222:443?allowInsecure=1#t.me/entryNET/config=1839775629768692
 trojan://NISHIKUITAN111@172.67.238.207:443?allowInsecure=1#t.me/entryNET/config=1839753356161030
-trojan://NISHIKUITAN111@172.67.244.88:443?allowInsecure=1#t.me/entryNET/config=1839749206513912
 trojan://NISHIKUITAN111@172.67.251.112:443?allowInsecure=1#t.me/entryNET/config=1839757192376395
 trojan://NISHIKUITAN111@173.245.49.59:443?allowInsecure=1#t.me/entryNET/config=1839760529390917
 trojan://NISHIKUITAN111@195.85.23.232:443?allowInsecure=1#t.me/entryNET/config=1839779404718848
@@ -503,3 +498,8 @@ vless://0134428a-02d8-4f94-8221-a1e858552212@151.101.3.8:80?mode=auto&path=/@Xpn
 vless://0134428a-02d8-4f94-8221-a1e858552212@151.101.3.8:80?mode=auto&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=&encryption=none&host=Mahsazxshop.org&type=xhttp#@mehrosaboran
 vless://0134428a-02d8-4f94-8221-a1e858552212@151.101.3.8:80?mode=auto&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=Mahsazxshop.org&type=xhttp#@icv2ray
 vless://0134428a-02d8-4f94-8221-a1e858552212@151.101.3.8:80?mode=auto&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=Mahsazxshop.org&type=xhttp#@mehrosaboran
+vless://0134428a-02d8-4f94-8221-a1e858552212@151.101.3.8:80?type=xhttp&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#XpnTeam🇳🇱-k9f4ny3x7
+vless://014b2b2e-3997-42cc-ae85-ce538d49d2a1@128.199.53.200:41661?mode=gun&security=reality&encryption=none&authority=&pbk=0cb43R44cxfMd9vglX_9sOq4AALu5Kq-BKT_ZTWe-GQ&fp=chrome&type=grpc&serviceName=&sni=osxapps.itunes.apple.com&sid=2519#@HIBYEVPNN
+vless://014b2b2e-3997-42cc-ae85-ce538d49d2a1@128.199.53.200:41661?mode=gun&security=reality&encryption=none&pbk=0cb43R44cxfMd9vglX_9sOq4AALu5Kq-BKT_ZTWe-GQ&fp=chrome&type=grpc&sni=osxapps.itunes.apple.com&sid=2519#@meli_proxyy
+vless://014b2b2e-3997-42cc-ae85-ce538d49d2a1@128.199.53.200:41661?mode=gun&security=reality&encryption=none&pbk=0cb43R44cxfMd9vglX_9sOq4AALu5Kq-BKT_ZTWe-GQ&fp=chrome&type=grpc&sni=osxapps.itunes.apple.com&sid=2519#ALL@azadiiivpn¹¹🎀
+vless://014b2b2e-3997-42cc-ae85-ce538d49d2a1@128.199.53.200:41661?mode=gun&security=reality&encryption=none&pbk=0cb43R44cxfMd9vglX_9sOq4AALu5Kq-BKT_ZTWe-GQ&fp=chrome&type=grpc&sni=osxapps.itunes.apple.com&sid=2519#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
