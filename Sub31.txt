@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2Fproxyip&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40ultrasurf_12%20%5B1%5D
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40ultrasurf_12%20%5B3%5D
+vless://51e823ea-da11-43e7-89b0-32a729f14551@185.239.105.218:49098?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40uvpnir%20%5B2%5D
+vless://5d5c5ec2-d3fb-460d-bd07-23ba76e434a7@194.120.24.125:10431?type=tcp&path=%2F&host=speedtest.net&headerType=http&security=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40uvpnir%20%5B3%5D
 vless://3a999fcf-bbb3-4f47-aeb5-cf2e03eb553c@194.120.24.125:21689?type=grpc&serviceName=&authority=&security=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40uvpnir%20%5B4%5D
 vmess://eyJ2IjoiMiIsImFkZCI6IjUuMTgwLjMwLjg1IiwicG9ydCI6IjE4NTk4IiwiaWQiOiJiZjI2ZjJmYi05ZDJhLTQ5YjYtODUyNy04MmU4YWJhM2E5YTkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiJcLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsInBzIjoiXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IEdCIHwgXHVkODNkXHVkZDEzIFZNRVNTIHwgQHYyMjJyYXkgWzhdIn0
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?encryption=none&security=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v222ray%20%5B9%5D
@@ -498,8 +502,4 @@ vless://0132740f-c0d4-5f8b-b283-77f3fd604c57@194.147.34.72:443?security=tls&sni=
 vless://06db78c4-fce2-406b-8d40-16f8c644f0ea@gstatic-edge-gw01.cyberscaler.net:2087?security=reality&sni=fonts.gstatic.com&fp=safari&pbk=Zi9WQ3IxyvROG0dBrUVIPoi-3N2qoFQT_pfijQU7iDE&sid=567e&spx=/cdn-assets-v2&type=tcp&encryption=none
 
 vless://0d9a6872-cc1b-4a1d-97c0-b26cfb0a2fab@fonts-edge.cyberscaler.net:3001?security=reality&sni=fonts.googleapis.com&fp=chrome&pbk=woGECOY0E1cD6wr7zW0ZZPzzCCgF_N0iDMFzfzdfowg&sid=b7bfcb5873c93a&spx=/cdn-assets-v8&type=tcp&encryption=none
-
-vless://11402c34-7f90-485f-a218-ade69f314f49@store-static-portal.cyberscaler.net:10082?security=&fp=chrome&type=tcp&path=/&headerType=http&host=cdnjs.cloudflare.com&encryption=none
-
-vless://18da5a86-1b44-4a88-bb2b-6845d75a74a3@51.195.202.129:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=51.195.202.129&encryption=none#Rayan%20-%20RVP%20-%20UK%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
