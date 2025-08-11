@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vmess://eyJhZGQiOiIxODUuMjE5LjIyMC4yNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIsImlkIjoiMTgxYTBkZDEtNzk0Zi00MGYyLWVkODktNjc4NTFkNGIwMjYwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiMzA4MjUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiIiLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIERFIHwgXHVkODNkXHVkZDEyIFZNRVNTIHwgQHYycmF5bmdjaGFubmVsbGwgWzRdIn0
-vmess://eyJhZGQiOiIxODUuMjE5LjIyMS4xMjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6ImE3YTRkZjAyLTU1ZmYtNDlkMC1hMTNjLWQ3MWY3ZDA1NjA2ZSIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjQwMzQ4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6Ilx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSBERSB8IFx1ZDgzZFx1ZGQxMiBWTUVTUyB8IEB2MnJheW5nY2hhbm5lbGxsIFs1XSJ9
-vmess://eyJhZGQiOiIxODUuMjE5LjIyMS4xMjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjVjOTQwMzFiLTQ4YzgtNDI3Ni1kOGI1LTgwZmEzZTg5ZGEzOCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjIyNzkzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6Ilx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSBERSB8IFx1ZDgzZFx1ZGQxMiBWTUVTUyB8IEB2MnJheW5nY2hhbm5lbGxsIFs2XSJ9
 trojan://telegram-id-directvpn@15.222.9.61:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayngconfig%20%5B44%5D
 trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayngconfig%20%5B45%5D
 vless://b087edf1-4da7-4379-9485-352f483be71f@172.66.40.99:443?path=%2FTelegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray%3Fed%3D2048&security=tls&encryption=none&host=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net&type=ws&sni=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayngconfiig%20%5B10%5D
@@ -503,3 +500,6 @@ vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@alhilal.com:443?security=tls&sni=rA
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@cdnjs.com:443?security=tls&sni=rAyAn-S08.PaRaStOo.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-s08.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-2
 
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@change.org:443?security=tls&sni=rAyAn-t10.PaRaStOo.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-t10.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-4
+
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@feedly.com:443?security=tls&sni=rAyAn-E12.PaRaStOo.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-e12.parastoo.dpdns.org&encryption=none#@Rayan_Config%20-%20MIX-6
+
