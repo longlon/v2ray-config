@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://7031e57a-80e6-404e-b723-7c8bd4788030@ecobrg.drinfoo.com:4443?security=tls&sni=fast.com&fp=chrome&type=ws&path=/&host=fast.com&encryption=none
+
 vless://71068ecf-9826-4ab6-9757-c8d05c0338ae@static-edge-front.deepcloudview.com:443?security=reality&sni=firebase.googleapis.com&fp=chrome&pbk=b-jISQAdIIxv6MeoirMHu_MSRdUCriKY5v8vvszN6BA&sid=2d3bb9138f&spx=/v1/projects/init&type=tcp&encryption=none
 
 vless://75fb5961-1521-404f-95b8-0864cf4c7338@static-edge-front.cyberscaler.net:443?security=reality&sni=firebase.googleapis.com&fp=chrome&pbk=b-jISQAdIIxv6MeoirMHu_MSRdUCriKY5v8vvszN6BA&sid=2d3bb9138f&spx=/v1/projects/init&type=tcp&encryption=none
@@ -501,5 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBS2hpVXpCZVR6SHk%3D@77.83.245.171:443#%D9%84
 vless://a61e9ca0-4d46-4c0b-bc6f-a748f6980e7b@cafearz.com:8080?encryption=none&security=none&type=ws&host=4.channeltur.digicyber.click&path=%2Fmelo#zqlZCA7WxN🇹🇷
 vless://a61e9ca0-4d46-4c0b-bc6f-a748f6980e7b@speedtest.org:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#zqlZCA7WxN🇩🇪
 vless://a61e9ca0-4d46-4c0b-bc6f-a748f6980e7b@91.107.168.101:2083?encryption=none&security=reality&sni=khamenei.ir&fp=firefox&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=%2F&type=grpc&authority=ghbi.ir&serviceName=melov2ray&mode=gun#zqlZCA7WxN🇩🇪
-vless://81b9fc16-2617-41eb-8fdd-4f03e5cfd43f@speedtest.org:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#8pWZBNZJHB🇩🇪
-vless://81b9fc16-2617-41eb-8fdd-4f03e5cfd43f@tgju.org:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#8pWZBNZJHB🇩🇪
