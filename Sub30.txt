@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://9c499383-c8fa-4ebb-983e-9a1bf3c44ff9@199.247.30.45:2053?security=reality&type=grpc&host=&headerType=&serviceName=xyz&sni=cdn.discordapp.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&spx=#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40tehranfreevpn%20%5B7%5D
 vmess://eyJhZGQiOiIxOTkuMjQ3LjMwLjQ1IiwiYWlkIjoiMCIsImhvc3QiOiJnb29nbGUuY29tIiwiaWQiOiJjYTgwNDUxZS03NjhhLTQ2OWYtOTkxMy01N2EyNzI2OGZkNzAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjgwODAsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjEgTkwgfCBcdWQ4M2RcdWRkMTIgVk1FU1MgfCBAdGVocmFuZnJlZXZwbiBbOF0ifQ
 vless://f8e2ad01-4558-4207-87db-5991d64ca794@cf1.privacypath.org.tr:443?security=tls&type=httpupgrade&headerType=&path=%2Ftinyvpn%3Fed%3D2560&host=tiny1.privacypath.org.tr&sni=tiny1.privacypath.org.tr&fp=firefox&alpn=http%2F1.1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40tiny_vpn_official%20%5B1%5D
 vless://5e7be0f8-af63-45ff-8339-511a47a8243d@tiny-srv1.privacypath.org.tr:860?security=none&type=tcp&headerType=http&path=%2F&host=zula.ir#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40tiny_vpn_official%20%5B2%5D
@@ -502,4 +503,3 @@ vmess://eyJhZGQiOiI2NS4xMDkuMTg4LjE5NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vless://ae37ee3b-2109-7934-7f46-30f712b2580f@146.19.90.2:443?security=reality&encryption=none&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%3E%3E%40V2RAY_VMESS_free%3A%3AUS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#%3E%3E%40V2RAY_VMESS_free%3A%3ANO
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?encryption=none&security=none&type=grpc#%3E%3E%40VmessProtocol%3A%3AFR
-vless://2dca1f1c-7b95-441d-8713-36d56b52738e@104.21.48.1:443?path=%2FTUTMo8VZQESKxGLX%3Fed%3D2560&security=tls&encryption=none&host=tasaAT7.JIheTI6088.woRKeRs.dev&fp=randomized&type=ws&sni=tasaAT7.JIheTI6088.woRKeRs.dev#%3E%3E%40V2RAY_VMESS_free%3A%3AUS
