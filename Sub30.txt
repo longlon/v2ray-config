@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://telegram-ArV2ray@65.109.240.81:443?mode=gun&security=reality&encryption=none&pbk=gz7eqMA1Ww39n2KgIUyCLbVE9mOM_pOzhfx9Jr0HSFs&fp=chrome&type=grpc&serviceName=#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40tehranargo1%20%5B1%5D
-vless://9c499383-c8fa-4ebb-983e-9a1bf3c44ff9@199.247.30.45:8443?security=reality&type=tcp&host=&headerType=&path=&sni=discordapp.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&spx=#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40tehranfreevpn%20%5B6%5D
-vless://9c499383-c8fa-4ebb-983e-9a1bf3c44ff9@199.247.30.45:2053?security=reality&type=grpc&host=&headerType=&serviceName=xyz&sni=cdn.discordapp.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&spx=#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40tehranfreevpn%20%5B7%5D
 vmess://eyJhZGQiOiIxOTkuMjQ3LjMwLjQ1IiwiYWlkIjoiMCIsImhvc3QiOiJnb29nbGUuY29tIiwiaWQiOiJjYTgwNDUxZS03NjhhLTQ2OWYtOTkxMy01N2EyNzI2OGZkNzAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOjgwODAsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjEgTkwgfCBcdWQ4M2RcdWRkMTIgVk1FU1MgfCBAdGVocmFuZnJlZXZwbiBbOF0ifQ
 vless://f8e2ad01-4558-4207-87db-5991d64ca794@cf1.privacypath.org.tr:443?security=tls&type=httpupgrade&headerType=&path=%2Ftinyvpn%3Fed%3D2560&host=tiny1.privacypath.org.tr&sni=tiny1.privacypath.org.tr&fp=firefox&alpn=http%2F1.1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40tiny_vpn_official%20%5B1%5D
 vless://5e7be0f8-af63-45ff-8339-511a47a8243d@tiny-srv1.privacypath.org.tr:860?security=none&type=tcp&headerType=http&path=%2F&host=zula.ir#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40tiny_vpn_official%20%5B2%5D
@@ -503,3 +500,6 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.178:443#%3E%3E%40v2rayng_fast
 vless://739b7052-1e58-444d-b068-6cdbbe487663@188.114.97.3:443?path=%2FD7UhD7IgkjUTf9Hl%3Fed%3D2560&security=tls&encryption=none&host=DFb32Af2.panLO-eSCObaR0099269.Pages.deV&fp=chrome&type=ws&sni=DFb32Af2.panLO-eSCObaR0099269.Pages.deV#%3E%3E%40V2RAY_VMESS_free%3A%3AUS
 vless://ae37ee3b-2109-7934-7f46-30f712b2580f@146.19.90.2:443?security=reality&encryption=none&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%3E%3E%40V2RAY_VMESS_free%3A%3AUS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#%3E%3E%40V2rayNG3%3A%3ANL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#%3E%3E%40V2rayNG3%3A%3ATR
+vless://dded32a9-2f13-4673-bc90-47be2f384bb1@92.223.2.40:13000?type=ws&security=none#%3E%3E%40V2rayNG3%3A%3AAM
+vless://9d717e24-b4b5-4fa5-8b3b-22ed9b30bf65@95.217.27.14:13560?type=ws&security=none#%3E%3E%40V2rayNG3%3A%3AFI
