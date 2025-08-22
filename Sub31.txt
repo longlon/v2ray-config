@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@94.140.0.109:8880?path=%2F&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#%F0%9F%87%A6%F0%9F%87%AA%20AE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxygodratmand%20%5B1%5D
-vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@dl-04.saitsazs.ir:12107?mode=auto&path=%2Fdashboard%3Fed%3D2560&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&fp=firefox&type=xhttp&sni=refersion.com&sid=27e6b66aa77662fb#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40proxygodratmand%20%5B2%5D
 vless://e7be1334-6a1d-47c0-8c9a-c7a5b8575499@147.182.183.207:443?mode=auto&path=%2F%40Grizzlyvpn&security=reality&encryption=none&pbk=z--KbBlQtkBgTcrtdBJeGeCymIrLdaUDwkb44pAp6nY&fp=chrome&spx=%2F&type=xhttp&sni=yahoo.com&sid=4c#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40proxygrizzly%20%5B1%5D
 vless://f3f71d47-8ff5-4a05-aac4-806d27f828a4@cname.proxystore11.news:2087?type=ws&path=%2Fprx11&host=prx11.proxystore11.news&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=prx11.proxystore11.news#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40proxystore11%20%5B10%5D
 vless://365a7c12-6f69-4055-8693-f7f1ac405755@cname.proxystore11.news:2087?type=ws&path=%2Fprx11&host=prx11.proxystore11.news&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=prx11.proxystore11.news#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40proxystore11%20%5B12%5D
@@ -503,3 +501,5 @@ vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&sec
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&host=hetzner-9.cfuk.name.ng&type=ws&sni=hetzner-9.cfuk.name.ng#%3E%3E%40v2rayNG_Matsuri%3A%3ADE
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?encryption=none&security=none&type=grpc#%3E%3E%40VmessProtocol%3A%3AUS
 vless://035a60d2-6f6b-41e6-a805-2b752c5a61aa@91.107.243.12:21379?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40flyv2ray%3A%3ADE
+vless://f924939e-2d9a-46b7-a3c2-67a225b7c027@51.89.2.113:8081?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=nT4JZTeUVOw-XZ-htdqbFi1je4ZHeg-ALICrDk2usFE&sid=d19d7a2d3da8595a&type=tcp&headerType=none#%3E%3E%40VmessProtocol%3A%3ADE
+vless://ec3ee517-f133-4908-8364-633be2647b19@www.speedtest.net:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=balancer-1.access.name.ng&fp=chrome&type=ws&sni=balancer-1.access.name.ng#%3E%3E%40v2rayNG_Matsuri%3A%3ADE
