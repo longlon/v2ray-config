@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.129:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#%3E%3E%40V2rayNG3%3A%3AXX
+vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiQkxhWkUtZlJBLTY0LkJMYVpFQ0xPdUQuc2l0RSIsImlkIjoiYjdhY2Y0NGYtM2MzYS00MzBjLThlZDAtZmI2NGNjYzlhMTNhIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2a3dzcyIsInBvcnQiOiI0NDMiLCJwcyI6Ij4+QEZyZWFrQ29uZmlnOjpGUiIsInNjeSI6ImF1dG8iLCJzbmkiOiJCTGFaRS1mUkEtNjQuQkxhWkVDTE91RC5zaXRFIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#%3E%3E%40V2rayNG3%3A%3ANL
 vless://ae37ee3b-2109-7934-7f46-30f712b2580f@146.19.90.2:443?security=reality&encryption=none&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%3E%3E%40FreakConfig%3A%3AUS
 vmess://eyJhZGQiOiI1MS43OS4xMDIuMjUzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwicG9ydCI6IjgwIiwicHMiOiI+PkBmcmVlNGFsbFZQTjo6Q0EiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
@@ -500,6 +503,3 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@134.209.147.198:989#%F0%9F%87%AE%F
 trojan://2ee85121-31de-4581-a492-eb00f606e392@185.208.207.217:443?security=tls&sni=dus.freeguard.org#%F0%9F%87%A9%F0%9F%87%AADE-185.208.207.217-0351
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p141.panda001.net:4652#%F0%9F%87%B0%F0%9F%87%B7KR-218.237.185.230-0336
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#%F0%9F%87%B9%F0%9F%87%B7TR-185.123.101.241-0358
-trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&sni=rc8.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US-192.3.107.252-0339
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.123.101.241:989#%F0%9F%87%B9%F0%9F%87%B7TR-185.123.101.241-0359
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%B3%F0%9F%87%B1NL-92.112.126.90-0354
