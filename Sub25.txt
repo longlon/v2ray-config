@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-
-vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443?security=tls&fp=chrome&type=ws&path=/fqogayws&encryption=none#%40Rayan_Config%2043
-
-vless://29f55cea-4038-402c-a496-2e8ae2d8e660@51.195.101.222:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20DE%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-
-vless://2ac027da-fede-4873-bd0c-80b1167654eb@195.42.233.158:443?security=tls&fp=chrome&type=ws&path=/dcgfdfws&encryption=none#%40Rayan_Config%2034
-
-vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?security=tls&fp=chrome&type=ws&path=/tqjkmwws&encryption=none#%40Rayan_Config%2047
-
 vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@172.66.158.115:443?security=tls&sni=tcp.biz.id&alpn=h3&fp=random&type=ws&path=/free/1.177.76.215:10026&host=tcp.biz.id&encryption=none#%40Rayan_Config%2085
 
 vless://33bdc1f3-a2ce-6a15-c286-d602b373063d@146.19.90.2:443?security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&type=tcp&flow=xtls-rprx-vision&encryption=none#%40Rayan_Config%2090
@@ -503,3 +494,12 @@ vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.237:1001?encryption=non
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.136:1001?encryption=none&security=reality&sni=telewebion.com&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb&type=tcp&headerType=none#%40Rayan_Config%2039
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.199:8880?encryption=none&security=none&fp=chrome&type=grpc#%40Rayan_Config%2014
 vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@188.225.80.14:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru.sfasti.ru&fp=chrome&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d&type=tcp&headerType=none#%40Rayan_Config%2023
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?encryption=none&security=none&fp=chrome&type=grpc#%40Rayan_Config%2016
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBSYXlhbl9Db25maWcgODAiLA0KICAiYWRkIjogIjEwMy45Ni43My4xNjIiLA0KICAicG9ydCI6ICIyMDA4NiIsDQogICJpZCI6ICIyNTNmZDIyZC02Y2JlLTQ5NTMtODkxYi00Y2UzMTA4ZWQ5MzUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAiLS0tIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?encryption=none&security=none&fp=chrome&type=grpc#%40Rayan_Config%2063
+vless://1lpxy6haqm@45.15.167.13:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=1lpxy6haqm-451516713-direct.zamam.co&alpn=h2%2Chttp%2F1.1&fp=chrome&type=tcp&headerType=none#%40Rayan_Config%209
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBSYXlhbl9Db25maWcgOTYiLA0KICAiYWRkIjogIjEwNC4xNy4xNzYuMTcxIiwNCiAgInBvcnQiOiAiODA4MCIsDQogICJpZCI6ICJ2dzZoanA2cWxnIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIi0tLSIsDQogICJob3N0IjogInZ3NmhqcDZxbGctNTI1MzQwMTI1LnphbWFtLmNvIiwNCiAgInBhdGgiOiAiL2Rvd25sb2FkL2NkbiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==```
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053#%40Daily_Configs
+vless://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&type=tcp&headerType=none#%40Daily_Configs`
+vless://33bdc1f3-a2ce-6a15-c286-d602b373063d@146.19.90.2:443?security=reality&encryption=none&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40PlanB_Proxy%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%86%94
+vless://id7736035993@193.178.172.135:443?security=reality&encryption=none&pbk=wftQ5to1kMxdd3edxzLCKmW_Mf4iCTs8f-623QUfjU4&headerType=none&fp=random&spx=%2FheW1y3uAirM64lm&type=tcp&flow=xtls-rprx-vision&sni=vk.com&sid=1870#Join%20Telegram%20%F0%9F%86%94%EF%B8%8Fibahad%20%F0%9F%87%B3%F0%9F%87%B1```
