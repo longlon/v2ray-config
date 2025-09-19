@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://WomanLifeFreedomVPN@google.wlftest.xyz:80?type=tcp&path=%2F&host=www.google.com&headerType=http#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40womanlifefreedomvpn%20%5B17%5D
+trojan://11ae0edd-2f63-4495-8683-037abbda9986@amin.karkas1.ir:443?path=%2F6vuNVgOFnqUEvj0sNkGkxxW7&security=tls&alpn=h2&host=amin.karkas1.ir&fp=safari&type=ws&sni=amin.karkas1.ir#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40xrayzxn%20%5B5%5D
 vmess://eyJhZGQiOiJhbWluLmthcmthczEuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFtaW4ua2Fya2FzMS5pciIsImlkIjoiMTFhZTBlZGQtMmY2My00NDk1LTg2ODMtMDM3YWJiZGE5OTg2IiwibmV0Ijoid3MiLCJwYXRoIjoiXC90MTRGRWE0VEJ6TGJ3WnNOa0dreHhXNyIsInBvcnQiOiI4MCIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdTI3NTQgWFggfCBcdWQ4M2RcdWRkMTMgVk1FU1MgfCBAeHJheXp4biBbNl0ifQ
 vless://db19fc68-c027-4641-a8eb-eed3e1065c8a@amin.karkas1.ir:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=safari&type=grpc&serviceName=EJUVVd6sh0f9J6drcXIcStL&sni=amin.karkas1.ir#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40xrayzxn%20%5B7%5D
 vless://34a4cfb4-8b42-42ba-b087-6a338c2b3b4a@fast-01.saitsazs.ir:80?mode=auto&path=%2Fpath&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&host=Demon02.global.ssl.fastly.net&type=xhttp#%F0%9F%87%AE%F0%9F%87%B9%20IT%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40xsv2ray%20%5B5%5D
@@ -501,5 +503,3 @@ vless://e5215c57-868a-45f2-8e70-6cdea147bdde@51.178.42.187:443?security=tls&sni=
 vless://e959d53c-91e9-459d-a332-d59ae89b3b4c@199.247.18.92:443?security=tls&sni=hdfynpv2d1.farvaharforever.com&fp=chrome&type=ws&path=/Iyq035lnud9R8ruNNrqGxZZ2&encryption=none#%40Rayan_Config%2032
 
 vless://e959d53c-91e9-459d-a332-d59ae89b3b4c@199.247.18.92:443?security=tls&sni=hdfynpv2d1.farvaharforever.com&fp=chrome&type=ws&path=/Iyq035lnud9R8ruNNrqGxZZ2&host=hdfynpv2d1.farvaharforever.com&encryption=none#%40Rayan_Config%2034
-
-vless://e959d53c-91e9-459d-a332-d59ae89b3b4c@199.247.18.92:443?security=tls&sni=hdfynpv2d1.makingirangreatagain.com&fp=chrome&type=ws&path=/Iyq035lnud9R8ruNNrqGxZZ2&encryption=none#%40Rayan_Config%2035
