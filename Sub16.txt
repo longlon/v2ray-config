@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://turboo-server@server.turboo-server.com.co:80?path=%2F--ping--www.speedtest.net%3Fed%3D2080&security=&encryption=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40turboo_server%20%5B13%5D
+vless://turboo-server@turboo-server.aftabz.com:80?type=ws&path=%2F--ping--www.speedtest.net%3Fed%3D2080&host=&security=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40turboo_server%20%5B14%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?encryption=none&security=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v222ray%20%5B8%5D
 vless://82aa1f3f-29d4-42ab-a5d5-66b13ba13545@91.99.114.25:443?encryption=none&security=none&type=xhttp&path=%2Fd%2F%3F%40MARAMBASHI_MARAMBASHI%3Fed%3D2048&mode=stream-one#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v222ray%20%5B9%5D
 vmess://eyJ2IjoiMiIsImFkZCI6IjkxLjk5LjE4NS4yMTYiLCJwb3J0IjoiMjAwODYiLCJpZCI6IjdiZDZhMWVhLWEyMjAtNGYxYy1hZmVkLTZjZmI4YWI5NmFkOSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IiIsInBhdGgiOiJcLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIERFIHwgXHVkODNkXHVkZDEzIFZNRVNTIHwgQHYyMjJyYXkgWzEwXSJ9
@@ -501,5 +503,3 @@ vless://0001%65585-%61648-4db2-8c9%65-%61f346110c642@141.227.180.86:43239?mode=g
 vless://01996d6c-ca12-a514-1884-58805e80e2c9@104.26.12.31:443?encryption=none&security=tls&sni=000091gm0s8g08211s2q.rjp.3jrlr9edbfkg.s0add.dl24k.ghz.krcipuw0kx.vztx9qx.1luaw5rro.4sztyya.guarx48okfdavgn0i245is5g86r359.neib.cn&fp=chrome&type=ws&host=000091gm0s8g08211s2q.rjp.3jrlr9edbfkg.s0add.dl24k.ghz.krcipuw0kx.vztx9qx.1luaw5rro.4sztyya.guarx48okfdavgn0i245is5g86r359.neib.cn&path=%2Fsnippets%3Fip%3Dproxyip%3Aport%28443%29%26nat64%3D6to4%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiB#%3E%3E%40v2ray_configs_pool%3A%3AUS
 vless://a546c4de-2840-49b7-b914-98babd165bb1@104.17.25.173:443?path=%2FXYXY0721&security=tls&encryption=none&type=ws&sni=de.xiejiang.dpdns.org#%3E%3E%40flyv2ray%3A%3ADE
 vless://b65f4df7-f6af-42b2-877a-cef33f21675e@192.0.54.32:2096?path=%2Fsnippets&security=tls&encryption=none&fp=chrome&type=ws&sni=kejiland.freewarp.eu.org#%3E%3E%40flyv2ray%3A%3AUS
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@166.62.106.32:2096?path=%2Fsnippets&security=tls&encryption=none&type=ws&sni=kejiland.freewarp.eu.org#%3E%3E%40flyv2ray%3A%3AUS
-vless://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=pas-kale-agha.pages.dev&fp=randomized&type=ws&sni=paS-kaLE-AGhA.pageS.deV#%3E%3E%40V2rayNG3%3A%3AUS
