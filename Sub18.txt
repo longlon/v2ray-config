@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://12345678-1234-1234-1234-123456789123@185.158.133.50:2096?security=tls&sni=saas.sosocn.abrdns.com&fp=chrome&type=ws&path=/snippets&host=saas.sosocn.abrdns.com&encryption=none#@Rayan_Config%2062
+
+vless://12345678-1234-1234-1234-123456789123@198.71.233.50:2096?security=tls&sni=saas.sosocn.abrdns.com&fp=chrome&type=ws&path=/snippets&host=saas.sosocn.abrdns.com&encryption=none#@Rayan_Config%2042
+
+vless://12345678-1234-1234-1234-123456789123@45.40.149.52:2096?security=tls&sni=saas.git.cloudns.org&fp=chrome&type=ws&path=/snippets&host=saas.git.cloudns.org&encryption=none#@Rayan_Config%2036
 
 vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@38.180.27.102:8080?security=reality&sni=yandex.com&fp=chrome&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&sid=27cfa05000c23cc4&type=tcp&encryption=none#@Rayan_Config%2040
 
@@ -498,8 +503,3 @@ vmess://eyJhZGQiOiIzOC4xNDMuNjYuODEiLCJhaWQiOiIwIiwiaG9zdCI6InNlcmlidXMub3JnIiwi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#%F0%9F%87%A8%F0%9F%87%A6CA-79.127.233.170-0320
 vmess://ewogICAgImFkZCI6ICJiLXYxLjg4ODk4ODg2Ni54eXoiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJiLXYxLjg4ODk4ODg2Ni54eXoiLAogICAgImlkIjogImFiMDA3OTMzLTc5ODEtNDI2Ny05ZjMzLWZiYzljMjU3NTc1NiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9hYjAwNzkzMy03OTgxLTQyNjctOWYzMy1mYmM5YzI1NzU3NTYiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4yMS45NS41OS0xMDY4IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@79.127.233.170:989#%F0%9F%87%A8%F0%9F%87%A6CA-79.127.233.170-0297
-vmess://ewogICAgImFkZCI6ICJ5LXYxLjg4ODk4ODg2Ni54eXoiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJ5LXYxLjg4ODk4ODg2Ni54eXoiLAogICAgImlkIjogImEzOTdiZDE4LTVhNWYtNGE1YS1iZjAzLWVkNWJjMWE5OTBlYiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9hMzk3YmQxOC01YTVmLTRhNWEtYmYwMy1lZDViYzFhOTkwZWIiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4yMS45NS41OS0xMDY5IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.226.106:990#%F0%9F%87%BA%F0%9F%87%B8US-104.192.226.106-0274
-vmess://ewogICAgImFkZCI6ICIxNS4yMDQuMTAzLjciLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJsYW1tYWxhbmQub3JnIiwKICAgICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICJsaW5rdndzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh7rwn4e4VVMtMTUuMjA0LjEwMy43LTc2MjMiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJsYW1tYWxhbmQub3JnIgp9
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@104.192.226.106:989#%F0%9F%87%BA%F0%9F%87%B8US-104.192.226.106-0313
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.169-0271
