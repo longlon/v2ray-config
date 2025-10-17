@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vmess://eyJpZCI6ImM2MmQ1NjRlLWRlMzAtNGZkMi04ZTJmLTVjZTU0NGMwNjQ2NSIsIm5ldCI6IndzIiwicG9ydCI6ODAsImFpZCI6IjAiLCJhZGQiOiJqb2luLWJlZGUudm1lc3NvcmcuZnVuIiwiaG9zdCI6IiIsInBhdGgiOiJcLyIsInRscyI6IiIsInR5cGUiOiJub25lIiwicHMiOiJcdTI3NTQgWFggfCBcdWQ4M2RcdWRkMTMgVk1FU1MgfCBAcHJvb3h5ayBbNF0ifQ
+vmess://eyJhZGQiOiJjaGFubmVsLnYxLWFtaXJvbmV0d29yay5zaXRlIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJqb2luLnYxLWFtaXJvbmV0d29yay5zaXRlIiwiaWQiOiI1ZjFiYWNjMy1iZTY3LTQ0ODAtOGYzMi03YWJkMGUyNTg5NGEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLzIwMzM0IiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJqb2luLnYxLWFtaXJvbmV0d29yay5zaXRlIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdTI3NTQgWFggfCBcdWQ4M2RcdWRkMTIgVk1FU1MgfCBAcHJvb3h5ayBbNV0ifQ
 vless://62793d13-24bc-4a0b-9b35-f565ed659773@104.21.62.144:443?type=xhttp&path=%2FSauron%2F&host=&mode=auto&security=tls&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=sauron.melkore.ir#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40proxie%20%5B17%5D
 vless://c6c34ffc-6e55-4b98-8da9-48565ce3b89e@104.21.62.144:443?type=xhttp&path=%2FSauron%2F&host=&mode=stream-up&security=tls&fp=randomized&alpn=h2&allowInsecure=1&sni=sauron.melkore.ir#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40proxie%20%5B18%5D
 vless://e4b67aa2-27d0-429e-9c13-a0e8b576faa9@104.21.62.144:443?type=xhttp&path=%2FSauron%2F&host=&mode=stream-up&security=tls&fp=randomized&alpn=h2&allowInsecure=1&sni=sauron.melkore.ir#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40proxie%20%5B19%5D
@@ -501,5 +503,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&secur
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638949521660379297.copenhagen-prx-dnraacr.info:8880?mode=gun&security=&encryption=none&authority=%2F%3F&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
 vless://d7d6745c-7264-44a4-a62f-97b4ce83a951@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=totoo.pages.dev&fp=chrome&type=ws&sni=totoo.pages.dev#%3E%3E%40flyv2ray%3A%3AUS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#%3E%3E%40FreakConfig%3A%3AXX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.18.181:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929692855682011.lisbon-drc-tusabt.info:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40FreakConfig%3A%3AXX
