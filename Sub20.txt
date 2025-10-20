@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943819862861158.oslo-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2ray1_ng%3A%3AMD
 vless://da640c05-1831-4c6f-a2c8-ff8ff9c18b0c@54.219.42.163:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=dash.cloudflare.com&pbk=O53KcL6eOfBmpyfB5rM9qPDI-ZCe8hhHgYzdsZZ0b2Q&fp=chrome#%3E%3E%40DailyV2RY%3A%3AUS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#%3E%3E%40v2ray1_ng%3A%3AUS
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.130.190:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2ray1_ng%3A%3ACY
@@ -279,8 +280,6 @@ vless://4b6f32e4-aa7d-11f0-b753-9fc72f0a48cd@181.215.205.227:10004?path=%2Fvpnja
 vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3h2&encryption=none&host=smart.confappha.com&type=ws&sni=smart.confappha.com#%3E%3E%40configV2rayNG%3A%3ADE
 vless://dcdd09ad-4519-46f7-8107-4c4290a9b2a3@40.233.75.30:40106?security=reality&encryption=none&pbk=gqmHb9i4USmQ78auzhAFJMQIrUpnq8QaykJgnjHDTBg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=f44fd3dd#%3E%3E%40configV2rayNG%3A%3ACA
 
-vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.181.225:443?security=reality&sni=store.steampowered.com&fp=chrome&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&type=tcp&encryption=none#@Rayan_Config%2018
-
 vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@adf.ly:443?security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.parvin.dpdns.org&encryption=none#Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://vs-worker-creator.rayan.dpdns.org%0A-%20Or%20-%20https://tj-worker-creator.rayan.dpdns.org
 
 vless://2fb2e81c-c94b-435b-af61-1ba0ba60bcc7@94.131.9.155:443?security=tls&fp=chrome&type=ws&path=/hyjtppws&encryption=none#@Rayan_Config%2014
@@ -301,25 +300,13 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.98:80?security=&fp=chro
 
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&sni=loCal.rogsoftwaregroup.com&alpn=h3,h2,http/1.1&fp=chrome&type=tcp&encryption=none#@Rayan_Config%2024
 
-vless://46788ea0-fdf1-4694-90a0-dec94fc471c3@109.172.55.114:443?security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=175d&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%2064
-
-vless://46788ea0-fdf1-4694-90a0-dec94fc471c3@45.144.30.36:443?security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=175d&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%2030
-
-vless://46788ea0-fdf1-4694-90a0-dec94fc471c3@45.144.30.60:443?security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=175d&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%2029
-
 vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?security=reality&sni=dl.google.com&fp=chrome&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511&type=tcp&encryption=none#@Rayan_Config%2059
-
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%2043
 
 vless://568db765-6970-40c8-8087-83ea9ba2429e@bitpay.com:443?security=tls&sni=rAyAn-007.pArAsToO.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.pArAsToO.DpDnS.OrG&encryption=none#Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://vs-worker-creator.rayan.dpdns.org%0A-%20Or%20-%20https://tj-worker-creator.rayan.dpdns.org
 
 vless://678a8311-6184-4a1f-a651-84be3cc82e37@45.45.218.166:21275?security=tls&sni=ula347.tiri-viri.com&fp=chrome&type=ws&path=/&host=ula347.tiri-viri.com&encryption=none#@Rayan_Config%2031
 
 vless://6f6e8f09-c1b3-48fd-ab00-18f921d875ef@104.21.36.57:443?security=tls&sni=profit.fullmargintraders.com&fp=chrome&type=ws&path=/wsv/6f6e8f09-c1b3-48fd-ab00-18f921d875ef&host=profit.fullmargintraders.com&encryption=none#@Rayan_Config%2065
-
-vless://6fd87922-bb79-4c8f-869d-e97d56d504ef@116.203.69.142:2087?security=tls&sni=its.sportfast0.ir&alpn=h2&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2063
-
-vless://7310ccbb-3940-4264-88cc-b3da92877395@65.109.216.38:2087?security=tls&sni=tito.floorshoping22.com&alpn=h2&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2094
 
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.140.38:28495?security=reality&sni=dl.google.com&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392&type=tcp&encryption=none#@Rayan_Config%2028
 
@@ -457,8 +444,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.97:8880?security=&fp=chro
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.120.178.93:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2034
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.120.178.9:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20105
-
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.128.54.6:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20104
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.14.244.44:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2033
@@ -503,3 +488,18 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@91.228.10.89:8880?security=&fp=chro
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.142:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2078
 
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2077
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2076
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.181:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2075
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.207:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2074
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2073
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2072
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2017
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.28:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2015
