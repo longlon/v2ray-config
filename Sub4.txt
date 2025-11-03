@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.25.254.4:2087?security=tls&sni=azadnet-bdr.pages.dev&allowInsecure=1&type=tcp#telegram:@awlix_ir
 trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.25.254.4:2087?security=tls&sni=azadnet-bdr.pages.dev&type=tcp#telegram:@awlix_ir
 trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=uk2.safecdn.site#@V2rayNG3
 trojan://dqLPBI4gsI@s.isvspeedtest.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#telegram-@ISVvpn
@@ -503,3 +502,4 @@ vless://10b1f4a3-63a7-46b4-f05a-023542f0dc11@87.107.144.71:54465?security=none&e
 vless://10db48ea-bfff-4cc6-aec0-f8c38c5e9e3c@178.162.244.10:443?mode=gun&security=reality&encryption=none&pbk=RL9xtGf4fZRlsyzKQD-JDWX9G0zHtT54zSajlL_H-TU&fp=chrome&spx=/vR2tv7KsOPcZrPo&type=grpc&serviceName=/443/NExtlife&sni=pn5hdapp.farsiblockchain.com&sid=b37734#کانال تلگرامی @skypro_vpn
 vless://10db48ea-bfff-4cc6-aec0-f8c38c5e9e3c@85.17.142.9:443?security=reality&encryption=none&pbk=tENjVH0mD6_ZmPaZSW9kYoPsqRFvGnrtv142HveGSz8&headerType=none&fp=chrome&spx=/C1KXJmSRMl5KDcc&type=tcp&sni=pn2web.sigmachemicals.ir&sid=e2#کانال تلگرامی @skypro_vpn
 vless://10db48ea-bfff-4cc6-aec0-f8c38c5e9e3c@85.17.142.9:8443?path=/26020/Nextlife&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=pn2w1web.sigmachemicals.ir&fp=chrome&type=ws&sni=pn2web.sigmachemicals.ir#کانال تلگرامی @skypro_vpn
+vless://10db48ea-bfff-4cc6-aec0-f8c38c5e9e3c@pn2gweb.sigmachemicals.ir:443?mode=gun&security=tls&alpn=h2&encryption=none&authority=pn2gweb.sigmachemicals.ir&fp=chrome&type=grpc&serviceName=/26471/Nextlife#کانال تلگرامی @skypro_vpn
