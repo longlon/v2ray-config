@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?security=tls&sni=gb-42123.shenzogmbh.com&alpn=h3h2&fp=chrome&type=ws&path=/api/v1&host=gb-42123.shenzogmbh.com&encryption=none#@Rayan_Config%20147
-
-vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?security=tls&sni=gb-8981.shenzogmbh.com&alpn=h3h2&fp=chrome&type=ws&path=/api/v1&host=gb-8981.shenzogmbh.com&encryption=none#@Rayan_Config%20133
-
-vless://7e346122-2ee0-406e-b964-a8ee665f1814@digitalocean.com:443?security=tls&sni=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&encryption=none#Fast%20Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://telegraph.rayan.dpdns.org/translate
-
-vless://82ebd58c-156a-4c2b-9cf9-1762f0a1e04f@change.org:443?security=tls&sni=rAyAn-007.lEiLa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.lEiLa.dPdNs.oRg&encryption=none#Fast%20Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://telegraph.rayan.dpdns.org/translate
-
-vless://97c02cbb-eef4-427c-bb25-a5720886b006@45.87.155.14:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20UA%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-
-vless://97c02cbb-eef4-427c-bb25-a5720886b006@androidauthority.com:443?security=tls&sni=rAyAn-cOnFiG-ua-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-ua-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%208.88
 
 vless://97c02cbb-eef4-427c-bb25-a5720886b006@jquery.com:443?security=tls&sni=rAyAn-cOnFiG-ua-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-ua-1.pArIsA.DpDnS.OrG&encryption=none#@Rayan_Config%208.8
 
@@ -382,6 +371,16 @@ vmess://eyJhZGQiOiAiZnItc3BlZWQuZGRucy5uZXQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAi
 vmess://eyJhZGQiOiAia2hvZGF5ZS5yYW5naW5rYW1hYW4uZGUiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJraG9kYXllLnJhbmdpbmthbWFhbi5kZSIsICJpZCI6ICJiODMxMzgxZC02MzI0LTRkNTMtYWQ0Zi04Y2RhNDhiMzA4MTEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2dyYXBocWwiLCAicG9ydCI6ICI4MCIsICJzY3kiOiAiY2hhY2hhMjAtcG9seTEzMDUiLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNlXHVkZDM3XHUyMDBkXHUyNjQwXHVmZTBmXHUwMGFlXHVmZTBmXHVkODNlXHVkZDM3XHUyMDBkXHUyNjQwXHVmZTBmXHUwMGE5XHVmZTBmXHVkODNlXHVkZDM3XHUyMDBkXHUyNjQwXHVmZTBmXHVkODNjXHVkZDdmXHVmZTBmcGluZzoxOG1zIn0=
 vmess://eyJhZGQiOiAicGVsYW5nLm9yZyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJwZWxhbmcub3JnIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJsaW5rdndzIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFx1MDBhZVx1ZmUwZlVuaXRlZCBTdGF0ZXNcdTAwYTlcdWZlMGZDaGljYWdvXHVkODNjXHVkZDdmXHVmZTBmcGluZzoxNjNtcyJ9
 vmess://eyJhZGQiOiAicHV0aWhiLm9yZyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJwdXRpaGIub3JnIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJsaW5rdndzIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJwdXRpaGIub3JnIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhcdTAwYWVcdWZlMGZVbml0ZWQgU3RhdGVzXHUwMGE5XHVmZTBmQ2hpY2Fnb1x1ZDgzY1x1ZGQ3Zlx1ZmUwZnBpbmc6MTc5bXMifQ==
+vmess://eyJhZGQiOiI1Ny4xMjkuMjguMjEyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmYXBlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFYycmF5MV9OZyIsInNjeSI6ImF1dG8iLCJzbmkiOiJmYXBlbmcub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+trojan://19f8e29a-3f0b-448c-92e8-ae035ea5f9ba@45.159.251.8:81?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/45.159.251.8=81&host=joss.dus.biz.id#🇺🇸[openproxylist.com]
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638982038145570100.prague-drcn-aaaai.info:8880?mode=gun&security=none&encryption=none&type=grpc#M-Germany%2096%20dailyv2ry
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=random&type=ws&sni=vless.hubp.de#%40`
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&fp=random&type=ws&sni=vless.hubp.de#%40V2ray1_Ng
+vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=%2Fsnippets%2Fip%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#%40V2ray1_Ng
+vless://c495405a-41d7-429e-b999-94136197b211@104.21.7.162:2053?path=%2FJ5aLQOY1R9ONWYCM&security=tls&encryption=none&host=dashboard.app-browser.org&type=ws&sni=dashboard.app-browser.org#🇫🇮[openproxylist.com]
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.193:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷[openproxylist.com]
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638984055889828458.belgrade-drcn-aaaai.info:8880?mode=gun&security=none&encryption=none&type=grpc#M-Germany%2090%20dailyv2ry
+vless://06c4d024-6079-430e-bbc4-53a340ac933e@167.172.51.202:2096?type=grpc&encryption=none&serviceName=&authority=&security=reality&pbk=29iCBehXD9OCK1B5fDd7hwiOZEtm7BXiwzZpwggESzo&fp=chrome&sni=zula.ir&sid=&spx=%2F#telegram%20%F0%9F%8C%9F%20dailyv2ry
 #profile-title: base64:UFNHIHwgTUlY
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
@@ -453,6 +452,7 @@ hy2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.103.51:47262/?insecure=1&sni=w
 hy2://9772ecf2-6732-4bfb-a8b1-f48af577c76c@113.192.61.19:63979/?insecure=1&sni=www.bing.com#%3E%3E%40ShadowsocksM%3A%3AUS
 hy2://05fd3f79-dca0-4358-a803-c8d4711c17a3@lsyd1.lansecs.top:58338/?insecure=1&sni=lsyd1.lansecs.top#%3E%3E%40ShadowsocksM%3A%3ARU
 hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk:1743?security=tls&insecure=0&sni=227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk#%3E%3E%40configV2rayNG%3A%3AXX
+
 
 
 
