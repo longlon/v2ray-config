@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4182c59d-3b09-4bc9-ef7a-71e5628749e8@cafearz.com:8080?type=ws&encryption=none&path=%2Folem%2Fws%3Fed%3D1024&host=shad.ir.de.test.digicyber.click.&security=none#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2raytg%20%5B61%5D
-vless://104f1dd2-dc7d-4b15-d42c-566b4e93de62@tgju.org:80?type=ws&encryption=none&path=%2Folem%2Fws%3Fed%3D1024&host=de.channel.digicyber.click&security=none#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2raytg%20%5B62%5D
-vmess://eyJ2IjoiMiIsImFkZCI6IjEyOC4xNDAuMTEyLjE1MSIsInBvcnQiOiIzMDMwIiwiaWQiOiI0MTBiZTk0MS1jNTVhLTRjZWMtOTU5Ni03NjEwNzZlYTZjNjAiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJwcyI6Ilx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSBERSB8IFx1ZDgzZFx1ZGQxMyBWTUVTUyB8IEB2MnJheXR1cmJvIFs3XSJ9
 vless://2efd0ebb-f5bd-47e2-ad5d-2b3a876ab92a@103.75.197.50:30975?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayturbo%20%5B8%5D
 vless://43330370-6687-48c3-ee7e-56c96853e07b@sw.mrchange.store:17081?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayturbo%20%5B9%5D
 vless://0c7bd9e3-7310-4add-95a6-70d3c4ebe235@193.46.81.151:50853?security=reality&encryption=none&pbk=XT7qcjwBZkCQPQVgzP_afaX76GUbHIysmOhJ1gWsLjs&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=miro.com&sid=69#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayvpn2%20%5B3%5D
@@ -503,3 +500,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880/?type=grpc&encr
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.61:8880/?type=grpc&encryption=none&flow=#%40Rayan_Config%20110
 
+vless://e188a23f-f17a-4a61-8a48-aa83b3653f5d@104.26.6.89:2053/?type=ws&encryption=none&flow=&host=om4.omidsuccess.uk&path=%2Fcontainers%2Fde&security=tls&sni=om4.omidsuccess.uk&allowInsecure=1&fp=chrome#%40Rayan_Config%20119
+
+vless://e188a23f-f17a-4a61-8a48-aa83b3653f5d@104.26.6.89:2053/?type=ws&encryption=none&flow=&host=om4.omidsuccess.uk&path=%2Fcontainers%2Fde&security=tls&sni=om4.omidsuccess.uk&fp=chrome#%40Rayan_Config%20152
