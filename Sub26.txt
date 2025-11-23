@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.117.182:2760?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.117.182-0285
 ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@5.188.181.201:9027#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-5414
 ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-5416
 vmess://ewogICAgImFkZCI6ICI0Ny4yMzguMjQ3LjY5IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJhY2E2ODg5Ni0xZDRlLTQxZmMtYjFlZC1lOTI5NWM4YTVmNWUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwKICAgICJwb3J0IjogODUzNSwKICAgICJwcyI6ICLwn4et8J+HsEhLLTQ3LjIzOC4yNDcuNjktNTcyMiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
@@ -92,23 +93,11 @@ vless://50ee9674-b7bd-4ea5-a677-80b93901486f@invoker.fonixapp.org:44107/?type=tc
 vless://ffbb609e-6c2e-4acc-9300-e6170ad5bd52@amsterdam.fonixapp.org:44180/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=canva.com&fp=chrome&security=reality&pbk=3SqRgzwkPnY8VPAXlaPLD5iWSIVDP2SjAunOfg36ITI&sid=aab454b749#%40Filter_breaker-55
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5REFNc1g2NzhYc2pzRVNSNFVKbEFJ@185.247.184.27:42203#%DB%B7%F0%9F%A7%AC%F0%9F%A6%85%F0%9F%94%92%40Cfg24X
 #Epodonios
-vless://9dc11620-987c-4344-9088-f46fdfae4054@92.118.230.124:8080?encryption=none&security=none&type=ws&path=%2F%3Fed#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
 #profile-title: base64:UFNHIHwgTUlY
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://t.me/yebekhe
 #profile-web-page-url: https://github.com/itsyebekhe/PSG
-vless://1848ccc2-09f0-4367-aa90-8b174de73614@51.68.198.51:8080?encryption=none&type=ws&path=%2FYUYETrenyklxeoyemeWFCrneerV&security=none#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kafing_2%20%5B10%5D
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.61:8880?encryption=none&type=grpc&mode=gun&security=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kafing_2%20%5B12%5D
-vless://1b36c512-7a15-49d3-9114-761ce636a0d0@www.speedtest.net:2083?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=xhttp&sni=ahwaz.infinitespd.com#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2ray1_ng%20%5B2%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40v2ray1_ng%20%5B3%5D
-vless://e58facde-fbbe-479b-bcc2-1c9edf1020f5@necrolyte.fonixapp.org:25617?security=reality&encryption=none&pbk=Ch2wiP52dq6Uau7gXBZVp3F7ysXqLQY-6uVLsH5CjHY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lowes.com&sid=0f39fc8e#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2ray1_ng%20%5B4%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMTEyOTM1MzQ1QnRnVjVQREhWd3c=@195.35.113.79:443#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40v2ray_free_conf%20%5B18%5D
-vmess://eyJhZGQiOiJwdXRpaGIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwdXRpaGIub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJwdXRpaGIub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMgfCBcdWQ4M2RcdWRkMTIgVk1FU1MgfCBAdjJyYXlfZnJlZV9jb25mIFsxOV0ifQ
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.16.212:989#%F0%9F%87%A8%F0%9F%87%B4%20CO%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40v2ray_free_conf%20%5B20%5D
-vless://4e5a0939-483c-4571-a1b1-fccbfe053923@usa82.freednet.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.utexas.edu#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vmesc%20%5B16%5D
-vless://f05b4350-eb1a-4a93-bebe-31c4066560d2@traxex.fonixapp.org:56902?security=reality&encryption=none&pbk=ytFEE1Ae7cboXEsIhJt5ry8qv2hGZ41jAWyGhHjZXVo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=groww.in&sid=9d6aa524#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vmesc%20%5B17%5D
-vless://a43aea6e-1ecf-4bc7-afeb-9ab306a2a19c@zeusolympus.fonixapp.org:15409?security=reality&encryption=none&pbk=Y4gxi2ba79pcpcTCp5FDaRzC14ArArsrl__RHNC7_Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=cff4cd#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40vmesc%20%5B18%5D
 
 
 
@@ -440,6 +429,17 @@ vless://a43aea6e-1ecf-4bc7-afeb-9ab306a2a19c@zeusolympus.fonixapp.org:15409?secu
 
 
 #ExpressVpn🔥𝗨𝘀𝗲𝗿: malek996@hotmail.com𝗣𝗮𝘀𝘀 : Idontknow1!واسه مودم سرعت عالیه 🚀@v2rayn_server
+
+
+
+
+
+
+
+
+
+
+
 
 
 
