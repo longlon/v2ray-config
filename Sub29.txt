@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://6a6f5102-de1b-4513-bde9-07d22d4889d5@al-akhbar.com:443?security=tls&sni=rAyAn-cOnFiG-jp-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-jp-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%206.6
+
+vless://6d8d8b48-6c77-45a7-bc9a-afaed748e781@74.119.193.40:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20HK%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+
 vless://6d8d8b48-6c77-45a7-bc9a-afaed748e781@medium.com:443?security=tls&sni=rAyAn-cOnFiG-HK-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-HK-1.pAriSa.dPdNs.oRg&encryption=none#@Rayan_Config%204.4
 
 vless://6d8d8b48-6c77-45a7-bc9a-afaed748e781@zula.ir:443?security=tls&sni=rAyAn-cOnFiG-HK-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-HK-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%204.44
@@ -422,18 +426,14 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5T0RMWFZMejJGV05URmVTU25nM0Zt@136.244.100.113:443#%40Filter_breaker-2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40amirw_shop_q%20%5B6%5D`
 #Epodonios
-vmess://eyJ2IjogbnVsbCwgImFkZCI6ICI0NS4xMzYuMjQ0LjIwMSIsICJwb3J0IjogNDk5MzQsICJpZCI6ICI5MGFmYTQ3ZC0zNDFhLTQ5N2QtYWUyNS0xZDgxMjU4ODA0ZDUiLCAiYWlkIjogIjAiLCAic2N5IjogbnVsbCwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6IG51bGwsICJob3N0IjogIjQ1LjEzNi4yNDQuMjAxIiwgImFscG4iOiBudWxsLCAicGF0aCI6ICIvcGF0aC8zMTEyMjcyMjI4MDgiLCAidGxzIjogIiIsICJzbmkiOiBudWxsLCAiZnAiOiBudWxsLCAibmFtZSI6ICJcdWQ4M2NcdWRkZjdcdWQ4M2NcdWRkZmEgUlUgMTEiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0QHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmN1x1ZDgzY1x1ZGRmYVx1MDBhZVx1ZmUwZlJ1c3NpYVx1MDBhOVx1ZmUwZlplbGVub2dyYWQgKFplbGVub2dyYWRza2l5IGFkbWluaXN0cmF0aXZueXkgb2tydWcpXHVkODNjXHVkZDdmXHVmZTBmcGluZzo2My4zNG1zIn0=
+vmess://eyJ2IjogbnVsbCwgImFkZCI6ICI3NC4xMTcuMTk2LjIzMiIsICJwb3J0IjogMzc5MzQsICJpZCI6ICIxMjkyOTU5Mi1hN2JkLTQxZWItYWI0ZC1kODA0Zjc2YzRmZjkiLCAiYWlkIjogIjAiLCAic2N5IjogbnVsbCwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogbnVsbCwgImhvc3QiOiAiaW1hZmFrZS5sb2NrZXIiLCAiYWxwbiI6IG51bGwsICJwYXRoIjogIi9zcGVlZHRlc3QiLCAidGxzIjogInRscyIsICJzbmkiOiAiaW1hZmFrZS5sb2NrZXIiLCAiZnAiOiAiY2hyb21lIiwgIm5hbWUiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVTIDE0IiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhcdTAwYWVcdWZlMGZVbml0ZWQgU3RhdGVzXHUwMGE5XHVmZTBmRnJlbW9udFx1ZDgzY1x1ZGQ3Zlx1ZmUwZnBpbmc6MTkwLjRtcyJ9
 #profile-title: base64:UFNHIHwgTUlY
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://t.me/yebekhe
 #profile-web-page-url: https://github.com/itsyebekhe/PSG
-trojan://telegram-id-privatevpns@63.181.74.15:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B12%5D
-trojan://telegram-id-privatevpns@15.188.166.63:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B13%5D
-trojan://telegram-id-privatevpns@35.180.217.68:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40privatevpns%20%5B14%5D
-vless://9b0c1d6e-7f6e-4b06-96ba-b8a397a69166@usa29.unlockmatrix.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2ray1_ng%20%5B2%5D
-vmess://eyJwYXRoIjoiXC8iLCJpZCI6IjI2NDAyYmM3LTc4OTUtNGRkMC1hZTZlLTE1MWEwMGM3MTE0NSIsIm5ldCI6InRjcCIsImhvc3QiOiJ1cGxvYWRib3kuY29tIiwic2N5IjoiIiwicG9ydCI6IjEwMCIsImFkZCI6ImNwYW5lbC5uYXZhcjEuaXIiLCJwcyI6Ilx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSBERSB8IFx1ZDgzZFx1ZGQxMyBWTUVTUyB8IEB2MnJheV9mcmVlX2NvbmYgWzE4XSJ9
-vmess://eyJhZGQiOiIxMDQuMjM4LjEzMy4xMTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiY2Y4ZGUwZTktZmMzYy00NmFiLWVkYTEtYjViMTI5MTNhYTA3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzNDEyMCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMgfCBcdWQ4M2RcdWRkMTMgVk1FU1MgfCBAdjJyYXlfZnJlZV9jb25mIFsxOV0ifQ
+
+
 
 
 
