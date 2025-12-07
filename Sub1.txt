@@ -8,7 +8,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vmess://eyJhZGQiOiI2Mi4xNDYuMjM1LjE5MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjZmM1YTg3Zi0zYzEzLTRlMjUtYjU1Ni0xNzZjZGQ2YjVjNmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4MDExIiwicHMiOiJBbGwtQFYycmF5QWxwaGEtLTI0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwIiwicHMiOiJXaUZpLUBWMnJheUFscGhhLS0zIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==vless
 vmess://eyJhZGQiOiJubTczODYudGVlb29tYm9vbS5kZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoibm03Mzg2LnRlZW9vbWJvb20uZGUiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii92aWRlby8ydXB2eGxhLm0zdTgiLCJwb3J0IjoiNDQzIiwicHMiOiJBbGwtQFYycmF5QWxwaGEtLTEiLCJzY3kiOiJhdXRvIiwic25pIjoibm03Mzg2LnRlZW9vbWJvb20uZGUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==vmess
 vmess://eyJhZGQiOiJneG9nczIudGVlb29tYm9vbS5kZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ3hvZ3MyLnRlZW9vbWJvb20uZGUiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii92aWRlby9qNm9xNHcwdC5tM3U4IiwicG9ydCI6IjQ0MyIsInBzIjoiQWxsLUBWMnJheUFscGhhLS0zIiwic2N5IjoiYXV0byIsInNuaSI6Imd4b2dzMi50ZWVvb21ib29tLmRlIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=vmess
@@ -503,3 +502,4 @@ vless://8a6d643c-39bf-4d11-998a-62e3bc9a7ba4@betty.ns.cloudflare.com:443?encrypt
 vless://e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f@91.107.178.246:41647?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#DE%20VLESS-41%20%7C%20free-nodes
 vless://5f81ae57-1b77-45df-9ba1-a774c040bc5e@meg.ns.cloudflare.com:443?encryption=none&amp;security=tls&amp;sni=ice-nimejam.info&amp;type=ws&amp;alpn=&amp;host=ice-nimejam.info&amp;path=/perform#US%20VLESS-42%20%7C%20free-nodes
 vless://e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f@91.107.169.78:41647?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#DE%20VLESS-43%20%7C%20free-nodes
+vless://0945839b-113a-4272-a67c-1852b990abf5@m80a.vip784.com:33801?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.ir#%E6%9C%AA%E7%9F%A5%20VLESS-44%20%7C%20free-nodes
