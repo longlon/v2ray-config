@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-
-#آموزش_تصویری🎈🎈آموزش استفاده از برنامه v2rayNG (اندروید)🎈1. اول از همه برنامه رو دانلود و نصب کنید که فایل نصب برنامه داخل کانال هست. از گوگل پلی یا هر منبع معتبر دیگه هم میتونید نصب کنید.2. بعد از نصب یکی از سرور های shadowsocks که داخل کانال قرار میگیره و با vmess یا vless شروع میشه رو کپی کنید.3. وارد برنامه v2rayNG رو بشید و روی گزینه + گوشه بالا بزنید و گزینه Import config from Clipboard رو انتخاب کنید تا سرور شدوساکس داخل برنامه اضافه بشه و در نهایت روی گزینه دایره ای V شکل گوشه پایین بزنید تا اتصال برقرار بشه و رنگ دایره به سبز تغییر کنه و عبارت Connected نمایش داده بشه.نکته: میتونید چندتا سرور داخل برنامه اضافه کنید تا هر کدوم وصل نشد، یکی دیگه رو امتحان کنید.🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈 • More: @Proxy_Beta
-
 ➕نحوه   نصب   برنامه    برای   iOS ? لینک دانلود برای iOShttps://apps.apple.com/us/app/napsternetv/id1629465476🎈آموزش استفاده از v2ray در آیفون🎈🎈برای گوشی های آیفون باید shadowlink رو از اپ استور دانلود و نصب کنید.🎈وارد برنامه شده (برای دفعه اول یک صفحه باز می شود که روی گزینه x گوشه بالا بزنید. داخل صفحه اصلی روی گزینه Server بزنید و در صفحه جدید از گوشه بالا سمت راست گزینه Add رو انتخاب کنید.🎈حالا گزینه Server urls رو انتخاب کنید و داخل کادر نمایش داده شده، یکی از آدرس های vmess  یا vless که داخل کانال قرار گرفته رو جایگذاری و گزینه Save رو انتخاب کنید.🎈حالا در لیست Server در قسمت Custom Server یک سرور جدید اضافه شده که انتخابش کنید و بهش وصل بشید.🎈امیدوارم به کارتون بیاد🌺 • More: @Proxy_Beta
 
 
@@ -503,3 +500,6 @@ vless://12345678-1234-1234-1234-123456789123@160.153.0.61:2096?path=%2Fsnippets&
 vless://12345678-1234-1234-1234-123456789123@167.68.42.61:2096?path=%2Fsnippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#%3E%3E%40V2RAY_VMESS_free%3A%3AUS
 vless://12345678-1234-1234-1234-123456789123@188.164.248.61:2096?path=%2Fsnippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#%3E%3E%40V2RAY_VMESS_free%3A%3AUS
 vless://12345678-1234-1234-1234-123456789123@74.49.215.61:2096?path=%2Fsnippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#%3E%3E%40V2RAY_VMESS_free%3A%3AUS
+vless://15ac9083-177e-4852-9acf-a9ccf24e6b35@notifications.platform.dash.cloudflare.com:2052?encryption=none&security=none&type=ws&host=udbdushs-28727272-idbsisbsha-iwiwiw.poshakhowdy.ir&path=%2F#%3E%3E%40v2ray_configs_pool%3A%3AXX
+vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&encryption=none&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i2pd.website&sid=55e6af1a35e64a98#%3E%3E%40FreakConfig%3A%3AIL
+vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&sid=#%3E%3E%40oneclickvpnkeys%3A%3AUS
