@@ -207,19 +207,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 #آموزش_تصویری🎈🎈آموزش استفاده از برنامه v2rayNG (اندروید)🎈1. اول از همه برنامه رو دانلود و نصب کنید که فایل نصب برنامه داخل کانال هست. از گوگل پلی یا هر منبع معتبر دیگه هم میتونید نصب کنید.2. بعد از نصب یکی از سرور های shadowsocks که داخل کانال قرار میگیره و با vmess یا vless شروع میشه رو کپی کنید.3. وارد برنامه v2rayNG رو بشید و روی گزینه + گوشه بالا بزنید و گزینه Import config from Clipboard رو انتخاب کنید تا سرور شدوساکس داخل برنامه اضافه بشه و در نهایت روی گزینه دایره ای V شکل گوشه پایین بزنید تا اتصال برقرار بشه و رنگ دایره به سبز تغییر کنه و عبارت Connected نمایش داده بشه.نکته: میتونید چندتا سرور داخل برنامه اضافه کنید تا هر کدوم وصل نشد، یکی دیگه رو امتحان کنید.🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈 • More: @Proxy_Beta
 
 #آموزش_تصویری🎈🎈آموزش استفاده از برنامه v2rayNG (اندروید)🎈1. اول از همه برنامه رو دانلود و نصب کنید که فایل نصب برنامه داخل کانال هست. از گوگل پلی یا هر منبع معتبر دیگه هم میتونید نصب کنید.2. بعد از نصب یکی از سرور های shadowsocks که داخل کانال قرار میگیره و با vmess یا vless شروع میشه رو کپی کنید.3. وارد برنامه v2rayNG رو بشید و روی گزینه + گوشه بالا بزنید و گزینه Import config from Clipboard رو انتخاب کنید تا سرور شدوساکس داخل برنامه اضافه بشه و در نهایت روی گزینه دایره ای V شکل گوشه پایین بزنید تا اتصال برقرار بشه و رنگ دایره به سبز تغییر کنه و عبارت Connected نمایش داده بشه.نکته: میتونید چندتا سرور داخل برنامه اضافه کنید تا هر کدوم وصل نشد، یکی دیگه رو امتحان کنید.🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈 • More: @Proxy_Beta
@@ -503,3 +490,16 @@ trojan://f52d0a04-94ad-4f9e-9945-4c3d43374e36@www.shopify.com:2096/?type=ws&host
 trojan://vwhoUdVRNtFBKstJd1gpuA@45.144.51.35:7390?security=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3APL
 trojan://vwhoUdVRNtFBKstJd1gpuA@64.225.81.161:7393?security=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3ANL
 trojan://vwhoUdVRNtFBKstJd1gpuA@137.74.41.156:7494?security=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AFR
+trojan://vwhoUdVRNtFBKstJd1gpuA@64.225.93.183:7391?security=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3ADE
+trojan://vwhoUdVRNtFBKstJd1gpuA@209.97.191.29:7392?security=none&headerType=none&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3AGB
+vless://0a49a5cb-526c-471d-b08e-1a52d52ee635@france.streamvault-premium.site:80/?type=ws&encryption=none&flow=&host=france.streamvault-premium.site&path=%2Fvless#%3E%3E%40oneclickvpnkeys%3A%3AFR
+vless://12345678-1234-1234-1234-123456789123@188.164.248.61:2096?path=%2Fsnippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#%3E%3E%40V2RAY_VMESS_free%3A%3AUS
+vless://0c24b522-06b9-4767-f67e-59a34c5aeeb7@aqua-aria.company:2096/?type=ws&encryption=none&flow=&host=deguo2.shuiwudengli.dpdns.org&path=%2F&security=tls&sni=deguo2.shuiwudengli.dpdns.org#%3E%3E%40oneclickvpnkeys%3A%3AGB
+vless://12345678-1234-1234-1234-123456789123@74.49.215.61:2096?path=%2Fsnippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#%3E%3E%40V2RAY_VMESS_free%3A%3AUS
+vless://12345678-1234-1234-1234-123456789123@195.85.23.61:2096?path=%2Fsnippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#%3E%3E%40V2RAY_VMESS_free%3A%3AUS
+vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&encryption=none&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i2pd.website&sid=55e6af1a35e64a98#%3E%3E%40v2nodes%3A%3AIL
+vless://1602a406-a38e-4211-bbdc-3f75c890303d@209.38.52.51:4655?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40FreakConfig%3A%3AXX
+vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&sid=#%3E%3E%40EliV2ray%3A%3AUS
+vless://1602a406-a38e-4211-bbdc-3f75c890303d@45.81.113.60:4656/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AXX
+vless://1602a406-a38e-4211-bbdc-3f75c890303d@138.197.234.185:4655?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2nodes%3A%3AUS
+vless://161fa2ac-9618-4a3c-bc9b-5420ecc1826e@104.21.47.6:443?security=tls&type=ws&path=%2F%3F%40V2rayBaaz------%40V2rayBaaz&host=v2ray-vmess-free.irnoen.workers.dev&sni=v2ray-vmess-free.irnoen.workers.dev&fp=chrome&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AUS
