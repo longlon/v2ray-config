@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.68.250:1281?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.68.250-0389
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.63.16:1281?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.63.16-0385
+trojan://4843e94d205f3893f588255a591abe94@160.16.105.192:4006?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.105.192-0379
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.116.227:1281?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.116.227-0383
 trojan://4843e94d205f3893f588255a591abe94@160.16.70.180:3423?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.70.180-0902
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.154.204.7:990#%F0%9F%87%A8%F0%9F%87%A6CA-45.154.204.7-0361
 trojan://4843e94d205f3893f588255a591abe94@160.16.85.33:3901?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.85.33-0395
@@ -182,6 +186,7 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTgiLCJhZGQiOiIxNjEuMjQ4LjMwLjMiLCJwb3J0Ijoi
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTkgODI1LjRLQi9zIiwiYWRkIjoiZHY0Ljc4OTkwMC54eXoiLCJwb3J0IjoiMjA5NiIsImlkIjoiMGM4ZjNlMjktNGVjOS00YmE2LWE2ZWYtNDQ4Nzg3M2Y1ZDA1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiZHY0Ljc4OTkwMC54eXoiLCJwYXRoIjoiLzBjOGYzZTI5LTRlYzktNGJhNi1hNmVmLTQ0ODc4NzNmNWQwNS12bSIsInRscyI6InRscyIsInNuaSI6ImR2NC43ODk5MDAueHl6IiwidGVzdF9uYW1lIjoiMTkifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjAiLCJhZGQiOiI0Ny44My4xOC4xMCIsInBvcnQiOiIzNjk2OCIsImlkIjoiMTc2YmYxZGQtNjQ3Zi00YzA5LTg5MmUtNWY5MjIzZGM4NjE3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyMCJ9
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjEiLCJhZGQiOiJ5aWNodWVuZy5vcmciLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJ5aWNodWVuZy5vcmciLCJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6InlpY2h1ZW5nLm9yZyIsInRlc3RfbmFtZSI6IjIxIn0=
+ss://YWVzLTI1Ni1nY206cXcyQndlcXdlM1A2OTdHMmVy@185.60.137.65:16541#[🇮🇷]t.me/ConfigsHub
 trojan://telegram-id-directvpn@35.177.169.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/ConfigsHub
 trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#[🇩🇪]t.me/ConfigsHub
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.129.197.138:2096?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=sni.111000.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.de5.net#[🇬🇧]t.me/ConfigsHub
@@ -191,26 +196,21 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.242.89:80?path=/&security=no
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.109.48:80?path=/&security=none&encryption=none&host=us3.rtacg.com&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://661e8eb5-c7eb-4bb0-b58f-46a5bb3f8f74@norkello.online:8443?security=reality&encryption=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=8f222b3475800821#[🇷🇺]t.me/ConfigsHub
 vless://71031aa1-067e-425e-97f5-37875f838a10@51.250.38.137:4443?security=reality&encryption=none&pbk=2W9bsI7dX2ryZNdv_GLh3YuO2ynFGsdu3Iz3fgWU5CQ&headerType=none&fp=chrome&type=tcp&sni=eh.vk.com&sid=cee8#[🇷🇺]t.me/ConfigsHub
+vless://TELEGRAM-CONFiGLiNE-131@speedtest.net:80?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=1024&security=&encryption=none&host=barayekhoda.global.ssl.fastly.net&type=ws#[🇺🇸]@configLINE(2)
+vless://TELEGRAM-NUFiLTER-1@speedtest.net:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80&security=&encryption=none&host=onlygodi.global.ssl.fastly.net&type=ws#[🇨🇭]@NUFiLTER
 vless://c3c64c0d-014a-4395-b6b8-823a6bed7e96@49.12.193.246:443?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://ca2b2268-e2c4-4a78-beee-111189a861e7@144.31.90.91:8104?security=reality&encryption=none&pbk=4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=1afc9d750da1ba88#[🇫🇮]t.me/ConfigsHub
 vless://ca2b2268-e2c4-4a78-beee-111189a861e7@144.31.90.97:8104?security=reality&encryption=none&pbk=4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=1afc9d750da1ba88#[🇫🇮]t.me/ConfigsHub
 vless://ca2b2268-e2c4-4a78-beee-111189a861e7@fi-h2-01.com:8104?security=reality&encryption=none&pbk=4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=1afc9d750da1ba88#[🇫🇮]t.me/ConfigsHub
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?path=/&security=tls&encryption=none&insecure=0&host=nexovh21.sepiol.name.NG&fp=chrome&type=ws&allowInsecure=0&sni=nexovh21.sepiol.name.NG#[🇸🇪]t.me/ConfigsHub
 vless://e258977b-e413-4718-a3af-02d75492c349@188.253.27.190:443?path=/&security=tls&encryption=none&host=ww3.xaniujp1.qzz.io&type=ws&sni=ww3.xaniujp1.qzz.io#[🇳🇱]t.me/ConfigsHub
+vless://f02506a5-2685-4ec8-bd4e-70f53002bc02@Evay-vpn.octacityroleplay.ir:1122?encryption=none&type=xhttp&host=join-bede-evay_vpn.org&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=www.slideshare.net&pbk=4iCkO1B_tdvJY7x_v9izvkoNDfdGIFiL2LQX2Nqv5RI&sid=4c7b0ea36fc7f0c4#🇩🇪 | @EVAY_VPN
 vless://👉👉BanV2ray👈👈@bastion.h3.speed.cloudflare.com:80?path=/www.speedtest.net-www.bunny.net-www.speedtest.net-www.speedtest.net-www.bunny.net-www.speedtest.net-www.speedtest.net-www.bunny.net-www.bunny.net-www.speedtest.net-www.bunny.net-www.speedtest.net?ed=32143&encryption=none&host=visvuev-272526281716252527717252.poshakhowdy.ir.&type=ws#@YamYamProxy
 #profile-title: base64:UFNHIExpdGUgfCBNSVg=
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://t.me/yebekhe
 #profile-web-page-url: https://github.com/itsyebekhe/PSG
-
-
-
-
-
-
-
-
 
 
 
