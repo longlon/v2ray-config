@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&sni=147135001195.sec22org.com&type=tcp&fp=chrome#[
 vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#[
 vless://ea286109-d20f-415e-849e-4af20ab04b65@147135001195.sec22org.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#@meli_proxyy
@@ -503,3 +502,4 @@ vless://6d288402-6ef9-4092-9d52-c528690fb693@chatgpt.com:2053?path=/ifzr5xrgltxb
 vless://6d288402-6ef9-4092-9d52-c528690fb693@chatgpt.com:2053?path=/ifzr5xrgltxbyevl/mtixlju0ljmwlje1oq==?ed=2560&security=tls&encryption=none&insecure=0&host=pmlmyazd-6s6.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=pmlmyazd-6s6.pages.dev#@vpnbaz | نت ملی
 vless://6e8d6b76-c3ff-4cdc-aa9c-be6731789b76@chatgpt.com:443?mode=auto&path=/cloudapi&security=tls&alpn=h2&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&insecure=0&host=a.speedur.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=a.speedur.ir#@TeLPJ+یک+دقیقه+زمان
 vless://6e8d6b76-c3ff-4cdc-aa9c-be6731789b76@chatgpt.com:443?mode=auto&path=/cloudapi&security=tls&alpn=h2&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, %2…#@TeLPJ+یک+دقیقه+زمان
+vless://6e8d6b76-c3ff-4cdc-aa9c-be6731789b76@chatgpt.com:443?security=tls&type=xhttp&headerType=&path=/cloudapi&host=w.broadcasp.top&mode=auto&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&sni=w.broadcasp.top&fp=chrome&alpn=h2#@TeLPJ+یک+دقیقه+زمان
