@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#@V2rayNG3
+trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@yyyhhjki.taipei101.indevs.in:443?security=tls&sni=YyYhHjKI.TAIPEi101.INdEVs.in&insecure=0&allowInsecure=0&type=ws&host=YyYhHjKI.TAIPEi101.INdEVs.in&path=/Klh0x8wtLpTGA5AqzZ2Mj#کانفیگ رایگان = t.me/arisping
 trojan://BxceQaOe@13.115.255.135:2762/?sni=t.me/ripaojiedian&allowInsecure=1&fp=chrome#@v2rays_ha 8061
 trojan://BxceQaOe@218.250.156.130:443?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#کانفیگ رایگان = t.me/arisping
 trojan://BxceQaOe@43.198.233.56:381?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me/ripaojiedian#ConfigV2RayNG
@@ -501,5 +503,3 @@ vless://1fc319c6-fbfb-4054-9f58-806170f02a2a@167.235.68.235:8880?type=tcp&encryp
 vless://1fd1d4af-9638-4fee-8276-f22fcaa46725@argonshop1.parsianboton.ir:8443?security=tls&type=ws&headerType=&path=/?ed=80&host=111.parsianboton.ir&sni=111.parsianboton.ir&fp=chrome&alpn=h3,h2,http/1.1#Config 2 - @lebertad
 vless://1fd1d4af-9638-4fee-8276-f22fcaa46725@argonshop1.parsianboton.ir:8443?security=tls&type=ws&headerType=&path=/?ed=80&host=111.parsianboton.ir&sni=111.parsianboton.ir&fp=chrome&alpn=h3,h2,http/1.1#Join ➣ @proxy_kafee
 vless://1fd1d4af-9638-4fee-8276-f22fcaa46725@f35.farshdastba.ir:80?extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&headerType=&host=qhor1-name.global.ssl.fastly.net&mode=auto&path=&security=none&type=xhttp#Config 2 - @lebertad
-vless://1fd1d4af-9638-4fee-8276-f22fcaa46725@f35.farshdastba.ir:80?mode=auto&security=&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}@configmh&host=qhor1-name.global.ssl.fastly.net&type=xhttp#none
-vless://1fd1d4af-9638-4fee-8276-f22fcaa46725@f35.farshdastba.ir:80?mode=auto&security=none&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=qhor1-name.global.ssl.fastly.net&type=xhttp#horn_proxy 8
