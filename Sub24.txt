@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://19a1e5b1-6289-4fe6-9aad-be285510942d@av.nexconnx.com:8080/?encryption=none&flow=&host=check-host.net&type=tcp&headerType=http#%3E%3E%40oneclickvpnkeys%3A%3ANL
 vless://1f3b130d-7d29-45d1-b5aa-adc5cd94a885@sktr.berkeart.ir:19702/?type=grpc&encryption=none&flow=&serviceName=xyz&sni=check-host.net&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%3E%3E%40oneclickvpnkeys%3A%3AFR
 vless://20adc847-4159-4f39-b79f-d563b660945f@57.128.159.109:2345/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://20adc847-4159-4f39-b79f-d563b660945f@simurgh.adslimit.info:2345/?type=tcp&encryption=none&flow=#%3E%3E%40oneclickvpnkeys%3A%3AGB
@@ -502,4 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8
 vmess://ewogICAgImFkZCI6ICJuMTc1MjgzMzE4NC5saWU1ZC5jeW91IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAibjE3NTI4MzMxODQubGllNWQuY3lvdSIsCiAgICAiaWQiOiAiNmM3ZDA5ZTMtOWNmYS00MWM4LTgxOTQtZTgxZWIyMWJmYjg4IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4et8J+HsEhLLTQ3LjI0My44Ny4xNTgtMDI4NiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#%F0%9F%87%A7%F0%9F%87%B7BR-38.54.57.90-0255
 trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443?security=tls&sni=free-de-2.undef.network#%F0%9F%87%A9%F0%9F%87%AADE-185.235.137.29-0296
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.186.143.32:989#%F0%9F%87%B5%F0%9F%87%AAPE-138.186.143.32-0269
