@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=0&sni=backup.f-sub.cfd#@MxV2ray
 vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=1&sni=backup.f-sub.cfd#E122
 vless://991519c1-3680-49b7-bb9f-9029a7a39067@c2.s-sub.org:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=0&sni=backup.f-sub.cfd#IR-@V2rayAlpha-16
 vless://991519c1-3680-49b7-bb9f-9029a7a39067@vip-80.f-sub.cfd:1517?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#IR-@V2rayAlpha-24
@@ -502,4 +503,3 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.17.98.251:443?encryption=none&s
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.17.98.251:443?path=/&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=joinProxyVPN11.afrcloud22.mmv.kr#vpnsal
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.17.98.251:443?path=/&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=joinProxyVPN11.afrcloud22.mmv.kr#@chillguy_vpn
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.17.98.251:443?path=/&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=joinProxyVPN11.afrcloud22.mmv.kr#🛡 V 102 @Outline_Vpn
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.17.98.251:443?path=/&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=joinProxyVPN11.afrcloud22.mmv.kr#Channel : @Daily_Configs
