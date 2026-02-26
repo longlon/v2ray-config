@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.225.72.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#%3E%3E%40v2ray1_ng%3A%3AUS
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%3E%3E%40outline_vpn%3A%3ADE
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.246.55.238:2096?type=ws&security=tls&encryption=none&fp=chrome&sni=sni.jpmj.dev&path=/%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&host=sni.jpmj.dev#%3E%3E%40configshub2%3A%3AUS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=%2F#%3E%3E%40v2line%3A%3AUS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.67.224.0:443?type=ws&security=tls&sni=holy-dawn-e9ec.jonas05-ba6.workers.dev&host=holy-dawn-e9ec.jonas05-ba6.workers.dev&path=%2Fsni.111000.dynv6.net%2F%3Fed%3D2560#%3E%3E%40configshub2%3A%3AUS
@@ -503,3 +501,5 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576/?type=tcp&encry
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@147.78.0.182:990#%F0%9F%86%94Telegram%20%3A%20%40planB_net
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#@shadow_vpn🧣
 vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.50.126:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#@chillguy_vpn
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.48.224:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#@chillguy_vpn
+vless://003ef206-46b6-3701-ab77-b03debe7511f@s1.db-link.in:443?encryption=none&security=tls&sni=dabaihk.webn.cc&alpn=h3%2Ch2&fp=chrome&insecure=1&type=ws&host=dabaihk.webn.cc&path=%2Fdb1024143bf11354#@chillguy_vpn
