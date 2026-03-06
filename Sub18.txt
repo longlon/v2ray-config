@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42622/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#@chillguy_vpn
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42122?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#@chillguy_vpn
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?type=grpc&path=%2f#@Proxy_sh`
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43393/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#@chillguy_vpn
@@ -148,6 +147,22 @@ vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@162.159.38.99:2096?path=%2F45.76.18
 
 # ============ OTHER CONFIGS ============
 
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJhZGQiOiJzeTQuNjIwNzIwLnh5eiIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiNTE2ZDhhN2EtM2YwYi00MWQzLWJhZDAtMjQ2MTE2MzgxNTE2IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0Ijoic3k0LjYyMDcyMC54eXoiLCJ0bHMiOiJ0bHMifQ==
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?allowInsecure=0&sni=web.max.ru#%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20V2CROSS.COM
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?allowInsecure=0&sni=www.semanticstaplegun.click#%F0%9F%87%AA%F0%9F%87%B8%20%E8%A5%BF%E7%8F%AD%E7%89%99%20V2CROSS.COM
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7Mg5Lit5Zu9IFYyQ1JPU1MuQ09NIiwiYWRkIjoidjMwLmhkYWNkLmNvbSIsInBvcnQiOiIzMDgzMCIsInR5cGUiOiJub25lIiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii9vYmoiLCJob3N0IjoiaW1nMTQuMzYwYnV5aW1nLmNvbSIsInRscyI6IiJ9
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.169:10889?allowInsecure=0&sni=ya.ru#%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20V2CROSS.COM
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJhZGQiOiJnYm5oanUuN25vLmNjd3UuY2MiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiOWY5YjJiYTMtNzdjMS00MDBmLTliNzItNzZiOWIwODI5ZTUxIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii81UFZ2dzI2amowRnk2Ym9qayIsImhvc3QiOiJnYm5oanUuN25vLmNjd3UuY2MiLCJ0bHMiOiIifQ==
+vless://eb071647-72a6-46be-8e89-ff3d228d52f6@152.53.46.200:443?security=reality&encryption=none&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=at.jojack.ru&sid=8dc4fccb2bcfc99d&note=---@Ho3ein_ezd%0A---@Ho3ein_ezd%0A---@Ho3ein_ezd%0A---@Ho3ein_ezd%0A---@Ho3ein_ezd%0A---@Ho3ein_ezd#%54%65%6C%65%67%72%61%6D%20%69%64%3A%48%6F%33%65%69%6E%5F%65%7A%64
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.181:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=telegram&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#v2ray_dalghak
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#Telegram:@config_proxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#United+Kingdom
+vless://fed05faf-401f-3412-b658-5c96f3095dd0@91.132.51.160:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qzm3WJz3wvusnMdBDNbj-XboJZWGqClcXOOcM-LexkQ&security=reality&sid=e164b85aec8a7422&sni=www.refersion.com&type=tcp#%F0%9F%93%8083@oneclickvpnkeys
+vless://95be7de0-2394-47b8-aa2c-27773d61807f@nl.crunch-crunch.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&security=reality&sid=ea1058117be12087&sni=nl.crunch-crunch.com&type=tcp#%F0%9F%93%8058@oneclickvpnkeys
+vless://Telegram:%40Free_VPN_CH@176.125.240.51:2053?path=/sg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#%40V2raysCollector%20%F0%9F%8C%BA
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ovhwuxian.pai50288.uk#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%3A%20%40argo_vpnn_50
+vmess://eyJ2IjogIjIiLCAicHMiOiAidjJyYXlfZGFsZ2hhayIsICJhZGQiOiAiOTEuMTM0LjguMTAwIiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJrYW1wb25nLm9yZyIsICJwYXRoIjogImxpbmt2d3MiLCAidGxzIjogInRscyIsICJzbmkiOiAia2FtcG9uZy5vcmcifQ==
+vless://a44e0875-210f-4941-9062-89b6361a14c6@94.131.123.167:443?security=reality&encryption=none&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=8bcfe256cf216fd8#%F0%9F%92%9B%40V2rayBaaz%7C%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%D9%85%D9%88%D9%86%20%F0%9F%A4%8D
 #profile-title: base64:UFNHIExpdGUgfCBNSVg=
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
@@ -485,21 +500,6 @@ vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@162.159.38.99:2096?path=%2F45.76.18
 
 
 #ExpressVpn🔥𝗨𝘀𝗲𝗿: malek996@hotmail.com𝗣𝗮𝘀𝘀 : Idontknow1!واسه مودم سرعت عالیه 🚀@v2rayn_server
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
