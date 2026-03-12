@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://65e542e0-0690-4787-b7e3-a4706013097d@vps.jentago.web.id:80/?type=ws&encryption=none&flow=&host=vps.jentago.web.id&path=%2Fvless#%3E%3E%40oneclickvpnkeys%3A%3ASG
+vless://69d38faa-21a1-4d18-82cb-796a942c181b@172.67.111.41:443?allowInsecure=1&encryption=none&host=sfsl.ardomains1.dpdns.org&path=%2F&security=tls&sni=sfsl.ardomains1.dpdns.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.17.46.112:80?encryption=none&host=sfsl.ardomains1.dpdns.org&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://6fd9f786-d974-49d0-b5c4-397678de69a2@193.233.127.219:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&security=reality&sni=www.cybo.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AXX
+vless://711f56b0-0d4c-4516-bea6-0e963749928c@144.31.90.223:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg&security=reality&sni=my-rebar.shop&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://711f56b0-0d4c-4516-bea6-0e963749928c@144.31.90.15:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg&security=reality&sni=my-rebar.shop&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://711f56b0-0d4c-4516-bea6-0e963749928c@144.31.90.226:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg&security=reality&sni=my-rebar.shop&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://711f56b0-0d4c-4516-bea6-0e963749928c@144.31.90.17:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg&security=reality&sni=my-rebar.shop&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AFI
@@ -498,8 +503,3 @@ trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=1&ho
 vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@212.87.198.108:443?path=%2F&security=none&encryption=none&type=ws#%F0%9F%A6%89%40FreeConfigForYou
 vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@142.171.65.106:443?path=%2F&security=none&encryption=none&type=ws#%F0%9F%A6%89%40FreeConfigForYou
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprRHQ4Y0cxVExnNHVCMG5VTU9BdQ%3D%3D@91.107.144.0:1080#%F0%9F%A6%89%40FreeConfigForYou
-vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?mode=gun&security=reality&encryption=none&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&fp=chrome&type=grpc&sni=www.ebay.com&sid=775eb6408888248e#%F0%9F%A6%89%40FreeConfigForYou
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjQyNThkYzFiNTM2MTNj@163.171.207.11:29464#%F0%9F%A6%89%40FreeConfigForYou
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZTY4ZDRiZDAwMjQzN2Fi@149.104.71.134:11201#%F0%9F%A6%89%40FreeConfigForYou`
-vless://f62095b5-6e82-43b1-8d79-1358bbeffc62@155.117.5.181:443?encryption=none&security=none&type=ws&path=%2F%40FeriVP%2F%40FeriVP%2F%40FeriVP#%40FeriVP-FREE```
-vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.48.237:22955?mode=gun&security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#%40v2_mod_shop%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
