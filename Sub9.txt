@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e47eba6b-05f1-46d9-82e1-0d145faa7d53@172.64.229.120:443/?type=ws&encryption=none&flow=&host=xiaoli0772.ccwu.cc&path=%2Fsocks5%3D123%3A123%408.210.81.59%3A3060&security=tls&sni=xiaoli0772.ccwu.cc&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://e47eba6b-05f1-46d9-82e1-0d145faa7d53@172.64.229.128:443?allowInsecure=1&encryption=none&host=xiaoli0772.ccwu.cc&path=%2Fsocks5%3D123%3A123%408.210.81.59%3A3060&security=tls&sni=xiaoli0772.ccwu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.16.250.22:2053?allowInsecure=1&encryption=none&host=ir1.airpanel.top&security=tls&sni=ir1.airpanel.top&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
-vless://e47eba6b-05f1-46d9-82e1-0d145faa7d53@172.64.229.20:443/?type=ws&encryption=none&flow=&host=xiaoli0772.ccwu.cc&path=%2Fsocks5%3D123%3A123%408.210.81.59%3A3060&security=tls&sni=xiaoli0772.ccwu.cc&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.18.185.26:2053?allowInsecure=1&encryption=none&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
-vless://e47eba6b-05f1-46d9-82e1-0d145faa7d53@172.64.229.59:443?allowInsecure=1&encryption=none&host=xiaoli0772.ccwu.cc&path=%2Fsocks5%3D123%3A123%408.210.81.59%3A3060&security=tls&sni=xiaoli0772.ccwu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://e47eba6b-05f1-46d9-82e1-0d145faa7d53@172.64.229.118:443?allowInsecure=1&encryption=none&host=xiaoli0772.ccwu.cc&path=%2Fsocks5%3D123%3A123%408.210.81.59%3A3060&security=tls&sni=xiaoli0772.ccwu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.5:2053?path=%2F&security=tls&encryption=none&host=ir1.airpanel.top&type=ws&sni=ir1.airpanel.top#%3E%3E%40outline_vpn%3A%3AXX
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.21.227.134:2053?allowInsecure=1&encryption=none&host=ir1.airpanel.top&security=tls&sni=ir1.airpanel.top&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.121.11:2053?allowInsecure=1&encryption=none&host=ir1.airpanel.top&security=tls&sni=ir1.airpanel.top&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855/?type=ws&encryption=none&flow=&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3ADK
 vless://e62d084a-b9de-4486-a776-a54d200f89c1@104.21.25.157:443?allowInsecure=1&encryption=none&host=square-sea-36d2.sendconfig.workers.dev&path=ws&security=tls&sni=square-sea-36d2.sendconfig.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
@@ -377,28 +368,37 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-penni
 
 # ============ OTHER CONFIGS ============
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5aHJITURnWjJlZ0tmdHZyZWN2a3BVUHFwVVR5YWM3cUAxOTUuNjYuMjUuMjIwOjgzODg=#@v2rayconfigamir 4405
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTjZYZjBacXdEZUZydDM5VFFyYWVu@45.80.231.75:31019#[🇸🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.158.157.203:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@18.158.157.203:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=/&security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
+vless://03f75e80-2bfd-5608-cc7c-20eb54ddeab8@cloud3.vpsino.com:6344?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://1664c029-8707-52ee-60d7-0ef313fb3bdf@cloud3.vpsino.com:6344?security=none&type=tcp&headerType=none&path=/#[🇮🇷]t.me/ConfigsHub
+vless://16ca4f6f-b540-691b-579a-ceb710a5eb7d@u11-unlim.standalonemsnew.cam:88?security=&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
+vless://1effb118-1f2d-4577-a689-20e21fb50b13@104.64.32.87:443?mode=multi&security=reality&encryption=none&pbk=LXCcjZmNLdp52SG4KRQ6n_yTjkMO9ZkxQGBf3RJ8tiM&fp=chrome&spx=/&type=grpc&serviceName=mci.ir&sni=www.telewebion.ir&sid=cf5415b64e15#[🇧🇷]t.me/ConfigsHub
+vless://3ba5aeb7-10f5-401b-9c71-cf10885154c5@188.214.129.61:22230?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=deepl.com&pbk=ajNtNrFThLn2_WyWnv1Zkf676_i95nCABb2gX7OlHEI&sid=a9725715bf4c62ff#@v2rayconfigamir 7601
+vless://3ba5aeb7-10f5-401b-9c71-cf10885154c5@93.115.27.83:22230?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=deepl.com&pbk=ajNtNrFThLn2_WyWnv1Zkf676_i95nCABb2gX7OlHEI&sid=a9725715bf4c62ff#@v2rayconfigamir 3663
+vless://46063237-3655-482f-947e-7f79dc5de2a5@hamrahiran.sorenashoping.xyz:45571?path=/&security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
+vless://69183890-16f7-42e5-9e84-53875e6c3eb3@turki.esrtz.onl:443?mode=auto&security=none&encryption=none&type=xhttp#Telegram:  @Zero_Tunnel
+vless://85df0ad4-8818-4aa5-9799-4bb7232de9e0@ip1-fast.tyryqyserver.ir:80?path=/?ed=2052&security=none&encryption=none&host=tamamde1.global.ssl.fastly.net&type=ws#@v2rayconfigamir 1238
+vless://85df0ad4-8818-4aa5-9799-4bb7232de9e0@ip3-fast.tyryqyserver.ir:80?path=/?ed=2052&security=none&encryption=none&host=tamamde1.global.ssl.fastly.net&type=ws#@v2rayconfigamir 9009
+vless://86a0b881-10a8-0541-151f-d161aa99380a@cloud3.vpsino.com:6344?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://9528078a-6ff0-403e-bc87-eb898c774a87@104.21.55.47:2087?security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#[🇨🇦]t.me/ConfigsHub
+vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@212.34.142.191:8443?security=reality&encryption=none&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f7aa9e61197d3ac6#[🇳🇱]t.me/ConfigsHub
+vless://bc019623-ecae-4ee0-8826-6e96f6942263@lithuania1.labburo.su:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=Md6aue1Va7LhOd3dfKwSV4GnRCJYKyzf1JmGlD-7IH8&sid=3c7dbf0e7bd3d03c&sni=lithuania1.labburo.su&path=&host=#@v2rayconfigamir 7878
+vless://d9b788fd-c565-4c77-8bf7-f7319d099429@cb.onlinenet99.xyz:41283?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@fsl.narton.ir:443?path=/--Telegram---MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN&security=tls&encryption=none&host=mitivpn-s1.global.ssl.fastly.net&fp=chrome&type=ws&sni=mitivpn-s1.global.ssl.fastly.net#@v2rayconfigamir 7539
+vless://f8c5b018-f51a-4137-be8a-50a451630589@45.12.136.48:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=E-fIlniARgucl-Y8wctxQr4wPuDibRYnOCHCYAEVbws&sid=0cfdd64c&sni=mirror.yandex.ru#@v2rayconfigamir 8969
+vless://fa5340a4-e8b3-4058-a6ff-64cfc1daaf44@185.143.234.122:80?path=/&security=none&encryption=none&host=amm3.avenflow.ir&type=ws#amirzanganeh
+vmess://eyJhZGQiOiI2NS4yMS4xNDUuMTIyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImUyOTM2NGIyLWJhOWEtNDk3NS04NWNhLTdlYmMzOTgxYzljYSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjIzNTIiLCJwcyI6Ilvwn4er8J+Hrl10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJtZWwudXNkdGJhbWEuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjNiODc0OWJmLWU0YjktNDhlMS04ZjZlLTI5N2M2OTVlYTZiOCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODQ0MyIsInBzIjoiW/Cfh67wn4e3XXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJzbmFwcC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiY2RuMS53YXZtdXNpYy5pciIsImlkIjoiMWI3ZjAzMTMtNmUzNy00YjQzLWI4M2YtMjFjMmZlYTNjOWJmIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3NuYXBwIiwicG9ydCI6IjgwIiwicHMiOiJb8J+HrvCfh7dddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 #profile-title: base64:UFNHIExpdGUgfCBNSVg=
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://t.me/yebekhe
 #profile-web-page-url: https://github.com/itsyebekhe/PSG
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
