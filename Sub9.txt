@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.36.20:2083?allowInsecure=1&encryption=none&host=newwk1.f1w.de5.net&path=%2F&security=tls&sni=newwk1.f1w.de5.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.6.134:2086?encryption=none&host=index.0x15.workers.dev&path=%2FPdgTMW8NBNZYo6L23v&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://d2d0f796-edb0-427a-af32-ae360679f9e7@172.66.1.143:443?allowInsecure=1&encryption=none&host=rayan-007.foton.dpdns.org&path=%2F&security=tls&sni=rAyAn-007.fOtOn.dPdNs.oRg&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://d2d0f796-edb0-427a-af32-ae360679f9e7@162.159.141.147:443?allowInsecure=1&encryption=none&host=rayan-007.foton.dpdns.org&path=%2F&security=tls&sni=rAyAn-007.fOtOn.dPdNs.oRg&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.19.174.68:2053?allowInsecure=1&encryption=none&host=hio-awx.pages.dev&path=%2Ffast&security=tls&sni=hio-awx.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://d706bf16-124a-417b-aaa0-0d6d5efd58fd@38.60.212.251:29059?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=V_eMkcHXf237wGyfggMHHRvQqw51rW1UJPEIw_T2IE4&security=reality&sid=6ba85179e30d4fc2&sni=mensura.cdn-apple.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AJP
 vless://d1209ffb-c159-48d5-b40d-542ce11fc768@80.253.249.251:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Wvt6tuMcFY9rWF2BsdAD4DXgLAoxQJxHWlao2BPR23Y&security=reality&sni=apple.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.36.5:2083?allowInsecure=1&encryption=none&host=newwk1.f1w.de5.net&path=%2F&security=tls&sni=newwk1.f1w.de5.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
@@ -395,13 +400,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-penni
 
 # ============ OTHER CONFIGS ============
 
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrPCfh6cg6Iux5Zu9IFYyQ1JPU1MuQ09NIiwiYWRkIjoiODIuMTk4LjI0Ni45NyIsInBvcnQiOiIxODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvaGVsbG8iLCJob3N0IjoianAxLnNzdGFuay50b3AiLCJ0bHMiOiIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%20Microsoft%E5%85%AC%E5%8F%B8
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?allowInsecure=1&sni=www.semanticstaplegun.click#%F0%9F%87%AA%F0%9F%87%B8%20%E8%A5%BF%E7%8F%AD%E7%89%99%20V2CROSS.COM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%20Microsoft%E5%85%AC%E5%8F%B8
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh7cg5LyK5pyXIFYyQ1JPU1MuQ09NIiwiYWRkIjoidjMwLmhkYWNkLmNvbSIsInBvcnQiOiIzMDgzMCIsInR5cGUiOiJub25lIiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiNTFhYThmNy5oZi5nbGFkb3MtY29uZmlnLm5ldCIsInRscyI6IiJ9
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh7cg5LyK5pyXIFYyQ1JPU1MuQ09NIiwiYWRkIjoidjEyLmhkYWNkLmNvbSIsInBvcnQiOiIzMDgxMiIsInR5cGUiOiJub25lIiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii9naXRodWIuY29tL0FsdmluOTk5OSIsImhvc3QiOiJ3d3cuYmluZy5jb20iLCJ0bHMiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IDNDT03lhazlj7jkvIHkuJrnvZEiLCJhZGQiOiJjaHVuY2hlb24wMy56Z2pvay5jb20iLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjgxZDVjYWM0LWQwMzktNDg3NC05YTIwLWMzOTFmNTgwMDEyZCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6ImNodW5jaGVvbjAzLnpnam9rLmNvbSIsInRscyI6InRscyJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyR2JvLUdtbk1vaE1qSnhPMWxKX2tn@marz.vpsino.com:4475#Piko
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyR2JvLUdtbk1vaE1qSnhPMWxKX2tn@marz.vpsino.com:4891#Piko
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyR2JvLUdtbk1vaE1qSnhPMWxKX2tn@marz.vpsino.com:5570#Piko
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpodmlKWVF3VnZFeUpBRWtpU2NvVG9UM1pGZklSbjNKVQ==@vip.tekcloud.site:20900#[🇮🇷]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpodmlKWVF3VnZFeUpBRWtpU2NvVG9UM1pGZklSbjNKVQ@vip.tekcloud.site:20900#[🇮🇷]t.me/ConfigsHub
@@ -411,18 +412,17 @@ vless://22753114-c3cb-4613-9f2d-759a871489f7@ir.gafe-lorbad.ir:443?security=none
 vless://427fc44d-ae6c-48b0-ab80-c645699b38a5@vasl2.kaiserping.site:9096?security=none&encryption=none&host=telewebion.com, ua.yektanet.com&headerType=http&type=tcp#🚀 Telegram:  @Zero_Tunnel
 vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.48.237:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#NetroMap
 vless://6cbac160-3c31-49f6-9fca-14ec07e75949@arvancloud.ir:80?path=/&security=none&encryption=none&host=Cd.bede-baqbon-bilbezane.store&type=ws#[🇮🇷]t.me/ConfigsHub
+vless://8f3f467e-bf21-41ce-99ea-46625fae1142@185.143.234.122:80?path=/&security=none&encryption=none&host=amm3.avenflow.ir&type=ws#🚀 Telegram:  @Zero_Tunnel
 vless://983da2df-bc52-4226-84c1-bbfef0704427@04cc4ef1beb1b536.freestly.sapienza-mahan.ir:443?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=nazan-baba-z2.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=speedtest.net#[🇮🇹]t.me/ConfigsHub
 vless://b8ab59b3-c7f5-42c4-8e09-d0ccaf259c9d@STAR.SPEED.mygoldiran.com:80?path=/wp-content/uploads/user/&security=none&encryption=none&type=ws#[🇮🇷]t.me/ConfigsHub
 vless://bc6f9208-ba56-4678-a29c-afc8b8af9b89@77.83.245.135:34205?encryption=none&type=tcp&headerType=none&security=none#[🇹🇷]t.me/ConfigsHub
+vless://d061c520-1cdb-11f1-972f-92000723b4ab@dlc-new11.persianpinggame.com:5111?security=none&allowInsecure=0&encryption=none&type=tcp&host=myket.ir&path=/&headerType=http#[🇮🇷]t.me/ConfigsHub
 vless://fae38aae-0342-4752-834d-3f7d2ec58ea8@172.237.128.199:443?type=xhttp&path=/&host=&mode=stream-one&securiy=noe#[🏁]t.me/ConfigsHub
 #profile-title: base64:UFNHIExpdGUgfCBNSVg=
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://t.me/yebekhe
 #profile-web-page-url: https://github.com/itsyebekhe/PSG
-
-
-
 
 
 
