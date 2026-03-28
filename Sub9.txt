@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b5be8e3f-a17d-479c-ebdb-9c3265c2cab7@usadt01.jumperservice.com:19001?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM&security=reality&sni=www.speedtest.org&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://b738db04-c73c-4551-b6f2-9041e93914d4@de2.sanzone.ir:4040?encryption=none&headerType=http&host=soft98.ir&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://b2f99930-7d48-4a22-8d67-539c440b6a7a@8adeefa1-96b4-42d4-b163-1e0bf13bae5d.quadzero.online:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=8adeefa1-96b4-42d4-b163-1e0bf13bae5d.quadzero.online&path=%2F01119417&security=tls&sni=8adeefa1-96b4-42d4-b163-1e0bf13bae5d.quadzero.online&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ATR
-vless://b738db04-c73c-4551-b6f2-9041e93914d4@uk2.sanzone.ir:4040?encryption=none&headerType=http&host=soft98.ir&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AGB
-vless://b8b01773-36b1-4b49-9bd0-6249f52345b4@63.141.128.22:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=misty-tooth-78ca.fobogah414-e7b.workers.dev&path=%2FeyJqdW5rIjoiTkNUaFg0ZnJNUjhhcyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=MiSty-tooth-78cA.FoboGAH414-e7B.WoRKERs.DEv&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721?encryption=none&fp=chrome&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&security=reality&sid=df8611c07d&sni=yahoo.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://c29d39bd-92a4-45db-bb61-56013998617c@104.18.109.147:80?encryption=none&host=www.speedtest.net.www.1google.com.bing.com.visa.com.tls.xv98.ip-ddns.com&path=%2FTelegram-XV2ry2&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://bf4c614f-c46d-4db9-b031-62f7e4b85c2c@104.24.39.51:443?allowInsecure=1&encryption=none&host=hex.1tb.workers.dev&path=ws&security=tls&sni=hex.1tb.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://c060fdda-385d-aea1-3982-5a6c92876481@85.133.249.43:58387?security=none&encryption=none&host=arvancloud.ir&headerType=http&type=tcp#%3E%3E%40v2rayng_fast%3A%3AAT
@@ -434,34 +428,40 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-penni
 
 # ============ OTHER CONFIGS ============
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTmpSOGVmN0xFRGQzamVYZEU2UGtk@104.192.227.164:443/?outline=1&prefix= ¨#🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Qlo3VFplbVRmaUg=@ss.us.sshmax.net:8139/?plugin=obfs-local;obfs=http;obfs-host=m.youtube.com;obfs-uri=/#@v2rayconfigamir 8971
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOelF4Wg==#@v2rayconfigamir 6748
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU01vQlZpV21DOHo=@ss.sg.sshmax.net:8139/?plugin=obfs-local;obfs=http;obfs-host=m.youtube.com;obfs-uri=/#@v2rayconfigamir 6342
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#@Hddify عضو شو قطع نشی
+ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#[🇮🇷]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206QjBMUGo@sg-ss-1.sshstores.vip:1443#@v2rayconfigamir 4975
+ss://YWVzLTI1Ni1nY206bXZ4TjE@sg-ss-2.sshstores.vip:1443#@v2rayconfigamir 5299
+trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&type=tcp&headerType=none#@v2rayconfigamir 6920
+trojan://WF42809561@top-goshawk.rooster465.autos:443?security=tls&sni=top-goshawk.rooster465.autos#@v2rayconfigamir 3320
+trojan://telegram-id-directvpn@13.37.210.125:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.37.210.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=pabloping&security=&encryption=none&host=atus.pabloping.pro&type=xhttp#[🏁]t.me/ConfigsHub
+vless://2402d74e-dbad-4ce3-9c0b-9202714715dc@as-pl1.agveit.pro:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=FF9zW6DQkvUZGepS6D7l5MDMzIaKNSWVtDBlmVXeEVw&sid=a252d4d2ccc46a1b&sni=as-pl1.agveit.pro&path=&host=#@v2rayconfigamir 7999
+vless://3104a981-857e-4e2d-8d58-86e06a33b7f5@109.122.201.62:14500?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#Telegram:@Hddify
+vless://3cbad916-d882-4773-8dfb-15564f2d29fe@zone.ca.f2zone.ir:17759?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🚀 Telegram:  @Zero_Tunnel
+vless://420349f3-6024-4457-bde6-b3d11183d728@31.216.62.198:20391?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://65964037-bec2-4fd7-b7c8-053047f48034@185.143.234.200:443?path=/?ed=443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.airasiadl.com&fp=chrome&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.airasiadl.com#@Hddify
+vless://6629e91e-0146-4840-ad9e-4efbebe17f0a@s1.foroshgah12.ir:443?type=tcp&encryption=none&security=reality&pbk=pWCYKDJmbj_WlLTNtzRdY78yxkhkhYUjvQgeLNNdcBM&fp=chrome&sni=www.aparat.com&sid=a8&spx=/#[🇮🇷]t.me/ConfigsHub
+vless://6f99ed2f-9879-40e3-b5b4-5590c60f8e4a@82.26.91.244:443?security=reality&sni=vk.ru&type=grpc&fp=chrome&pbk=g8IbVqG1g7ht5ckWvYgOxZ9CrStwZt8QYQmTEwIWsTU&sid=b5#@v2rayconfigamir 2658
+vless://93526fcb-8dbf-442e-a656-eb304f1da4ef@104.21.224.5:80?path=/&security=none&encryption=none&host=lucky-voice-d6f3.difat89954-0c6.workers.dev&type=ws#🚀 Telegram:  @Zero_Tunnel
+vless://a6eb1781-e671-4a63-ab3a-252079c69b8a@star.smile-loyal.fun:2083?security=none&encryption=none&headerType=none&type=tcp#@@cllubvpn لطفا برای حمایت جوین شید
+vless://a6eb1781-e671-4a63-ab3a-252079c69b8a@star.smile-loyal.fun:2083?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://bc6f9208-ba56-4678-a29c-afc8b8af9b89@77.83.245.135:34205?encryption=none&type=tcp&headerType=none&security=none#[🇹🇷]t.me/ConfigsHub
+vless://bc6f9208-ba56-4678-a29c-afc8b8af9b89@77.83.245.135:34205?security=none&encryption=none&headerType=none&type=tcp#[🇹🇷]t.me/ConfigsHub
+vless://bf263367-bb63-4663-b4a1-34946107a72e@45.144.49.116:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5qvcOTHr_izGbsRz-j2xC3BMMdugFMsl7MnANjzwZ0I&sid=b2a1c97a38&sni=www.apple.com&spx=/#@v2rayconfigamir 4766
+vless://c1e4b6e9-71ac-4e41-992a-c1bdb0d0654a@n4.zeneco.ir:4090?security=none&encryption=none&headerType=none&type=tcp#@Hddify عضو شو قطع نشی
+vless://d8680ca0-b97c-40cf-9726-16c362eadf88@snapp.ir:80?path=/?ed=2048&security=none&encryption=none&host=alfred-af5ad8949d-alfred13.apps.ir-central1.arvancaas.ir&type=ws#@@cllubvpn لطفا برای حمایت جوین شید
+vless://fae38aae-0342-4752-834d-3f7d2ec58ea8@172.237.128.199:443?mode=stream-one&path=/&security=none&encryption=none&type=xhttp#🚀 Telegram:  @Zero_Tunnel
 #profile-title: base64:UFNHIExpdGUgfCBNSVg=
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://t.me/yebekhe
 #profile-web-page-url: https://github.com/itsyebekhe/PSG
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
