@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.15.19:80?encryption=none&host=vahidqaz-ft33vt-1.vahidqaz.workers.dev&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://a22bff60-a40a-4250-bde2-4c660e363b47@104.18.32.47:2096?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=index.harmony702.workers.dev&path=%2Faoz8sb9opsovdegg&security=tls&sni=inDEx.HArMOnY702.workeRS.DEv&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.14.19:80?encryption=none&host=vahidqaz-ft33vt-1.vahidqaz.workers.dev&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@188.114.96.3:443?allowInsecure=1&encryption=none&host=labeller.neonime83.workers.dev&path=%2F&security=tls&sni=labeller.neonime83.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@104.21.25.148:443?allowInsecure=1&encryption=none&host=labeller.neonime83.workers.dev&path=%2F&security=tls&sni=labeller.neonime83.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@172.67.134.82:443?allowInsecure=1&encryption=none&host=labeller.neonime83.workers.dev&path=%2F&security=tls&sni=labeller.neonime83.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@188.114.97.3:443?encryption=none&security=tls&sni=labeller.neonime83.workers.dev&allowInsecure=true&type=ws&host=labeller.neonime83.workers.dev&path=/&packetEncoding=xudp#%3E%3E%40vmess_iran%3A%3AUS
 vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@labeller.neonime83.workers.dev:443?allowInsecure=1&encryption=none&host=labeller.neonime83.workers.dev&path=%2F&security=tls&sni=labeller.neonime83.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://a114d067-b900-4f60-87a5-50d4d63972b8@usa.visa.com:443/?type=ws&encryption=none&flow=&host=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&path=%2F&security=tls&sni=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
@@ -444,27 +438,33 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-penni
 
 # ============ OTHER CONFIGS ============
 
+trojan://telegram-id-privatevpns@52.47.75.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+vless://03aed1cf-adf7-484a-badf-b15748fad9f8@lafaroghbam.btkhomtoro.shop:35576?encryption=none&security=none&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://08238f73-88ae-49e0-81ad-aa0cf0e901d9@simcard.parhamm1.ir:5066?security=none&allowInsecure=0&encryption=none&type=tcp&host=speedtest.net&path=/&headerType=http#[🇮🇷]t.me/ConfigsHub
+vless://08238f73-88ae-49e0-81ad-aa0cf0e901d9@simcard.parhamm1.ir:5066?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Telegram:  @Zero_Tunnel
+vless://12652aba-cb8a-4b26-9bb7-748605b3ee57@shop.webchipro2.ir:7777?security=none&encryption=none&headerType=none&type=tcp#Telegram:  @Zero_Tunnel 🍬
+vless://1667c559-b95b-490e-a45b-4c3ea2b1c52d@www.genshinclub.ir:443?security=reality&encryption=none&pbk=7RnHm0iBdV4mH-3xQ-2urtMp6OMPJ0fGRA3RBV8dino&headerType=none&fp=chrome&spx=/x4gTrPMZ7ZRHF4C&type=tcp&sni=movie.genshinclub.ir&sid=f04818bf#[🇮🇷]t.me/ConfigsHub
+vless://2ed83fb1-6873-439f-abf8-a58015358802@151.101.65.57:80?mode=auto&path=/TignaliSWithYou&security=none&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp#@Telegram:  @Zero_Tunnel
+vless://3f5696fe-068f-4846-9338-6a7ad08382fa@2.144.23.76:81?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://41180db3-a66e-42e4-b0b6-cdfae50ae7fa@download.mobile-yadegar.ir:8080?encryption=none&host=host.mobile-oranous.ir&path=/stream&security=none&type=ws#[🇮🇷]t.me/ConfigsHub
+vless://4a2ef6ae-4795-4edd-9ef7-b7b7edf84206@c3.fast-uploader.net:30004?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://4a2ef6ae-4795-4edd-9ef7-b7b7edf84206@ir167.nastaro.de:6002?security=&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.245.108.104:2053?path=/?telegram🇨🇳@wangcai2=&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#Telegram:  @Zero_Tunnel
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.181.197.138:2096?path=/&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#[🏁]t.me/ConfigsHub
+vless://717ef6a0-1c29-11f1-9350-92000723b4ab@dlc-new11.persianpinggame.com:5111?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://82154867-611d-48a6-92a5-c3eae466b07c@185.83.182.83:45433?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://9da0953c-9ae1-44d9-8482-68d4dac8e6d9@185.143.234.120:443?path=/&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.mahanmapcdn.com&fp=chrome&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.mahanmapcdn.com#[🇮🇷]t.me/ConfigsHub
+vless://b2802815-0d68-4b43-a5bb-39492abb617e@original.mygoldiran.com:22238?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://b2802815-0d68-4b43-a5bb-39492abb617e@original.mygoldiran.com:22238?type=tcp&encryption=none&path=/&host=snapp.ir&headerType=http&security=none#@nftvici
+vless://b4a72b94-58ef-4c86-9e77-13d00a7fe00a@star-18.starz-net.com:2079?security=none&encryption=none&headerType=none&type=tcp#@SPARTAN_YT
+vless://ba9a00a2-3e75-4d13-893b-10208d1cd3c8@node1.aerova.space:39600?security=none&encryption=none&headerType=none&type=tcp#Telegram:  @Zero_Tunnel
+vless://db3cf6e8-515a-47e0-8572-eb47bb611fb2@185.143.233.120:443?path=/?ed=443&security=none&encryption=none&host=alef.ir.oadeflantrogm.realirshop.com&type=ws#[🇮🇷]t.me/ConfigsHub
+vless://f8db6882-e6b2-4f57-bed8-515d094a39e3@79.175.167.196:4041?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#[🇮🇷]t.me/ConfigsHub
 #profile-title: base64:UFNHIExpdGUgfCBNSVg=
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://t.me/yebekhe
 #profile-web-page-url: https://github.com/itsyebekhe/PSG
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
