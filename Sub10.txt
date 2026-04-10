@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b8b01773-36b1-4b49-9bd0-6249f52345b4@63.141.128.22:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=misty-tooth-78ca.fobogah414-e7b.workers.dev&path=%2FeyJqdW5rIjoiTkNUaFg0ZnJNUjhhcyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=MiSty-tooth-78cA.FoboGAH414-e7B.WoRKERs.DEv&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://ba49d874-fe02-465d-82d3-ed981dc7694f@188.114.97.7:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=o94yv7lif0-anxisd9efehvvs7mxn6bh.z-ule-ika-d-e-ne-k-e.workers.dev&security=tls&sni=o94Yv7LIF0-aNXISd9eFehvvS7mxn6bH.Z-ULe-iKa-d-e-ne-K-e.wORkeRs.Dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://bf710ad2-4a43-4379-aa73-e684f00b6240@104.21.39.177:443?allowInsecure=1&encryption=none&host=broad-sky-9360.k7uztejf9ief.workers.dev&path=%2F&security=tls&sni=broad-sky-9360.k7uztejf9ief.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://bf710ad2-4a43-4379-aa73-e684f00b6240@172.67.147.175:443?allowInsecure=1&encryption=none&host=broad-sky-9360.k7uztejf9ief.workers.dev&path=%2F&security=tls&sni=broad-sky-9360.k7uztejf9ief.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?allowInsecure=1&encryption=none&host=broad-sky-9360.k7uztejf9ief.workers.dev&path=%2F&security=tls&sni=broad-sky-9360.k7uztejf9ief.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://ba49d874-fe02-465d-82d3-ed981dc7694f@188.114.98.134:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=o94yv7lif0-anxisd9efehvvs7mxn6bh.z-ule-ika-d-e-ne-k-e.workers.dev&security=tls&sni=o94yv7LiF0-AnxIsd9EFehVvs7mXn6bh.z-UlE-ikA-d-e-nE-k-E.WorkeRs.dEv&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
@@ -427,19 +424,22 @@ trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.crea
 
 # ============ OTHER CONFIGS ============
 
-trojan://413fdb10-a596-4e7c-b081-54243d252894@85.211.192.237:13388?allowInsecure=0&sni=www.baidu.com#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%20V2CROSS.COM
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrPCfh6cg6Iux5Zu9IFYyQ1JPU1MuQ09NIiwiYWRkIjoiODIuMTk4LjI0Ni45NyIsInBvcnQiOiIxODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiVFRiVCRiVCRCVFRiVCRiVCRCVFRiVCRiVCRCVFRiVCRiVCRCVFRiVCRiVCRCVFRiVCRiVCRCUwQSU1QkJ5JTIwRHVrZU1laGRpJTVEJTIwdHJvamFuLUhLJTIwIiwidGxzIjoiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%20%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%99%A9%E5%AE%89%E5%85%A8%E9%83%A8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%20%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%99%A9%E5%AE%89%E5%85%A8%E9%83%A8
-trojan://BvzUvt45hON9We5X9wM6I9ZrxHRcYd46QK@216.238.102.254:26593?allowInsecure=0&sni=sao2.cdn-graph.click#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20V2CROSS.COM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.90.84.164:443#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20DXC%20Technology
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrPCfh6cg6Iux5Zu9IFYyQ1JPU1MuQ09NIiwiYWRkIjoiODIuMTk4LjI0Ni4yNTAiLCJwb3J0IjoiMTgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
-trojan://WwipNOSqUh49CEapMmIrv6m6AZLf-EC0+T@104.238.162.6:13109?allowInsecure=0&sni=ord2.edge-command.click#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20Choopa%E5%85%AC%E5%8F%B8%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 #profile-title: base64:UFNHIExpdGUgfCBNSVg=
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://t.me/yebekhe
 #profile-web-page-url: https://github.com/itsyebekhe/PSG
+
+
+
+
+
+
+
+
+
+
+
 
 
 
