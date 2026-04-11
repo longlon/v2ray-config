@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b38b778b-06f0-4161-91b2-1f0b220b7df4@104.26.15.85:8080?encryption=none&host=015.electrocellco-cf-015.workers.dev&path=%2FeyJqdW5rIjoiQm5nNGZUVWwiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIyMTMuMTcwLjE1Ny4xIl19&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://b738db04-c73c-4551-b6f2-9041e93914d4@18.130.13.55:4040?encryption=none&headerType=http&host=soft98.ir&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://b738db04-c73c-4551-b6f2-9041e93914d4@uk2.sanzone.ir:4040?encryption=none&headerType=http&host=soft98.ir&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://b738db04-c73c-4551-b6f2-9041e93914d4@de2.sanzone.ir:4040?encryption=none&headerType=http&host=soft98.ir&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
@@ -439,27 +438,28 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@188.114.98.0:443?path=%2F89.22.232.
 
 # ============ OTHER CONFIGS ============
 
-vless://0f92dac7-5b3e-4978-b1fb-adc131ab2d9e@verso.legion-bot.site:443?path=/vl/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=verso.legion-bot.site&type=ws&allowInsecure=1&sni=verso.legion-bot.site#@Gangstersdonotcry
-vless://1bbb0321-12b5-4d47-98a1-14d291b05085@devers.amozesh-kade.ir:2053?type=xhttp&security=tls&path=/&host=&mode=auto&sni=devers.amozesh-kade.ir&allowInsecure=1&fp=chrome&alpn=h2,http/1.1#@Gangstersdonotcry
-vless://2f322429-0a2c-4c0e-9a63-0e567be1a2c0@s1.smartphone1.top:34542?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#[🇮🇷]t.me/ConfigsHub
-vless://852a7161-7240-45e3-96fa-5ee2edb08350@video.ir.temas-lomat.ir:80?security=none&encryption=none&headerType=none&type=tcp#@aloconfig_com
-vless://8b552046-d995-4df1-953a-23ca328f095c@185.143.233.200:80?security=none&type=ws&headerType=&path=/?ed=2080&host=final.idbedam.ir#@Gangstersdonotcry
-vless://93657156-0c60-49e3-84f9-95321f36d0f1@varzesh3.com:2082?path=/&security=none&encryption=none&host=salamirani.radv.ir&type=ws#@aloconfig_com
-vless://aca8bc97-2e78-4933-8bc8-ada7cd5a5f20@94.182.92.94:10552?security=&encryption=none&headerType=&type=tcp#@Gangstersdonotcry
-vless://d0643e54-5c6e-47c9-b950-ec9ffe83a32d@ip.iran.mobileemdad.top:8080?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
-vless://d35c5d9b-21b9-48e0-88d1-23b23c2b678d@sv.letknow.shop:1001?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#Join us : @TeleProxyTele
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.185:8880?mode=gun&security=none&encryption=none&type=grpc#Join us : @TeleProxyTele
-vless://e6d6ff8a-b793-45b6-b1ea-80cc88748acd@arvancloud.ir:8080?type=ws&encryption=none&path=/&host=health.xrevenant.ir&security=none#[🇮🇷]t.me/ConfigsHub
-vless://fdfb2965-5754-45b8-afb2-70baef8e874a@snapp.ir:443?security=tls&type=ws&headerType=&path=/login/get/3929429349.rar/fortnite&host=database-cbv.persianstorebnd.ir&sni=database-cbv.persianstorebnd.ir&fp=chrome&alpn=h2,http/1.1#@Gangstersdonotcry
-vmess://eyJhZGQiOiJwdC1uZ2lueC10ZWgtZWNmMzlkMThjOS1ycmh2cC5hcHBzLmlyLXRoci1iYTEuYXJ2YW5jYWFzLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjhjNzQ4YjVkLTIwYTUtNDU4Zi04MjU2LTRiNzhiYjVlYmRjNCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcGkvZGlyZWN0IiwicG9ydCI6IjQ0MyIsInBzIjoiW/Cfh67wn4e3XXQubWUvQ29uZmlnc0h1YiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4Yzc0OGI1ZC0yMGE1LTQ1OGYtODI1Ni00Yjc4YmI1ZWJkYzQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXBpL2RpcmVjdCIsInBvcnQiOiI0NDMiLCJwcyI6IkBjb25maW5nX2Fsc2tpIHwg2YXYrtiy2YYg2qnYp9mG2YHbjNqv2KfbjCDYp9iz2qnbjCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 #profile-title: base64:UFNHIExpdGUgfCBNSVg=
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://t.me/yebekhe
 #profile-web-page-url: https://github.com/itsyebekhe/PSG
 
-
-
+vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@66.81.247.155:443?path=/%3Fed&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40kafing_2%20%231
+vless://83f03646-fb28-44cc-9d2c-8853f6c09285@104.17.162.123:8443?path=/%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&amp%3Bsecurity=tls&amp%3Balpn=http/1.1&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=r4fnviw9jl4i4rx.zjde5.de5.net&amp%3Bfp=random&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=r4fnviw9jl4i4rx.zjde5.de5.net#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40kafing_2%20%231
+trojan://telegram-id-privatevpns@13.36.189.95:22222?security=tls&amp%3Balpn=http/1.1&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40privatevpns%20%231
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@45.131.209.130:8443?path=/57ba2ab1&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=1&amp%3Bhost=ovhwuxian.pai50288.uk&amp%3Btype=ws&amp%3BallowInsecure=1&amp%3Bsni=ovhwuxian.pai50288.uk#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%231
+vless://c395f87b-2f6e-4815-b026-db825f7e1e8a@back.avenprime.ir:80?path=/%3Fed%3D2048&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40prrofile_purple%20%231
+ss://Y2hhY2hhMjAtcG9seTEzMDU6OUFzd1hseHFyT0V1Tm9iVG9OcjlFWlNp@37.27.200.55:25845#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20SS%20%7C%20%40v2ray_free_conf%20%231
+vless://9caaef79-39cc-4c00-bcfb-411e4fd28919@162.159.234.249:443?hiddify=1&amp%3Bsni=cdn3.shayan.cyou&amp%3Btype=xhttp&amp%3Balpn=h3&amp%3Bmuxtype=smux&amp%3Bmuxmaxc=4&amp%3Bmux=4&amp%3Bmuxsmax=0&amp%3Bmuxpad=False&amp%3Bpadsize=50-200&amp%3Bpath=/YAIb93ZcNf9TH3lEYEVpoajiKD2FaK&amp%3Bhost=cdn3.shayan.cyou&amp%3Bencryption=none&amp%3Bfp=chrome&amp%3Bcore=xray&amp%3Bextra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla/5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit/537.36+%28KHTML%2C+like+Gecko%29+Chrome/144.0.0.0+Safari/537.36+OPR/128.0.0.0%22%2C%22Pragma%22%3A%22no-cache%22%7D%7D&amp%3BheaderType=none&amp%3BallowInsecure=true&amp%3Binsecure=true&amp%3Bsecurity=tls&amp%3Bech=AEX%2BDQBBdgAgACAvzukD87isAsPCtnt3usHL%2BSb9mSV5tSkTHl0UMH9qIAAEAAEAAQASY2xvdWRmbGFyZS1lY2guY29tAAA%3D#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%231
+vless://TELEGRAM-CONFiGLiNE-29@test.fast.hosting-ip.com:80?mode=auto&amp%3Bpath=/telegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=panelvipasli.io&amp%3Btype=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40v2rayngconfiig%20%232
+trojan://telegram-id-v2rayvpnchannel@13.36.189.95:22223?security=tls&amp%3Balpn=http/1.1&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40v2rayvpnchannel%20%231
+vless://4e125438-1a39-440e-95fc-36b9dec03e5f@141.101.115.71:443?path=/faq&amp%3Bsecurity=tls&amp%3Balpn=h2%2Chttp/1.1&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=adderall.adaspoloandco.com&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=adderall.adaspoloandco.com#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40v_2rayng0%20%231
+vless://c4916121-ce5e-460c-9627-bcec80f0f182@198.41.208.99:443?path=/marketplace&amp%3Bsecurity=tls&amp%3Balpn=h2%2Chttp/1.1&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=baguette.adaspoloandco.com&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=baguette.adaspoloandco.com#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40v_2rayng0%20%232
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.189.95:22224?type=ws&amp%3Bsecurity=tls&amp%3Bpath=/telegram-channel-vlessconfig&amp%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%20%40vlessconfig%20%231
+vless://8fc836e4-f72f-40d7-8a55-8677324a2079@185.143.234.122:80?path=/&amp%3Bencryption=none&amp%3Bhost=S4.koremusic.ir&amp%3Btype=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40vmesskhodam%20%231
+vless://c1e0aa57-6ae8-429d-a304-80cc52eba9c1@185.143.234.200:80/?type=ws&amp%3Bencryption=none&amp%3Bpath=/&amp%3Bhost=vhb2.parsimas.ir&amp%3Bsecurity=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40vmesskhodam%20%232
+vless://e384913f-8863-47b4-8858-a84b68abb4a6@4.cdnconn.com:23335?security=reality&amp%3Bencryption=none&amp%3Bpbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&amp%3BheaderType=none&amp%3Bfp=chrome&amp%3Btype=tcp&amp%3Bflow=xtls-rprx-vision&amp%3Bsni=icloud.com&amp%3Bsid=67b1e94e4dd1ef90#%F0%9F%87%B2%F0%9F%87%A9%20MD%20%7C%20VLESS%20%7C%20%40vpn_ioss%20%231
+vless://e384913f-8863-47b4-8858-a84b68abb4a6@3.cdnconn.com:23335?security=reality&amp%3Bencryption=none&amp%3Bpbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&amp%3BheaderType=none&amp%3Bfp=chrome&amp%3Btype=tcp&amp%3Bflow=xtls-rprx-vision&amp%3Bsni=icloud.com&amp%3Bsid=67b1e94e4dd1ef90#%F0%9F%87%B2%F0%9F%87%A9%20MD%20%7C%20VLESS%20%7C%20%40vpn_ioss%20%232
 
 
 
