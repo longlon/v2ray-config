@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d435363f-b221-428b-94d2-8d0db0113b60@104.24.55.23:443/?type=ws&encryption=none&flow=&host=fancy-disk-fbb6.tmpesterouglas.workers.dev&path=ws&security=tls&sni=fancy-disk-fbb6.tmpesterouglas.workers.dev&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&path=%2Fhttp&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
+vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.21.64.250:2053?allowInsecure=1&encryption=none&host=INDEX.Arcane509.Workers.DEV&path=%2Fassets&security=tls&sni=INDEX.Arcane509.Workers.DEV&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://ed0e05af-49ab-4ea8-a39c-634855811b03@104.24.68.193:443?allowInsecure=1&encryption=none&host=wild-grass-1917.tmpduardoolfsonerluke15.workers.dev&path=ws&security=tls&sni=wild-grass-1917.tmpduardoolfsonerluke15.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.21.12.63:8443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=index.arcane509.workers.dev&path=%2Fassets&security=tls&sni=INDEX.Arcane509.Workers.DEV&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.16.72.113:2086?encryption=none&host=index.arcane509.workers.dev&path=%2F9om0kfpk0v09&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.170.140:2053?security=tls&type=ws&path=%2Fassets%3Fed%3D2048&host=index.arcane509.workers.dev&alpn=http%2F1.1&sni=INDEX.Arcane509.Workers.DEV&fp=chrome&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AUS
 vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.19.222.169:2082?encryption=none&host=index.arcane509.workers.dev&path=%2Fgfdn0yadxgfr&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
@@ -359,26 +364,21 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@188.114.98.0:443?path=%2F89.22.232.
 
 # ============ OTHER CONFIGS ============
 
-vless://03ab6794-0c03-4c6c-adc5-2767a5ac9dc5@plesk.iranwiki.mom:55002/?type=ws&encryption=none&flow=&host=igap.net&path=/#@Gangstersdonotcry
 vless://0b5df3ea-c7d6-49e3-a2f9-9e550d11cc8a@snapp.ir:2052?encryption=none&type=ws&host=arvv.teamlifez.ir&path=/?ed=2560#@TeleProxyTele
-vless://22902747-f881-431f-9b4f-ddfc9e358aba@tlgrm1.antid3118.ru:2050?security=&encryption=none&hrType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
-vless://57535069-9fc5-49f1-a656-f8ca8421e765@snapp.ir:80?path=/&security=none&encryption=none&host=dsfr.parsimas.ir&type=ws#@Gangstersdonotcry
-vless://5bc26645-15d6-4285-bdf4-0970978fc4e2@snapp.ir:80?path=/&security=none&encryption=none&host=tyrewr.parsimas.ir&type=ws#@aloconfig_com
-vless://682dd228-efcd-46cc-96b4-20a070003c9d@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws #FreeConffning_1GB
-vless://6c3614ee-3282-416f-9f95-d1629cca2735@s2.tehranionliine.ir:80?path=/&security=none&encryption=none&type=ws#@cllubvpn لطفا برای حمایت جوین شید
-vless://9e5f491c-5ed1-4a4c-b82c-adae5e2b04ca@aytun202549.temp.veraspeed.ir:80?path=/filimo-video/177430809054030600/1774365690/cb857b0770767a2b38b3ebc9d4c44d7fc5630fdd/196328x264new1-1080p.mp4/s-20-v1-a1.ts&security=none&encryption=none&host=byebye.22.avenflow.ir&type=ws#@V2rayTun0
-vless://b23f471d-5f6b-4593-99fe-1535341c9789@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#@Gangstersdonotcry
+vless://1a831a38-00bf-4aa0-8533-8abf7bbca90d@s1.openstarnet.shop:38913?security=none&allowInsecure=0&encryption=none&type=ws&host=web.rubika.ir&path=/#[🇮🇷]t.me/ConfigsHub
+vless://516aa83d-2780-4e40-9088-2be0253df146@snapp.ir:80?path=/&security=none&encryption=none&host=gm.borna-otbas.ir&type=ws#[🇮🇷]t.me/ConfigsHub
+vless://6276f547-eaf5-45e6-b033-e86c7b428920@ww.boldtest.ir:8880?path=/&security=none&encryption=none&type=ws#@aloconfig_com
+vless://9894a5bc-7e5b-4c1e-ae43-5052208d26a7@arvancloud.ir:8080?path=/stream&security=&encryption=none&host=host.mobile-oranous.ir&type=ws#[🇮🇷]t.me/ConfigsHub
 vless://b23f471d-5f6b-4593-99fe-1535341c9789@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#@aloconfig_com
-vless://c377c6ee-576a-4295-801e-35704d12184e@ip.iran.mobileemdad.top:8080?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
-vless://c52064f6-67f3-43cd-ada7-29d3cc1623cd@k5.adamak.top:11035?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
-vless://d0643e54-5c6e-47c9-b950-ec9ffe83a32d@ip.iran.mobileemdad.top:8080?security=none&encryption=none&headerType=none&type=tcp#@Gangstersdonotcry
-vless://f56ba3a7-b953-47e4-b895-8534d2ae9f74@ip.iran.mobileemdad.top:8080?security=none&encryption=none&headerType=none&type=tcp#@aloconfig_com
-vless://fc094241-cee8-4e0b-97a1-b3616e9570a4@188.121.115.180:17606?security=none&encryption=none&headerType=none&type=tcp#@aloconfig_com
+vless://b23f471d-5f6b-4593-99fe-1535341c9789@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#[🇮🇷]t.me/ConfigsHub
+vless://ca5a8888-f264-4bd1-a1be-7e5d5a5c62c3@185.143.234.235:80?security=none&allowInsecure=0&encryption=none&type=ws&host=vixon.portab.org#[🇮🇷]t.me/ConfigsHub
+vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.118:9000?security=&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 #profile-title: base64:UFNHIExpdGUgfCBNSVg=
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://t.me/yebekhe
 #profile-web-page-url: https://github.com/itsyebekhe/PSG
+
 
 
 
