@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@[::ffff:104.21.69.164]:2087?security=tls&type=ws&path=%2Fyyru4ludskje&host=ems.arc-time.workers.dev&alpn=h3&sni=EMS.Arc-Time.Workers.DEV&fp=chrome&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AUS
-vless://f2a73750-3087-48ff-a763-1348c15dce68@162.159.152.4:443?allowInsecure=1&encryption=none&host=rAyAn-007.mAxImA.DpDnS.OrG&path=%2F&security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://f2a73750-3087-48ff-a763-1348c15dce68@162.159.153.4:443?allowInsecure=1&encryption=none&host=rAyAn-007.mAxImA.DpDnS.OrG&path=%2F&security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@[::ffff:172.67.163.213]:2096?security=tls&type=ws&path=%2F88ailh3l64gh&host=ems.arc-time.workers.dev&alpn=h3&sni=EMS.Arc-Time.Workers.DEV&fp=chrome&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AUS
-vless://ef6db9e0-4c05-4933-a599-0dc9530f08cc@irancell.buzzmuzzpanel.online:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=022.electrocellco-cf-022.workers.dev&path=%2FeyJqdW5rIjoiZDlTMUlUZGZPM0NYVCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=022.eLEctRocELlcO-CF-022.worKeRs.DEV&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://f0ff4425-8c26-4d81-8662-f34593060c8d@188.114.98.0:2082?encryption=none&host=DOFF.mehrsazi.ir&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://ffc1bcfa-4846-4bee-be26-5d7464f91e3d@104.18.32.47:443?allowInsecure=1&encryption=none&host=withered-hall-2564.alirezaisamazing.workers.dev&path=%2FeyJqdW5rIjoiSE9KRGd1NHFzQ2Y0Y08iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&sni=WiTheReD-hAll-2564.AliREZAIsAmAzing.wOrKERS.deV&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://f929cc78-e2a1-4ce3-8051-3e9538405144@104.18.189.112:80/?type=ws&encryption=none&flow=&host=us.xydcqd.workers.dev#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://f929cc78-e2a1-4ce3-8051-3e9538405144@104.17.254.236:80?encryption=none&host=netherlands.xydcqd.workers.dev&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
@@ -348,42 +342,48 @@ trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&host=www.mul
 
 # ============ OTHER CONFIGS ============
 
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Q2FoQ3JDMUMwK2dyVzdIWFFTSWtadFdteDUzeEpkKzlveHQ0MmlsVEw2Yz06eHJRdXh6bGRUMGNCdG5TZldaZzBnbFdTTXNWc1JsU215NDdkc3c5UCt3QT0@185.206.92.248:8080?#@ghalagyann
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.58:990#@ghalagyann
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.58:990#@icv2ray
+ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA==@217.30.10.70:9046#@ghalagyann
+trojan://humanity@104.18.13.149:443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#@ghalagyann
+vless://137a9fef-629a-4197-abe9-9114a314a77c.ir:80?path=/&security=none&encryption=none&host=arv.liarashop.ir&type=ws#@ghalagyann
+vless://157cb924-2adc-4f4e-9d54-ba105b6dff30@www.speedtest.net:443?type=ws&path=/&host=vip.hackers855.sbs&security=tls&fp=chrome&sni=vip.hackers855.sbs#@ghalagyann
+vless://2f0791f5-adbf-44ae-a364-a1308b5e61fd@sourceforge.net:443?encryption=none&security=tls&type=xhttp&headerType=none&path=/&host=mdfirgkill.ipchnager.com&mode=auto&sni=mdfirgkill.ipchnager.com&alpn=h2&ech=https://94.140.14.14/dns-query#@ghalagyann
+vless://2f0791f5-adbf-44ae-a364-a1308b5e61fd@sourceforge.net:443?encryption=none&security=tls&type=xhttp&headerType=none&path=/&host=mdfirgkill.ipchnager.com&mode=auto&sni=mdfirgkill.ipchnager.com&alpn=h2&ech=https://94.140.14.14/dns-query#@icv2ray
+vless://3cbad916-d882-4773-8dfb-15564f2d29fe@zone.ca.f2zone.ir:17759?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@ghalagyann
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.63.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#@ghalagyann
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.63.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#@icv2ray
+vless://63e7247a-83e8-4149-9c76-46f9703de759@snapp.ir:8080?path=/&security=none&encryption=none&host=arv.liarashop.ir&type=ws#@aloconfig_com
+vless://63e7247a-83e8-4149-9c76-46f9703de759@snapp.ir:8080?path=/&security=none&encryption=none&host=arv.liarashop.ir&type=ws#[🇮🇷]t.me/ConfigsHub
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.173:2096?allowInsecure=1&encryption=none&host=aier.eu.cc&security=tls&sni=aier.eu.cc&type=ws#@ghalagyann
+vless://66674a64-1a54-43bd-9ebe-4c0db903fcf0@final.idbedam.com:8443?encryption=none&security=none&type=tcp&headerType=none#@icv2ray
+vless://69ec1bd6-2b00-4454-8882-3d24f540eb67@packetnet.vianabeauty.ir:45359?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://6fb65356-788e-4118-8280-148ec6eca18a@104.17.53.9:443?allowInsecure=1&encryption=none&host=xn--cz8h.pages.dev&path=pyip=proxyip.cmliussss.net&security=tls&sni=xn--cz8h.pages.dev&type=ws#@ghalagyann
+vless://6fb65356-788e-4118-8280-148ec6eca18a@104.17.53.9:443?allowInsecure=1&encryption=none&host=xn--cz8h.pages.dev&path=pyip=proxyip.cmliussss.net&security=tls&sni=xn--cz8h.pages.dev&type=ws#@icv2ray
+vless://7206bc85-664d-4087-99c1-25864f1a8166@ali.p40.site:44038?encryption=none&security=none&type=tcp&headerType=none#@icv2ray
+vless://7d99f77b-fb7c-4a42-83e5-4cae0133ec3f@s82.faststrong.sbs:12836?security=&encryption=none&headerType=&type=tcp#@ghalagyann
+vless://838885d7-9451-478e-8365-cc2f054ec7a2@snapp.ir:2095?type=ws&encryption=none&path=/&host=str9.xfastvip.ir&security=none#@icv2ray
+vless://a1d9eaf5-9e03-4c67-af0b-e238b865b373@185.143.234.122:80?encryption=none&security=none&type=ws&host=amm4.avenflow.ir&path=/#@icv2ray
+vless://a459d41f-5f3b-4123-9676-8374db27279d@snappfood.ir:80?type=ws&encryption=none&path=/ws&host=cdnisfucka.drnimaamini.ir&security=none#@icv2ray
+vless://b285bdf6-8972-45a2-c37c-405379f8b458@iran.overdoes.site:15320?type=tcp&path=/&host=zula.ir&headerType=http#@ghalagyann
+vless://b2bd5bed-2715-4b6c-c920-91a9d13fa707@mmd.az99x.info:8880?path=/&security=&encryption=none&type=ws#@icv2ray
+vless://b5e38f9b-41c6-44fb-9273-ba21ffe59435@185.143.233.200:80?security=none&type=ws&headerType=&path=/?ed=2080&host=final.idbedam.ir#[🇮🇷]t.me/ConfigsHub
+vless://b9f821d5-2f77-4e57-8394-b1582f274842@packetnet.vianabeauty.ir:45359?type=tcp&security=none#@aloconfig_com
+vless://bb01fc6c-de57-4b2e-8b22-8480736d20d1@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#@aloconfig_com
+vless://cce0ac71-a6c4-4811-8a03-84b4861a32e0@185.97.119.175:80?security=none&encryption=none&headerType=none&type=tcp#@aloconfig_com
+vless://cce0ac71-a6c4-4811-8a03-84b4861a32e0@185.97.119.175:80?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/ConfigsHub
+vless://db3df5e2-231c-44c6-83ff-7afe8a154fcc@new.imap33.site:8443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=&fp=chrome&type=tcp&sni=cp.dsdivar.ir#@icv2ray
+vless://e37b9758-5026-4825-a4fb-8ef974103341@api.playshoptv.com:43173?security=none&encryption=none&headerType=http&type=tcp#@icv2ray
+vless://e638f1c6-4a95-491a-bddc-66314069ff24@link2x05996.temp.veraspeed.ir:80?encryption=none&security=none&type=ws&host=byebye.22.avenflow.ir&path=/filimo-video/177430809054030600/1774365690/cb857b0770767a2b38b3ebc9d4c44d7fc5630fdd/196328x264new1-1080p.mp4/s-20-v1-a1.ts#@icv2ray
+vless://ffa58ffd-1b0b-408e-9ff9-759795bf8f9b@185.232.155.203:8586?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#@aloconfig_com
+vless://ffa58ffd-1b0b-408e-9ff9-759795bf8f9b@185.232.155.203:8586?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+vmess://eyJhZGQiOiJzdGFyLnA0MC5zaXRlIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJBcGFyYXQuY29tIiwiaWQiOiI1YzMyMTQ1Yy0yMmM2LTQ0NzItOWQzNi1iNTY0ZTRhMzNkYTUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI1Njc4IiwicHMiOiJAaWN2MnJheSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 #profile-title: base64:UFNHIExpdGUgfCBNSVg=
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://t.me/yebekhe
 #profile-web-page-url: https://github.com/itsyebekhe/PSG
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
