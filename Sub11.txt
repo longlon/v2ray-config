@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?allowInsecure=1&encryption=none&fp=chrome&host=d23iuljn5k9z1j.cloudfront.net&path=%2F&security=tls&sni=d23iuljn5k9z1j.cloudfront.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://a22bff60-a40a-4250-bde2-4c660e363b47@chatgpt.com:2096?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=index.harmony702.workers.dev&path=%2Faoz8sb9opsovdegg&security=tls&sni=inDEx.HArMOnY702.workeRS.DEv&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://a114d067-b900-4f60-87a5-50d4d63972b8@104.18.3.150:443?allowInsecure=1&encryption=none&host=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&path=%2F&security=tls&sni=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@188.114.98.0:443?path=%2F&security=tls&encryption=none&host=y6-3cj.PAgES.DEV&type=ws&sni=y6-3cj.PAgES.DEV#%3E%3E%40ServerNett%3A%3AUS
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@8.6.112.0:443?encryption=none&host=y6-3cj.PAgES.DEV&path=%2F&security=tls&sni=y6-3cj.PAgES.DEV&type=ws#%3E%3E%40v2rayngvpn%3A%3AUS
-vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.15.19:80/?type=ws&encryption=none&flow=&host=vahidqaz-ft33vt-1.vahidqaz.workers.dev#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.14.19:80?encryption=none&host=vahidqaz-ft33vt-1.vahidqaz.workers.dev&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.17.156.197:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@172.66.3.201:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@104.21.25.148:443?allowInsecure=1&encryption=none&host=labeller.neonime83.workers.dev&path=%2F&security=tls&sni=labeller.neonime83.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@172.67.134.82:443?allowInsecure=1&encryption=none&host=labeller.neonime83.workers.dev&path=%2F&security=tls&sni=labeller.neonime83.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
@@ -479,27 +471,35 @@ vless://d774c562-ac77-4976-befd-063969fae990@8.6.112.6:443?path=%2F%3Fed%3D2048&
 
 # ============ OTHER CONFIGS ============
 
-trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.237:10369?allowInsecure=0&sni=fra5.chasem2026sud.com#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%20%E4%BC%A6%E6%95%A6Virgin%20Media
-trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.199:10369?allowInsecure=0&sni=fra4.chasem2026sud.com#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%20%E4%BC%A6%E6%95%A6Virgin%20Media
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IOe6vee6pihQcnVkZW50aWFsKSIsImFkZCI6InYzMC5oZGFjZC5jb20iLCJwb3J0IjoiMzA4MzAiLCJ0eXBlIjoibm9uZSIsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6InYzMC5oZGFjZC5jb20iLCJ0bHMiOiIifQ==
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=0#%F0%9F%87%AA%F0%9F%87%B8%20%E8%A5%BF%E7%8F%AD%E7%89%99%20V2CROSS.COM
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrPCfh6cg6Iux5Zu9IFYyQ1JPU1MuQ09NIiwiYWRkIjoiODIuMTk4LjI0Ni45NyIsInBvcnQiOiIxODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvb2JqIiwiaG9zdCI6ImltZzE0LjM2MGJ1eWltZy5jb20iLCJ0bHMiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrPCfh6cg6Iux5Zu9IFYyQ1JPU1MuQ09NIiwiYWRkIjoiODIuMTk4LjI0Ni4yMTQiLCJwb3J0IjoiMTgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrPCfh6cg6Iux5Zu9IFYyQ1JPU1MuQ09NIiwiYWRkIjoiODIuMTk4LjI0Ni40NiIsInBvcnQiOiIxODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
-vmess://eyJ2IjoiMiIsInBzIjoi5Lqa5aSq5Zyw5Yy6IFYyQ1JPU1MuQ09NIiwiYWRkIjoiMTAzLjE4MS4xNjQuMTQ1IiwicG9ydCI6IjUxNTU2IiwidHlwZSI6ImF1dG8iLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
-订阅内容解析错误trojan://1234567890@176.96.137.96:443?allowInsecure=0&sni=kfm-bn0.pages.dev&ws=1&wspath=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20DE%E5%BE%B7%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://1234567890@91.149.223.184:443?allowInsecure=0&sni=kfm-bn0.pages.dev&ws=1&wspath=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20DE%E5%BE%B7%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://1234567890@159.195.39.241:2053?allowInsecure=0&sni=kfm-bn0.pages.dev&ws=1&wspath=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20DE%E5%BE%B7%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVVPnvo7lm70obWliZWk3Ny5jb20g57Gz6LSd6IqC54K55YiG5LqrKSIsImFkZCI6InYxMi5oZGFjZC5jb20iLCJwb3J0IjoiMzA4MTIiLCJ0eXBlIjoibm9uZSIsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6InNuaXBwZXRzLmtraWkuZXUub3JnIiwidGxzIjoiIn0=
-trojan://1234567890@178.104.79.228:443?allowInsecure=0&sni=kfm-bn0.pages.dev&ws=1&wspath=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20DE%E5%BE%B7%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://1234567890@46.226.163.38:443?allowInsecure=0&sni=kfm-bn0.pages.dev&ws=1&wspath=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%AC%F0%9F%87%A7%20GB%E8%8B%B1%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://1234567890@152.53.118.28:443?allowInsecure=0&sni=kfm-bn0.pages.dev&ws=1&wspath=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20DE%E5%BE%B7%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://1234567890@5.187.5.18:443?allowInsecure=0&sni=kfm-bn0.pages.dev&ws=1&wspath=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20DE%E5%BE%B7%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://1234567890@138.124.115.108:443?allowInsecure=0&sni=kfm-bn0.pages.dev&ws=1&wspath=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20DE%E5%BE%B7%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://1234567890@109.120.184.141:443?allowInsecure=0&sni=kfm-bn0.pages.dev&ws=1&wspath=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%AB%F0%9F%87%AE%20%E8%8A%AC%E5%85%B0%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://1234567890@31.172.71.23:443?allowInsecure=0&sni=kfm-bn0.pages.dev&ws=1&wspath=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20DE%E5%BE%B7%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://1234567890@5.187.6.30:8443?allowInsecure=0&sni=kfm-bn0.pages.dev&ws=1&wspath=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20DE%E5%BE%B7%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://1234567890@138.124.50.89:443?allowInsecure=0&sni=kfm-bn0.pages.dev&ws=1&wspath=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20DE%E5%BE%B7%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://1234567890@94.156.114.13:443?allowInsecure=0&sni=kfm-bn0.pages.dev&ws=1&wspath=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20DE%E5%BE%B7%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://1234567890@46.225.5.182:8443?allowInsecure=0&sni=kfm-bn0.pages.dev&ws=1&wspath=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20DE%E5%BE%B7%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+vless://610b4374-6c1b-43e6-ba7f-a89aba596db6@2.27.20.17:443?mode=gun&security=reality&encryption=none&pbk=N9YEtcvbXxG2GD8cLMlQT35HnX8cmvYPasnqtcBW_XY&fp=chrome&type=grpc&sni=vpn.xorealis.com&sid=131df166be01a436#v2ray_dalghak
+vless://43488128-319e-f480-64ea-0acdc712e2a8@145.239.8.221:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ESRdmody9xdWVTaCtyGLg_LDopyMm9bUYDWH8NVWtjE&security=reality&sid=c906f73d3ba8211f&sni=www.leboncoin.fr&type=tcp#%E2%98%AE%EF%B8%8F77@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.87.3.224:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%A7%A263@oneclickvpnkeys
+vless://e679aa5e-fde0-4e9f-ad46-63725e1c47f3@new-de.vcfco.ir:7500?security=reality&encryption=none&pbk=8a3blVdAACDlvRA5zrdNxHLZ9boU5QkwGMkf0WwyZVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn77.com&sid=77a3a1c829040294#v2ray_dalghak
+wireguard://GGdi0j%2BS7ypUOCm%2BRj%2Fh5R3ifRHRyQHcKkK8rZeE%2BHo%3D@162.159.192.6:2408?address=172.16.0.2%2F32&reserved=247%2C153%2C203&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#%40V2rayBaaz
+wireguard://2D%2BQMolgGWVRVGdJJvsQ4VBDCcZTym0c1sFN00PeMUs%3D@162.159.192.3:500?address=172.16.0.2%2F32&reserved=213%2C74%2C19&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#%40V2rayBaaz
+vless://7a30b7fc-4868-4d1d-84b8-16a3d3df0139@45.89.109.25:18278/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=8Fglzc7t2LS4r1vQWlVMNe_EsFdhMawlxeDacbhmiAg&sid=f0#v2ray_dalghak
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.75.119.38:990#%40V2raysCollector%20%F0%9F%93%A1
+#e¶NÍ­³ÿ;à( º7(¢Ð1 to{±Hê.mØ$|ßBT½
+§ùý©g|9Í®Fµ6 ô'Ï¿¶ÏÏÅÑ-£ÃªÊ¯À*thÐáë"ç÷Ùñîáè\µn´ÜÆ¾rñT9¹ùJ"mEåH	 EÉ"o~[÷·3[ÂC¬y5ì<hXùæ²^ÄÞÈÚY;ÇJ\üßæ¾¥¹]tbí¡lÃÉ7¸ssif$5ÀÈ4°ã²Ví}=WÍvp%®¢,¨²ÒNïECúQ÷8üTi³ÎÄUG5wÓMòàC
+Ú4uîÚ^ÂÕsíK&ù²/[12òB Åô'ÜâæÉ(H>,T;sQ/Ä >Ù'¸ÊöÇZauCâY
+»ÕFa¾LñW±÷.Ã;äîú«	Ê(iHfÄûÖ÷ím÷öUÆµ(råºÛý¼¢Q8í-­¼]ôèô÷¦<6Ãþ"âGe¤æúP]§Ì	¯ó»°í*ÁGÁM[\äyþ}s8H©þ7øX¡2"Zuy(Lñ ¯6¬"ãÞ-ÓÚ}FÔÿ}öMt[ÛèGÀ] cA²GºñvV,ÈÿT
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.36.55.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%8D%8F35@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.41:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%91%BD74@oneclickvpnkeys
+vless://1027b850-de79-4a94-b337-eccdac28e141@144.24.126.26:443?allowInsecure=1&encryption=none&host=g.sandesh.qzz.io&path=%2Fvless&security=tls&sni=g.sandesh.qzz.io&type=ws#25%E2%9A%9B%EF%B8%8F@oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.235.56.69:990#%F0%9F%87%AE%F0%9F%87%B3telegram%20%E2%9E%A0%20%40v2rayNG_Matsuri
+#profile-title: base64:UFNHIExpdGUgfCBNSVg=
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+#support-url: https://t.me/yebekhe
+#profile-web-page-url: https://github.com/itsyebekhe/PSG
+
+
+
+
+
+
+
+
+
+
+
