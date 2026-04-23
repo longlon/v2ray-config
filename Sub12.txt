@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.231.233.112:989#%F0%9F%87%B5%F0%9F%87%B9PT-185.231.233.112-0257
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.205-0225
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.179-0252
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.179-0247
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZDFiYzU0Njg5ZWQ0Yjc1@119.159.245.24:26739#%F0%9F%87%B5%F0%9F%87%B0PK-119.159.245.24-0556
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.60.250.107:990#%F0%9F%87%A9%F0%9F%87%AADE-38.60.250.107-0285
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.185.37:989#%F0%9F%87%B2%F0%9F%87%B0MK-46.183.185.37-0279
+vmess://ewogICAgImFkZCI6ICJhZTEzNS5jb3dqdW1wLnNpdGUiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJhZTEzNS5jb3dqdW1wLnNpdGUiLAogICAgImlkIjogIjBiZjFjZWFkLWJkZDQtNDY5Mi1iM2Q0LTY4NjZjY2I5ZjM3YSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4xNTIuMjI3LTAyNzciLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJhZTEzNS5jb3dqdW1wLnNpdGUiCn0=
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.186.143.32:989#%F0%9F%87%B5%F0%9F%87%AAPE-138.186.143.32-0267
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@134.209.147.198:989#%F0%9F%87%AE%F0%9F%87%B3IN-134.209.147.198-0260
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.143.32:990#%F0%9F%87%B5%F0%9F%87%AAPE-138.186.143.32-0265
@@ -185,47 +193,39 @@ vless://d774c562-ac77-4976-befd-063969fae990@8.6.112.6:443?path=%2F%3Fed%3D2048&
 
 # ============ OTHER CONFIGS ============
 
-trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.105:10369?sni=fra32.chasem2026sud.com#v2ray_dalghak
-trojan://humanity@www.ignitelimit.com:443?allowInsecure=1&path=%2Fassignment&type=ws#%F0%9F%8D%8F94@oneclickvpnkeys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@111.248.106.149:50099#v2ray_dalghak
-trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.105:10369?allowInsecure=1&sni=fra32.chasem2026sud.com#%F0%9F%92%8E7@oneclickvpnkeys
-vless://43488128-319e-f480-64ea-0acdc712e2a8@51.68.155.153:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_xzl59bcUYD9QUSKFyboqCC_9eUnaXUUKWA19oQWFHU&security=reality&sid=8d17b7ebab7b99d7&sni=www.allegro.pl&type=tcp#%F0%9F%A4%9684@oneclickvpnkeys
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#%E2%99%A614@oneclickvpnkeys
-vless://b738db04-c73c-4551-b6f2-9041e93914d4@de2.sanzone.ir:4040?encryption=none&headerType=http&host=soft98.ir&security=none&type=tcp#%F0%9F%98%8818@oneclickvpnkeys
-vless://e679aa5e-fde0-4e9f-ad46-63725e1c47f3@new-de.vcfco.ir:7500?security=reality&encryption=none&pbk=8a3blVdAACDlvRA5zrdNxHLZ9boU5QkwGMkf0WwyZVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn77.com&sid=77a3a1c829040294#v2ray_dalghak
-ss://YWVzLTI1Ni1nY206WmZiUEZEZGVCajBCMVR4cw==@154.53.60.212:443#v2ray_dalghak
-vless://e5bd3d75-06b3-490e-9651-930b1dc29cdb@45.145.163.115:39771?security=reality&encryption=none&pbk=GMnXK7wz7qTo_IFmPy--pQcODPhYJG_CLaY2Sh4fTCI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=33f2#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@203.23.128.92:990#%40V2raysCollector%20%F0%9F%A5%B8
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%87%B1%F0%9F%87%B8%20%40Artemisvpn1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjI2ZDhiYjU5M2E1ZmM1@154.205.154.200:11201#%40V2raysCollector%20%F0%9F%95%BA
-vmess://eyJhZGQiOiI0NS45MC4xMDYuMjQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwiaW5zZWN1cmUiOiIxIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjM0IiwicHMiOiJb8J+Hs/Cfh7FddC5tZS9Db25maWdzSHViIiwic2N5IjoiYWVzLTEyOC1nY20iLCJzbmkiOiJzdXBlcnZwbi5zdXBlci5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@190.103.176.32:990#%F0%9F%87%B2%F0%9F%87%ABtelegram%20%E2%9E%A0%20%40v2rayNG_Matsuri
-vmess://eyJ2IjoiMiIsInBzIjoidC5tZS92MkxpbmUgfCBGcmVlIHwgMzE5MSB8IENhbmFkYSIsImFkZCI6IjE1OC41MS4xMjEuNjMiLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiIiLCJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6InNlcmlidXMub3JnIiwiYWxwbiI6IiIsImZwIjoiIn0=
-
-trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#%40v2FreeHub-98
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.101:8080#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
-trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%40vpnbaz%20%7C%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@188.214.157.58:990#[
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@176.126.83.158:990#[
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTWVKaGlhOUhoQ3cxaEdjeGVWRlFm@195.93.253.245:49137/?outline=1#v2ray_dalghak
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.146:8080#%40V2raysCollector%20%F0%9F%9B%A1%EF%B8%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#Norway
+Â<¥o´¹=¨¾,6W÷±Pq\å¤ë¶µtSÄðá°EÊWJ÷]3=·Ò¾ØP¸#WçJr]p¯_mÉ"0ûxÈÎî.bËÂñ#äÊpU,"ÉËss·SRáÞ|Å(Ö"v\èÈâ}ð¦Õ¹·MÓ¨¸Ì¶¯VÊ/[¨7#ÿ,sÛþËvp´\ÆâÊì&Gk¬my±J¾õjlä}+jcH UÈI^*6wZ«Ð.ø§ñA
 #profile-title: base64:UFNHIExpdGUgfCBNSVg=
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://t.me/yebekhe
 #profile-web-page-url: https://github.com/itsyebekhe/PSG
 
-vless://5927166d-e1fe-455c-b8f6-f5a8524c0397@tsstt.1.globalmymusic2.com:80?mode=stream-one&amp%3Bpath=/filimo-video/177430809054030600/1774365690/cb857b0770767a2b38b3ebc9d4c44d7fc5630fdd/196328x264new1-1080p.mp4/s-20-v1-a1.ts&amp%3Bsecurity=none&amp%3Bencryption=mlkem768x25519plus.native.0rtt.0oApr9cw-SWX56oDiCnJDTuHHCGSswtvx6Fz5ClR8WsLnCTG89VWLVnEzjwe1uwu1wAsNJI8WVKZnwN0w2HOEVB8Jkxd9rM5crBsfZGOdkmjyCqM0xRX8_czw5Cy8Pm5w8pedEwn5dBcDvZvpUGZOVyzIUQOUGkRoVZYmKdqLCYGYJG6FPE1FeRQ_gxe1VwxbFEGKcFKE-XCSRSAU8HN6lcABCh9bTOJAlcaOxjN5JkIRxgSany3AIWW9owZ-OCKYUwBhAmcwQsnPoiAJYV74ZqgCmrA_YdLp5BiRLlf4-gc8ECNWRe65GIZIBrGzECVz5qD8jatFmhfqQuJRFit2EYikQtleTtnXpuAILGi4UOfMEWXTzALVrSPzmtu0YunLDN0idYu8Ew75uWcf4WHDzWbxbon1vmWqWQQavsgbeJBWSLCgjkHjXxka4OAjNsZ74hgnxDPcpmdW0mZWfZee-lH4riOzHKogmdN82pEwdVpJLyYSzBmgXReBzg9VVa2GQFDI4ZGfPh-NJkWNgkVeHF0JYgrdpTOLJy-hwwqilFtyGB7gdAmjPXLZHt26Cw5KZbDpsSETJFT9Eed0aKvBekf7xc5UpkkeaFbscobPJZubohHu-aJWZqiZoaZcfNsRjqlf4hZiUtLv9C5mNIfE_tfxkch1QIAOnwAjrsam-APPHWax5Fg-fQHtyeNpUbBAoJeQPc3eFm8xKVvjPYZr_RV_6KphCs5bvVS3Dh2n3LKFAwbbth7jHNSQps4uldBdLCXc8RZg5OeeeRo1ja7RVQYYEcF4WdGtBZxBhtiSItjbisDfTmHKyWHo1Y36DTCtjmG3da3G-iVWwPLIXumgnFt1okroVgeAkAGf-hA5icEnHobSIMc7_K7uqynA8aKishXKwGdQgmG6ktRHnIxSsR5TnYYITGaVbtSZGeooiGU78W2BcBBpVB3whZJI0Q1pjlDA7u1zOgTWOW0vambwcKpj4ksMPU90BUllJpow9JDuHgHp7YoSGrFe0OEPjcIo6MBd0k0SMQGuXPIGohxIlB7vdgTJwau-Yl-mROpRzwpzhMYQusLC7A0_OKbyiTEkWzJKHVwDAW8iGiaaOuMdORaIhskLEVq0GN3usp_zci1Y8c1LmQhKwhhk_Zm8Cuh_6O4bnpnrlWnpFWomOWOGElx7iCbzPg0pjeQJ3k4QYwI51DJsfcRnEpbFslzTZReOaHGzviF6sG_w7Ijz5oIa0c9BkUbt8lwJ5rHUNcW-IYqe-mLcpmwg2eUPyNgukF03ORbFjhumTqJw1hSL4ZwinYvByc4CwO8_quFu5CnGyYmBOOInTJZiGJ4zQqi0EG2rFlAcmaPIKSLgty7v9obAMOruLOCHGDAipYe6mcgW4iPCgO2faNTYamXXolhJ3cVnQs30XBC0jkhjpoYfRlaimt5uCoYinu8pWYZMjzL_qkrqSCXzepDWHkKuVdiE4J49NJRUlk8nVKaVlEDpAmpxKcnyTl10QVm04yecYQ_DCOq1eBWWpsNFPlfC2Sk6xcng5b1lvsmqEf42ECTWZl5u0qxQuUQ6mSXFBjr_o_V5-o&amp%3Bextra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%2210-1000%22%7D&amp%3Bhost=best.1.iran.avenflow.ir&amp%3Btype=xhttp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40config_proxy%20%231
-vmess://eyJwb3J0IjoiMjA1MyIsInYiOiIyIiwidGxzIjoidGxzIiwic2VlZCI6IiIsImFpZCI6IjAiLCJpZCI6ImYyZmUwZDcwLTFjYjEtYWU4NC00NTg1LWVjOTZkNDUwZGE4MCIsInBzIjoi8J+HrvCfh7cgSVIgfCBWTUVTUyB8IEBjb25maWdfcHJveHkgIzEiLCJhdXRob3JpdHkiOiIiLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJkZXZpY2VJRCI6IiIsImZyYWdtZW50IjoiIiwidHlwZSI6Im5vbmUiLCJtb2RlIjoiIiwibmV0Ijoid3MiLCJob3N0IjoiaS1sb3ZlLWlyYW4uYW1sYWtheXVuaS5pciIsInNuaSI6ImktbG92ZS1pcmFuLmFtbGFrYXl1bmkuaXIiLCJhZGQiOiJpLWxvdmUtaXJhbi5hbWxha2F5dW5pLmlyIiwiaGVhZGVyVHlwZSI6IiIsInNlcnZpY2VOYW1lIjoibm9uZSIsImV4dHJhIjoiIiwicGF0aCI6Ij9lZD0yMDUzIiwiZnAiOiJyYW5kb21pemVkIn0=
-vless://9f1d913e-837f-45b3-bda3-cd4ebfffd3be@185.143.233.5:443?path=/chat%3Fed%3D128&amp%3Bsecurity=tls&amp%3Balpn=h2%2Chttp/1.1&amp%3Bencryption=none&amp%3Bhost=cn.8lack.ir&amp%3Bfp=firefox&amp%3Btype=ws&amp%3Bsni=cn.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40filtershekan_channel%20%231
-vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?path=/http&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Btype=ws#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%20%40merdesert%20%231
-trojan://telegram-id-privatevpns@35.157.155.174:22222?security=tls&amp%3Balpn=http/1.1&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40privatevpns%20%231
-trojan://telegram-id-privatevpns@15.224.68.33:22222?security=tls&amp%3Balpn=http/1.1&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40privatevpns%20%231
-vless://dba2493d-5f5a-466a-bd8f-3b74b7f3d63b@h7.eldenringshop.ir:2053?path=love&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=core.mehrsazi.ir#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%231
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.18.32.47:2052?mode=auto&amp%3Bpath=pabloping&amp%3Bencryption=none&amp%3Bhost=nlbv1.pabloping.pro&amp%3Btype=xhttp#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40v2ray_free_conf%20%232
-vless://TELEGRAM-CONFiGLiNE-29@test.fast.hosting-ip.com:80?mode=auto&amp%3Bpath=/telegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=panelvipasli.io&amp%3Btype=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40v2rayngconfiig%20%232
-trojan://telegram-id-v2rayvpnchannel@35.157.155.174:22223?security=tls&amp%3Balpn=http/1.1&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40v2rayvpnchannel%20%231
-trojan://telegram-id-v2rayvpnchannel@15.224.68.33:22223?security=tls&amp%3Balpn=http/1.1&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40v2rayvpnchannel%20%231
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.155.174:22224?type=ws&amp%3Bsecurity=tls&amp%3Bpath=/telegram-channel-vlessconfig&amp%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20%40vlessconfig%20%231
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.68.33:22224?type=ws&amp%3Bsecurity=tls&amp%3Bpath=/telegram-channel-vlessconfig&amp%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%20%40vlessconfig%20%231
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
