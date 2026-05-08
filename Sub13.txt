@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@104.18.47.161:2096?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?encryption=none&host=de.vpnbase.net&path=%2Fhttp&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@104.19.32.21:2096?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@104.19.46.52:2096?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@104.18.41.14:2053?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@104.18.35.190:2053?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@104.18.42.165:2087?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://d7f67e94-aa9e-4454-b1cf-ce522a0d2728@172.232.208.147:443?encryption=none&security=none&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AIT
-vless://df862b4c-2150-4b36-81ac-405036cf9ff6@104.18.36.251:2083?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://df862b4c-2150-4b36-81ac-405036cf9ff6@104.18.43.25:8443?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://df862b4c-2150-4b36-81ac-405036cf9ff6@162.159.152.201:8443?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://df862b4c-2150-4b36-81ac-405036cf9ff6@104.18.47.35:8443?allowInsecure=1&encryption=none&fp=chrome&host=kalami-eew.pages.dev&path=%2F&security=tls&sni=kalami-eew.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
@@ -407,28 +398,37 @@ vless://8f8380ae-9f5d-4cb5-8f5f-0f70fbe054a9@152.53.1.32:7443?security=reality&t
 
 # ============ OTHER CONFIGS ============
 
-trojan://telegram-id-directvpn@13.37.76.238:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
-trojan://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=vless.lrdxw.club&path=%2F&sni=vless.lrdxw.club&type=ws#%F0%9F%AB%9F68@oneclickvpnkeys
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@nlyttls.keepsecurevpn.com:443?alpn=http%2F1.1%2Ch2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=nlyttls.keepsecurevpn.com&type=tcp#%F0%9F%90%9D76@oneclickvpnkeys
-trojan://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.877774.xyz:443?allowInsecure=1&fp=firefox&host=vless.lrdxw.club&path=%2F&sni=vless.lrdxw.club&type=ws#%F0%9F%8E%8853@oneclickvpnkeys
-vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#%40V2raysCollector%20%E2%9A%BD%EF%B8%8F
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVGVsZWdyYW06QGNvbmZpZ19wcm94eSDwn5SlIiwgImFkZCI6ICIxMDQuMTcuNzcuNzciLCAicG9ydCI6ICI4NDQzIiwgInR5cGUiOiAiLS0tIiwgImlkIjogIjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbE1uc1pVTjQvIiwgImhvc3QiOiAidjJyYXkxLmRvemFwcC54eXoiLCAidGxzIjogInRscyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVGVsZWdyYW06QGNvbmZpZ19wcm94eSDwn5SlIiwgImFkZCI6ICIxMDQuMTcuNzcuNzciLCAicG9ydCI6IDg0NDMsICJpZCI6ICI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCAiYWlkIjogIjAiLCAic2N5IjogIm5vbmUiLCAibmV0IjogIndzIiwgInR5cGUiOiAiLS0tIiwgImhvc3QiOiAidjJyYXkxLmRvemFwcC54eXoiLCAicGF0aCI6ICIvbE1uc1pVTjQvIiwgInRscyI6ICJ0bHMiLCAic25pIjogInYycmF5MS5kb3phcHAueHl6IiwgImFscG4iOiAiIiwgImZwIjogIiIsICJpbnNlY3VyZSI6ICIxIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAibmFtZSI6ICI+PkB2Mm5vZGVzOjpVUzo6VVMifQ==
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#[
-#äÄÒ_²5?¡Ê³£Ý«U½9O22o½5yYò	¢ÄP¼ù©lCà½Gànàõ¨êMR/] ^Á	
-õ£û¶FÐ°R9%°+èlÒUä2½u¾ñ)à4SB±Ø(GÉØG,eå;Ïð©Îøo-ñ52ºLÅ¦u(]½¾E¯µcÒïÙ¾*¤jóRìéòõ¨\ñûÂäìåzßapûÌMÌF!rmØ1Y9Õ_ª3Wtåã]DÐOëêI²ãF¢·e &ó¼òÓÍ®ù«HìTü7S
-#ÎÀÙ)q>¿kÌ6\v¿Pý2'ð¥' Tz£iÍ Êo&½A%Ü§>0ðèzëMôÌÑ#qt}p}%-Ï.áXÃGÃÇ¢Øk³cÊ¸4²3­æ\AZa/1ú@úhªMdûØÐaó_muFC«â]3ì@a_<%2J\;°êçº4³Ôüñvæ¶w­§«fbe@)ó&rLÜ[9çÖ
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@109.176.239.138:2096?encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%8C%9E78@oneclickvpnkeys
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.96.138.17:2087?path=%2F&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#v2ray_dalghak
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.99:8080#%40V2raysCollector%20%F0%9F%97%BF
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080?#
-vmess://eyJhZGQiOiI0NS45MC4xMDYuMjQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwiaW5zZWN1cmUiOiIxIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjM0IiwicHMiOiJb8J+Hs/Cfh7FddC5tZS9Db25maWdzSHViIiwic2N5IjoiYWVzLTEyOC1nY20iLCJzbmkiOiJzdXBlcnZwbi5zdXBlci5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#United+Kingdom
+vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.95.206:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=23&sni=www.apple.com&type=tcp#%F0%9F%8D%9134@oneclickvpnkeys
+vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.83.54:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=23#v2ray_dalghak
+vless://629d2ccc-3a2a-4dd3-83d2-86b25fc8783e@89.106.95.203:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=23&sni=www.apple.com&type=tcp#%F0%9F%90%9D32@oneclickvpnkeys
+vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@vruaz.mostserv.xyz:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&security=reality&sid=226509f017e4c36d&sni=vruaz.mostserv.xyz&type=tcp#%F0%9F%A7%BF84@oneclickvpnkeys
+ss://YWVzLTI1Ni1nY206WmZiUEZEZGVCajBCMVR4cw==@154.53.60.212:443#v2ray_dalghak
+ss://YWVzLTI1Ni1nY206NW1DSDQ2MjRRZmxPMWNGUg@185.111.156.33:443#v2ray_dalghak
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.30:990#Morocco
+qîlùx:2VWÜ(ÅiSZ$-t(ù_NþFúãÕ²K¶6{ M¿S¾?[òÅ_ôìX½ÖnÕËð8êÞêç/ÒLg*¡¹ÇýüáK³jã¨NQ«¿Ë%> û)±Ï§5#Pc7¶vPKGÚ5O0bvoD0¬^~^k+(aÙ-nß(Å5x÷­§Òµqý-ÒÅ­º 4Á%¹Óí'¦·à- °ss}*$´%×=XÄÔúnæHÓY¾ 
+{RqÞV>ýâ!ìÈPÛëô8Ç¸í~&®¯£tø®ûF;¡aù~}èp
+¯ss$-Iàò*Èx9¤f¶úrZðBÃýdkÔ'.Õt Ðú³`Á9Ö}×¾¬z£ÁhÀ9½ë¼ÈäÛß©·`]¨è (!C[f®éBåÎp£@6º±é~îX~Z3B½ Å¾¤g»pÔKìù§4LM§72=ª
+àÆÜ´?3+Fæ®3H´swPêf''>
+ÞÈøGZ='®a¾.xLfWìP¬YlAnTÿHò§'@ïrà$;@½Y3n4a	+bj~us#nº9ßÊ<ªU­¾ÐÃçUÍ
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.207.199.138:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%8C%9E19@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.72.75:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%90%B288@oneclickvpnkeys
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.154.211:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%90%BE96@oneclickvpnkeys
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?path=%2F%20%40vpn_goldx&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#%40V2rayng_Fast%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%DB%8C%D8%AF%20%D9%82%D8%B7%20%D9%86%D8%B4%DB%8C%D8%AF
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.75.19.60:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#v2ray_dalghak
+vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&sid=4ae260&type=tcp&headerType=none&path=/XIXVPN?ed=2560#v2ray_dalghak
+ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw@149.102.132.186:80?note=--Telegram--
+trojan://humanity@104.18.32.47:443/?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#%40V2raysCollector%20%F0%9F%98%92%F0%9F%98%AD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.205.146.153:990#%40V2raysCollector%20%F0%9F%93%A1
+vmess://eyJhZGQiOiIxNDEuOTUuNjUuOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEyMzQiLCJwcyI6Ilvwn4ep8J+Hql10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6InN1cGVydnBuLnN1cGVyLmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@156.38.168.58:990?#[
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.235.56.69:990?note=--Telegram--@V2ray_official--#[
 #profile-title: base64:UFNHIExpdGUgfCBNSVg=
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://t.me/yebekhe
 #profile-web-page-url: https://github.com/itsyebekhe/PSG
+
+
 
 
 
