@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.68.5.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.68.42.191:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.my111000.tech&path=%2F&security=tls&sni=sni.my111000.tech&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.145.158:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@171.22.117.29:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.army&path=%2F&security=tls&sni=sni.111000.v6.army&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.147.223:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&fp=chrome&host=sni.111000.dynv6.net&security=tls&sni=sni.111000.dynv6.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.146.198:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:2053?encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.68.5.191:443?encryption=none&host=sni.my111000.tech&path=%2F&security=tls&sni=sni.my111000.tech&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
@@ -498,8 +503,3 @@ vless://981fca81-5be1-41f8-ac9b-d138e8109943@5.10.244.231:443?ed=2560&eh=Sec-Web
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@212.183.88.231:443?allowInsecure=1&encryption=none&host=babayaga-6i7.pages.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=babayaga-6i7.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@8.34.146.231:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=babayaga-6i7.pages.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=babayaga-6i7.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@50.228.203.26:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram#%3E%3E%40v2nodes%3A%3AUS
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?encryption=none&host=y6-3cj.PAgES.DEV&security=tls&sni=y6-3cj.PAgES.DEV&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@188.114.98.0:443?path=%2F&security=tls&encryption=none&host=y6-3cj.PAgES.DEV&type=ws&sni=y6-3cj.PAgES.DEV#%3E%3E%40ServerNett%3A%3AUS
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@8.6.112.0:443?encryption=none&host=y6-3cj.PAgES.DEV&path=%2F&security=tls&sni=y6-3cj.PAgES.DEV&type=ws#%3E%3E%40v2rayngvpn%3A%3AUS
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@14.102.229.231:443?allowInsecure=1&encryption=none&host=babayaga-6i7.pages.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=babayaga-6i7.pages.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.18.12.149:443?path=%2F&security=tls&encryption=none&host=y6-3cj.PAgES.DEV&type=ws&sni=y6-3cj.PAgES.DEV#%3E%3E%40ServerNett%3A%3AUS
