@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d67fae6d-65a9-4c28-adca-130ba9a91bc7@70.34.217.248:443?security=none&encryption=none&headerType=none&type=tcp#@iguanaVPN 1
+vless://d6971cc4-a506-49f6-8ebb-f911317763d8@104.19.140.106:443?path=/36.95.152.58=12137&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
 vless://d6c8c72b-32ae-4ef5-8637-fb162d4eea81@199.232.244.3:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=ChromeAppleWebKit.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#@Ap_Ir6
 vless://d6c8c72b-32ae-4ef5-8637-fb162d4eea81@199.232.244.3:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=ChromeAppleWebKit.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#@ReleaseNet
 vless://d6c8c72b-32ae-4ef5-8637-fb162d4eea81@199.232.244.3:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=ChromeAppleWebKit.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#@V2dogs_n
@@ -501,5 +503,3 @@ vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.68:443?path=/tsghdws&secu
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.8:443?path=/tsghdws&security=tls&encryption=none&host=octopusss4.com&type=ws&sni=octopusss4.com#⚡@V2ray_official
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.8:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#@FarazV2ray
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.8:443?path=/tsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#MiX--@V2rayAlpha--28
-vless://fce29f88-75e2-43b7-a852-3115db48951d@01.rehan-iogsar.ir:449?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tgju.org&fp=chrome&pbk=FdMFSpgEwT0nhczf37d-Z8gFgJtwyV4C_pJlnOTScUA&sid=a1#🇩🇪 @rayhub_ir 0615-17
-vless://fd1df366-31db-4ac1-87e1-b55cd025c74a@57.129.117.234:14501?security=none&encryption=none&headerType=none&type=tcp#TEL;Father_vpn
