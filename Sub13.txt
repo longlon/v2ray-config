@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?security=reality&encryption=none&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=05fdaa8a05be46a9#@bored_vpn
-vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?security=reality&encryption=none&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=05fdaa8a05be46a9#@confiig_hub
 vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?security=reality&encryption=none&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=05fdaa8a05be46a9#telegram @mtmvpn 18
 vless://d6258da1-9dd5-4861-8a01-30c51707a6ea@sr13.dmitri.sbs:2086?security=none&type=tcp&packetEncoding=xudp&encryption=none#
 vless://d67fae6d-65a9-4c28-adca-130ba9a91bc7@70.34.217.248:443?security=none&encryption=none&headerType=none&type=tcp#@iguanaVPN 1
@@ -503,3 +501,5 @@ vless://f9214951-be93-4e3d-8c14-b9ba991f8f30@zeus-panel-idoxmd.zeus-ptqez6.worke
 vless://f9214951-be93-4e3d-8c14-b9ba991f8f30@zeus-panel-idoxmd.zeus-ptqez6.workers.dev:443?path=/&security=tls&encryption=none&insecure=0&host=zeus-panel-idoxmd.zeus-ptqez6.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-idoxmd.zeus-ptqez6.workers.dev#@ReleaseNet
 vless://f9214951-be93-4e3d-8c14-b9ba991f8f30@zeus-panel-idoxmd.zeus-ptqez6.workers.dev:443?path=/&security=tls&encryption=none&insecure=0&host=zeus-panel-idoxmd.zeus-ptqez6.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-idoxmd.zeus-ptqez6.workers.dev#Telegram: PeekConfig-443
 vless://f9214951-be93-4e3d-8c14-b9ba991f8f30@zeus-panel-idoxmd.zeus-ptqez6.workers.dev:8080?path=/&security=none&encryption=none&insecure=0&host=zeus-panel-idoxmd.zeus-ptqez6.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-idoxmd.zeus-ptqez6.workers.dev#@ReleaseNet
+vless://f9214951-be93-4e3d-8c14-b9ba991f8f30@zeus-panel-idoxmd.zeus-ptqez6.workers.dev:8080?path=/&security=none&encryption=none&insecure=0&host=zeus-panel-idoxmd.zeus-ptqez6.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-idoxmd.zeus-ptqez6.workers.dev#Telegram: PeekConfig-8080
+vless://f9214951-be93-4e3d-8c14-b9ba991f8f30@zeus-panel-idoxmd.zeus-ptqez6.workers.dev:80?path=/&security=none&encryption=none&insecure=0&host=zeus-panel-idoxmd.zeus-ptqez6.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-idoxmd.zeus-ptqez6.workers.dev#Telegram: PeekConfig-80
