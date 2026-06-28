@@ -3,158 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #آموزش_تصویری🎈🎈آموزش استفاده از برنامه v2rayNG (اندروید)🎈1. اول از همه برنامه رو دانلود و نصب کنید که فایل نصب برنامه داخل کانال هست. از گوگل پلی یا هر منبع معتبر دیگه هم میتونید نصب کنید.2. بعد از نصب یکی از سرور های shadowsocks که داخل کانال قرار میگیره و با vmess یا vless شروع میشه رو کپی کنید.3. وارد برنامه v2rayNG رو بشید و روی گزینه + گوشه بالا بزنید و گزینه Import config from Clipboard رو انتخاب کنید تا سرور شدوساکس داخل برنامه اضافه بشه و در نهایت روی گزینه دایره ای V شکل گوشه پایین بزنید تا اتصال برقرار بشه و رنگ دایره به سبز تغییر کنه و عبارت Connected نمایش داده بشه.نکته: میتونید چندتا سرور داخل برنامه اضافه کنید تا هر کدوم وصل نشد، یکی دیگه رو امتحان کنید.🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈 • More: @Proxy_Beta
 
 #آموزش_تصویری🎈🎈آموزش استفاده از برنامه v2rayNG (اندروید)🎈1. اول از همه برنامه رو دانلود و نصب کنید که فایل نصب برنامه داخل کانال هست. از گوگل پلی یا هر منبع معتبر دیگه هم میتونید نصب کنید.2. بعد از نصب یکی از سرور های shadowsocks که داخل کانال قرار میگیره و با vmess یا vless شروع میشه رو کپی کنید.3. وارد برنامه v2rayNG رو بشید و روی گزینه + گوشه بالا بزنید و گزینه Import config from Clipboard رو انتخاب کنید تا سرور شدوساکس داخل برنامه اضافه بشه و در نهایت روی گزینه دایره ای V شکل گوشه پایین بزنید تا اتصال برقرار بشه و رنگ دایره به سبز تغییر کنه و عبارت Connected نمایش داده بشه.نکته: میتونید چندتا سرور داخل برنامه اضافه کنید تا هر کدوم وصل نشد، یکی دیگه رو امتحان کنید.🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈 • More: @Proxy_Beta
@@ -423,49 +271,31 @@
 
 
 
-vless://12929592-a7bd-41eb-ab4d-d804f76c4ff9@144.31.38.207:24207?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=m.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=02#%E2%9D%8CFalkenstein-GetAFreeNode
-
-vless://12929592-a7bd-41eb-ab4d-d804f76c4ff9@96.47.230.5:48292?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=m.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=01#%E2%9D%8CSeattle-GetAFreeNode
+vless://12929592-a7bd-41eb-ab4d-d804f76c4ff9@96.47.230.5:15294?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=my.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=01#%E2%9D%8CSeattle-GetAFreeNode
 
 
 
 
 
-vless://254551f6-ec28-4938-ad0e-0aa4aa1965ec@144.31.38.207:61464?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=video.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=00#%E2%9D%8CFalkenstein-GetAFreeNode
+vless://254551f6-ec28-4938-ad0e-0aa4aa1965ec@144.31.38.207:30015?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=video.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=02#%E2%9D%8CFalkenstein-GetAFreeNode
 
-vless://254551f6-ec28-4938-ad0e-0aa4aa1965ec@96.47.230.5:58001?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=m.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=01#%E2%9D%8CSeattle-GetAFreeNode
-
-vless://27104fae-f047-4993-902a-9368d8a3e9bc@96.47.230.5:38050?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=video.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=02#%E2%9D%8CSeattle-GetAFreeNode
+vless://27104fae-f047-4993-902a-9368d8a3e9bc@96.47.230.5:57443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=m.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=00#%E2%9D%8CSeattle-GetAFreeNode
 
 
 
 
 
-vless://3b475934-cb2a-4d96-b260-5e50cca5d430@96.47.230.5:12609?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=my.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=02#%E2%9D%8CSeattle-GetAFreeNode
+vless://3786e67a-41eb-4b92-b31e-417e89493b93@96.47.230.5:57313?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=secure.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=01#%E2%9D%8CSeattle-GetAFreeNode
 
-vless://4ec66d81-9565-4d8e-ae58-2bacfde95f48@96.47.230.5:60334?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=m.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=02#%E2%9D%8CSeattle-GetAFreeNode
+vless://3b475934-cb2a-4d96-b260-5e50cca5d430@144.31.38.207:10454?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=yahooapis.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=00#%E2%9D%8CFalkenstein-GetAFreeNode
 
-vless://4f3cfda3-a255-40eb-8801-71f9fffb19d6@96.47.230.5:63038?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=m.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=02#%E2%9D%8CSeattle-GetAFreeNode
+vless://3b475934-cb2a-4d96-b260-5e50cca5d430@96.47.230.5:29954?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=m.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=02#%E2%9D%8CSeattle-GetAFreeNode
 
-vless://54a0bf6d-f2b5-4b2a-942c-798fb129527e@96.47.230.5:36301?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=video.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=02#%E2%9D%8CSeattle-GetAFreeNode
+vless://4ec66d81-9565-4d8e-ae58-2bacfde95f48@96.47.230.5:35414?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=secure.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=01#%E2%9D%8CSeattle-GetAFreeNode
 
+vless://4f3cfda3-a255-40eb-8801-71f9fffb19d6@144.31.38.207:52162?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=m.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=00#%E2%9D%8CFalkenstein-GetAFreeNode
 
-
-
-
-
-vless://6d600864-32da-49fd-baf4-7df051762454@144.31.38.207:62880?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=yahooapis.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=02#%E2%9D%8CFalkenstein-GetAFreeNode
-
-vless://6d600864-32da-49fd-baf4-7df051762454@96.47.230.5:52858?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=my.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=02#%E2%9D%8CSeattle-GetAFreeNode
-
-
-
-
-
-
-vless://9631096d-3032-4942-9446-bdf12665682b@144.31.38.207:49144?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=m.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=01#%E2%9D%8CFalkenstein-GetAFreeNode
-
-vless://9631096d-3032-4942-9446-bdf12665682b@96.47.230.5:25542?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=secure.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=00#%E2%9D%8CSeattle-GetAFreeNode
+vless://54a0bf6d-f2b5-4b2a-942c-798fb129527e@96.47.230.5:34906?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=video.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=02#%E2%9D%8CSeattle-GetAFreeNode
 
 
 
@@ -474,29 +304,59 @@ vless://9631096d-3032-4942-9446-bdf12665682b@96.47.230.5:25542?encryption=none&t
 
 
 
-vless://b2da9920-b0a7-4354-9e26-3833ab8d00d0@144.31.38.207:51146?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=m.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=01#%E2%9D%8CFalkenstein-GetAFreeNode
-
-vless://c09f13ce-2cca-49b6-ad1e-597566cc89c6@144.31.38.207:30749?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=yahooapis.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=01#%E2%9D%8CFalkenstein-GetAFreeNode
-
-vless://c09f13ce-2cca-49b6-ad1e-597566cc89c6@96.47.230.5:58657?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=search.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=00#%E2%9D%8CSeattle-GetAFreeNode
-
-vless://c50f9480-2e1d-40db-9458-630e79636663@96.47.230.5:20790?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=my.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=00#%E2%9D%8CSeattle-GetAFreeNode
 
 
-vless://e1cc26b3-df0b-477b-afb0-53659a25e978@144.31.38.207:19053?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=yahooapis.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=02#%E2%9D%8CFalkenstein-GetAFreeNode
 
-vless://e1cc26b3-df0b-477b-afb0-53659a25e978@96.47.230.5:62804?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=my.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=00#%E2%9D%8CSeattle-GetAFreeNode
+vless://9631096d-3032-4942-9446-bdf12665682b@144.31.38.207:52644?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=m.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=01#%E2%9D%8CFalkenstein-GetAFreeNode
+
+vless://9631096d-3032-4942-9446-bdf12665682b@96.47.230.5:18415?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=secure.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=01#%E2%9D%8CSeattle-GetAFreeNode
 
 
 
 
 
-vless://f1a513d2-c32a-49dc-8e64-d4f8a2f1e001@144.31.38.207:44345?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=yahooapis.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=02#%E2%9D%8CFalkenstein-GetAFreeNode
-
-vless://f1a513d2-c32a-49dc-8e64-d4f8a2f1e001@96.47.230.5:34902?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=m.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=01#%E2%9D%8CSeattle-GetAFreeNode
 
 
-vless://fa8f8911-2e9b-494e-9a8d-f80239ee2214@96.47.230.5:53896?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=m.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=02#%E2%9D%8CSeattle-GetAFreeNode
+
+vless://b01d1e26-2f84-48da-88a1-1d06a77857f3@144.31.38.207:58511?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=m.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=01#%E2%9D%8CFalkenstein-GetAFreeNode
+
+vless://b01d1e26-2f84-48da-88a1-1d06a77857f3@96.47.230.5:62550?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=secure.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=02#%E2%9D%8CSeattle-GetAFreeNode
+
+vless://b2da9920-b0a7-4354-9e26-3833ab8d00d0@144.31.38.207:33746?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=yahooapis.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=00#%E2%9D%8CFalkenstein-GetAFreeNode
+
+vless://b2da9920-b0a7-4354-9e26-3833ab8d00d0@96.47.230.5:52107?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=m.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=01#%E2%9D%8CSeattle-GetAFreeNode
+
+vless://c50f9480-2e1d-40db-9458-630e79636663@96.47.230.5:56518?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=search.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=02#%E2%9D%8CSeattle-GetAFreeNode
+
+vless://d0e97ee2-c6de-48f8-bd4a-8e63a9cd9e89@96.47.230.5:57576?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=my.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=02#%E2%9D%8CSeattle-GetAFreeNode
+
+
+vless://e1cc26b3-df0b-477b-afb0-53659a25e978@144.31.38.207:43201?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=video.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=01#%E2%9D%8CFalkenstein-GetAFreeNode
+
+vless://e3cb685e-7840-45cb-9d64-b2028d9b635e@144.31.38.207:61582?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=m.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=00#%E2%9D%8CFalkenstein-GetAFreeNode
+
+vless://e3cb685e-7840-45cb-9d64-b2028d9b635e@96.47.230.5:19935?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=m.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=01#%E2%9D%8CSeattle-GetAFreeNode
+
+
+
+
+
+vless://f1a513d2-c32a-49dc-8e64-d4f8a2f1e001@144.31.38.207:41506?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=m.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=00#%E2%9D%8CFalkenstein-GetAFreeNode
+
+vless://f1a513d2-c32a-49dc-8e64-d4f8a2f1e001@96.47.230.5:23221?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=search.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=00#%E2%9D%8CSeattle-GetAFreeNode
+
+
+vless://fa8f8911-2e9b-494e-9a8d-f80239ee2214@96.47.230.5:40102?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=m.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=02#%E2%9D%8CSeattle-GetAFreeNode
+
+
+
+
+
+
+
+
+
+
 
 
 
