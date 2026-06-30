@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c5997b46-9a9b-030f-fada-60efaff29de5@rvg-production-8dd9.up.railway.app:443?path=/ws/c5997b46-9a9b-030f-fada-60efaff29de5&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-8dd9.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-8dd9.up.railway.app#EPODONIOS
-vless://c5ece540-6d4b-4057-85a6-2b651c1697b7@securitytrails.com:2083?mode=auto&path=/forall&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=ns1.mtp-roto.info&fp=chrome&type=xhttp&allowInsecure=0&sni=ns1.mtp-roto.info#EPODONIOS
 vless://c60fecb9-a768-464e-8eaf-2541c0ba018a@5.75.207.247:44004?type=tcp&encryption=none&security=reality&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&fp=chrome&sni=www.intel.com&sid=77b0689f&spx=/&flow=xtls-rprx-vision#EPODONIOS
 vless://c61ac406-6661-4f55-a731-fd48f4c03079@104.17.147.22:80?path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=httpupgrade#EPODONIOS
 vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&encryption=none&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=28a059440d3d5ba1#EPODONIOS
@@ -503,3 +501,5 @@ vless://f6628da4-ae17-49b7-81cf-7de3f43cadd8@172.66.47.69:2086?security=none&typ
 vless://f6628da4-ae17-49b7-81cf-7de3f43cadd8@172.67.66.162:2086?security=none&type=httpupgrade&headerType=&path=/?ed=2086&host=a3ssa.vaslbsh.com#EPODONIOS
 vless://f6628da4-ae17-49b7-81cf-7de3f43cadd8@188.42.88.24:2053?security=tls&type=ws&headerType=&path=&host=noone2.bingnet.online&sni=noone2.bingnet.online&fp=chrome&allowInsecure=1#EPODONIOS
 vless://f6628da4-ae17-49b7-81cf-7de3f43cadd8@188.42.88.24:2086?security=none&type=httpupgrade&headerType=&path=/?ed=2086&host=a3ssa.vaslbsh.com#EPODONIOS
+vless://f6628da4-ae17-49b7-81cf-7de3f43cadd8@188.42.88.24:2086?security=none&type=httpupgrade&headerType=&path=/?ed=8880&host=a3ssa.vaslbsh.com#EPODONIOS
+vless://f6628da4-ae17-49b7-81cf-7de3f43cadd8@208.103.161.11:2053?security=tls&type=ws&headerType=&path=&host=za12kl3.bingnet.online&sni=za12kl3.bingnet.online&fp=#EPODONIOS

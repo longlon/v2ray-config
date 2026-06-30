@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://52b71b75-4b77-4cec-990b-046ec1938e1f@45.90.97.132:443?security=reality&encryption=none&pbk=65T6l7e51lwKu1rzQ4FgqVPe-JyG43IqPLw6r9U2v10&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fr.bvps.cloud&sid=0befa76540b5db79#🔵@chillguy_vpn
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@188.114.97.6:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&fp=chrome&type=ws&allowInsecure=0&sni=vangoghhh.info#🔵@chillguy_vpn
 vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@104.17.108.69:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv14.hamiibar.com&fp=chrome&type=ws&allowInsecure=0&sni=srv14.hamiibar.com#🔵@chillguy_vpn
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.20:443?path=%2Fpoiuyws&security=tls&encryption=none&insecure=1&host=amoosamiii.net&type=ws&allowInsecure=1&sni=amoosamiii.net#🔵@chillguy_vpn
 vmess://eyJ2IjoiMiIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NiIsImFkZCI6IjY5Ljg0LjE4Mi40OSIsInBvcnQiOiI4MCIsImlkIjoiZjg5NzU4NzEtYTdhMC00OTA2LTg4MzUtYTIzYzEyNThjYTFlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Imdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLnp1bGEudXBsYW9kLW11c2ljLmlyLiIsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9#🇺🇸
@@ -503,3 +501,5 @@ trojan://Mitivpn@151.101.110.219:443?path=/boost&security=tls&host=3-mitivpn.glo
 trojan://Mitivpn@151.101.110.219:443?path=/boost&security=tls&insecure=0&host=3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 trojan://Mitivpn@151.101.110.219:443?path=/boost/mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn&security=tls&insecure=0&host=3-Mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 trojan://Mitivpn@151.101.110.219:443?path=/de&security=tls&alpn=http/1.1&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#EPODONIOS
+trojan://Mitivpn@151.101.110.219:443?path=/de&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#EPODONIOS
+trojan://Mitivpn@151.101.110.219:443?path=/de&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
