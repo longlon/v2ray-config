@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://7b266ed5-107c-4e87-b333-60918381e3df@chuixuecf.blowingsnowclouds.cc:443?path=/chuixue/de1&security=tls&encryption=none&insecure=0&host=vipde1.888053.xyz&fp=chrome&type=ws&allowInsecure=0&sni=vipde1.888053.xyz#EPODONIOS
-vless://7b53860a-3856-4cb7-b2a0-8b5d6f586abf@khar290.snappshp.com:443?security=tls&allowInsecure=0&encryption=none&type=httpupgrade&sni=khar290.snappshp.com&fp=chrome&alpn=h2,http/1.1#EPODONIOS
-vless://7b71f980-4e40-40a3-8994-41836ad4c3f4@167.82.101.210:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&insecure=1&host=hormiz5.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=global.fastly.com#EPODONIOS
-vless://7b81a350-89c3-47da-a3a9-5f2b65313d03@snapp.ir:2052?path=/api/auth&security=none&encryption=none&host=api5.iraniandex.ir&type=httpupgrade#EPODONIOS
 vless://7bb6d2aa-6238-48a6-abe2-c7deb083b08e@velsanto.online:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=04bf0403f96e5b4b#EPODONIOS
 vless://7bb7c0fb-a89f-4e64-a303-78c1f5f61781@axs.amirxshot.ir:2095?path=/axs&security=none&encryption=none&host=pl33.sazegostaran-iran.ir&type=ws#EPODONIOS
 vless://7bb7c0fb-a89f-4e64-a303-78c1f5f61781@pc.amirxshot.ir:8443?path=/axs&security=tls&encryption=none&insecure=0&host=pc.amirxshot.ir&fp=chrome&type=ws&allowInsecure=0&sni=axs.amirxshot.ir#EPODONIOS
@@ -274,6 +270,7 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.126:8880?mode=gun&secur
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.129:8880?mode=gun&security=&encryption=none&type=grpc#EPODONIOS
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.129:8880?mode=gun&security=none&encryption=none&type=grpc#EPODONIOS
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.131:8880?mode=gun&security=none&encryption=none&type=grpc#EPODONIOS
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?encryption=none&security=none&type=grpc#EPODONIOS
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?mode=gun&security=&encryption=none&type=grpc#EPODONIOS
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?mode=gun&security=none&encryption=none&type=grpc#EPODONIOS
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.167:8880?mode=gun&security=none&encryption=none&type=grpc#EPODONIOS
@@ -503,3 +500,6 @@ vless://9c940549-ac64-370e-eda9-67257bab6815@141.95.8.64:9331?encryption=none&se
 vless://9c940549-ac64-370e-eda9-67257bab6815@141.95.8.64:9331?security=reality&encryption=none&pbk=x0PQITRDc443ujCTd0LORwvBBFGYKv6z2cvRbKHxAFU&headerType=none&fp=chrome&spx=/&type=tcp&sni=play.google.com&sid=af1fac6e#EPODONIOS
 vless://9c940549-ac64-370e-eda9-67257bab6815@45.131.6.203:2096?mode=auto&security=tls&encryption=none&insecure=0&host=intelligentgatewayplatform.novacorelorna.com&fp=chrome&type=xhttp&allowInsecure=0&sni=corecache.novacorelorna.com#EPODONIOS
 vless://9c940549-ac64-370e-eda9-67257bab6815@54.38.224.105:9331?security=reality&encryption=none&pbk=x0PQITRDc443ujCTd0LORwvBBFGYKv6z2cvRbKHxAFU&headerType=none&fp=chrome&spx=/&type=tcp&sni=play.google.com&sid=af1fac6e#EPODONIOS
+vless://9c940549-ac64-370e-eda9-67257bab6815@54.38.224.105:9331?security=reality&encryption=none&pbk=x0PQITRDc443ujCTd0LORwvBBFGYKv6z2cvRbKHxAFU&host=play.google.com&headerType=none&fp=chrome&spx=/&type=tcp&sni=play.google.com&sid=af1fac6e#EPODONIOS
+vless://9ca2de90-90c3-48ef-beac-998a8fbd56fb@static.oneset.ir:2128?security=reality&alpn=h2,http/1.1&encryption=none&pbk=eMVkOTpnVUr1xnc9E5Dr_bz2D1ALNIOrBWUKypukQHA&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=815594171dd04f27#EPODONIOS
+vless://9cb33b97-9f09-4424-bc42-14ea7561a78a@f.mobilemarketahora.top:2092?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
