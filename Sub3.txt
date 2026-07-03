@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://b8494776252056a1b62e77c4ff6a6d61@18.162.58.236:5701?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.145:443?#%F0%9F%87%B7%F0%9F%87%B4RO%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A3
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNDQiLCJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsInBvcnQiOiI0NDMiLCJpZCI6ImM4YjNmZDM4LWNiNjAtNDM0Yy1iZDdlLTYzNjM4MjI2ZjRhOCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6ImdyYWRlLmRnY2xpeC5pciIsInBhdGgiOiIvY3VzdG9tX2NvbmZpZz9lZD0yNTYwIiwidGxzIjoidGxzIiwic25pIjoiZ3JhZGUuZGdjbGl4LmlyIiwidGVzdF9uYW1lIjoiNDQifQ==
-trojan://BxceQaOe@52.194.214.115:10624?sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNDUiLCJhZGQiOiJkZS5jb25uZnVsbC5vcmciLCJwb3J0IjoiMjA1MyIsImlkIjoiZjJmZjRhZTYtY2YyZC00ZDE1LTlmMGQtYjZkOTk4MGRmOWFhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoidGxzIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNDUifQ==
-trojan://OccIqeORGQwiNkwS@jpbgp.netvigor.cc:19128?sni=yazhou10.dynu.net#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF3
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNDYiLCJhZGQiOiIxNS4yMzUuODMuMjI4IiwicG9ydCI6IjQ0MyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoibGFtbWFsYW5kLm9yZyIsInBhdGgiOiJsaW5rdndzIiwidGxzIjoidGxzIiwic25pIjoibGFtbWFsYW5kLm9yZyIsInRlc3RfbmFtZSI6IjQ2In0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.71:28061#%F0%9F%87%AE%F0%9F%87%B3IN%E5%8D%B0%E5%BA%A62%2032.4KB%2Fs
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNDciLCJhZGQiOiJkaWdpMTQuZXowNTM1LmNvbSIsInBvcnQiOiI0NDMiLCJpZCI6IjMxNzA1M2RkLWY0MWItNDY2OS05MjRjLTdmYzE1YTBhNzBkMSIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJub25lIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNDcifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
@@ -48,6 +41,7 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjYiLCJhZGQiOiI1MS44My41Mi4xNzIiLCJwb3J0Ijoi
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjciLCJhZGQiOiI0Ny4yNTAuMTQ5LjUxIiwicG9ydCI6IjUwMDE4IiwiaWQiOiI5NjY1MjgwYy1hM2QxLTRhYWItZWY5Zi1hM2E0OTczMzdkOTEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiIiLCJwYXRoIjoiLzk2NjUyODBjIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNjcifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjgiLCJhZGQiOiJzcHQucmVhdGEuaXIiLCJwb3J0IjoiMTAyMCIsImlkIjoiYTgwMjJlZGItMGJkNy00Zjg2LWI3MGQtMjBmN2Y4YTU5ODE0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJzcHQucmVhdGEuaXIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjY4In0=
 vmess://eyJ2IjoiMiIsInBzIjoiVVM0IiwiYWRkIjoiMTcyLjY0LjE0Ni4xMDIiLCJwb3J0IjoiODQ0MyIsImlkIjoiYzFhOGRlZTAtYmRhZC00YjZkLTk5MjYtNWUxNWMzYzhlZDdkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoibWFyY28tdmlzaWJpbGl0eS10b3BzLWVzdGltYXRlLnRyeWNsb3VkZmxhcmUuY29tIiwicGF0aCI6Ii9jMWE4ZGVlMC1iZGFkLTRiNmQtOTkyNi01ZTE1YzNjOGVkN2Qtdm0iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJtYXJjby12aXNpYmlsaXR5LXRvcHMtZXN0aW1hdGUudHJ5Y2xvdWRmbGFyZS5jb20iLCJ0ZXN0X25hbWUiOiJVUzQifQ==
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.45.129:443?security=reality&encryption=none&pbk=dp-ncBuRHgZl5O80eHBYhSKo1i9qbt-J7MJ1alyWXmM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=3.oncloudnineservicestreang.com&sid=1991780b928b292d#%40bored_vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#V2rayng_Fast
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#United+Kingdom
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtaHR0cHM6Ly90Lm1lL01yWGJpbi05NyIsICJhZGQiOiAiMTQ2LjU5LjU1LjUwIiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJzbmkiOiAid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsICJob3N0IjogIm8ubWV0dWppLmNvbSIsICJwYXRoIjogIi9saW5rdndzIn0=
@@ -503,3 +497,9 @@ trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?path=/tr&security=tls&insecure=1&host=
 trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?security=tls&sni=Koma-YT.PAGeS.Dev&insecure=1&allowInsecure=1&type=ws&host=Koma-YT.PAGeS.Dev&path=/tr#@SheriffNet
 trojan://8r<[9'l6hAO#8ZQi@104.18.109.147:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#Telegram : @spikevpn
 trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#@v2rayngzendegimamad🕊️
+trojan://9c3ydrt7pq0y9jyq@45.38.41.242:8080?mode=auto&path=/api&security=reality&extra={"xPaddingBytes":"100-1000"}&pbk=8Cq8NpjuE-fsiyfm62dmW0CDRLxZmXjdf-bNwp3WKns&fp=chrome&spx=/BOFrUAQTAMXDw6L&type=xhttp&sni=play.google.com&sid=788855ad1ce4#@appsooner کانال تلگرام 🕊️
+trojan://Aimer@167.68.4.199:2053?host=epge.muarua.filegear-sg.me&path=/&sni=epge.muarua.filegear-sg.me&type=ws#🏠14@NetFlowTools
+trojan://BhNAljna1sXjsY.Nqdl0ksXJ1VsGRqXz1V@130.94.114.217:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#@v2rayNplus |🇨🇦
+trojan://BxceQaOe@16.163.102.116:52951/?type=tcp&security=tls&allowInsecure=1&note=@FreeOnlineVPN#🇸🇬 - SG - @FreeOnlineVPN
+trojan://BxceQaOe@16.163.107.220:11035?allowInsecure=1&sni=t.me/ripaojiedian#@Hope_Net-join-us-on-Telegram
+trojan://BxceQaOe@18.163.56.230:3941?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me/ripaojiedian#@Shh_Proxy-New⁶
