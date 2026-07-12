@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@104.18.152.229:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#EPODONIOS
-trojan://humanity@104.18.152.233:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#EPODONIOS
-trojan://humanity@104.18.152.246:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#EPODONIOS
 trojan://humanity@104.18.152.246:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EPODONIOS
 trojan://humanity@104.18.152.246:443?security=tls&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&allowinsecure=0&type=ws&host=www.calmloud.com&path=/assignment#EPODONIOS
 trojan://humanity@104.18.152.54:443?path=/assignment&security=tls&alpn=h3,h2&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#EPODONIOS
@@ -503,3 +500,6 @@ vless://2797a040-443c-4249-ab49-546b37519642@94.126.204.79:5443?encryption=none&
 vless://2797a040-443c-4249-ab49-546b37519642@guard1.cloud134.ru:3443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=A5xVPTq9yMt18VxQ0u9GWGnnvGzlu2VraUYOMKNTMyA&security=reality&sid=777481f61ca7487e&sni=api-maps.yandex.ru&type=tcp#EPODONIOS
 vless://2797a040-443c-4249-ab49-546b37519642@guard3.cloud134.ru:3443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=A5xVPTq9yMt18VxQ0u9GWGnnvGzlu2VraUYOMKNTMyA&security=reality&sid=777481f61ca7487e&sni=api-maps.yandex.ru&type=tcp#EPODONIOS
 vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&type=tcp#EPODONIOS
+vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&type=tcp&headerType=none#EPODONIOS
+vless://27f914c5-bdcc-441a-9459-368daf552606@media.hihidress.com:443?security=reality&encryption=none&pbk=zCeRZCK7gCGFmPlOzBaTWHVkmysMFJlPqgDTPZRjRx0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.mi.com&sid=6ba85179e30d4fc2#EPODONIOS
+vless://27fa0b14-1360-4376-826f-d6be3f7e7636@nodejs.org:443?path=/eyJqdW5rIjoiZ3U3MGx2S20iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=ez-16d6b5.alialo87.workers.dev&fp=chrome&type=ws&sni=Ez-16D6b5.AliAlO87.wORKErS.DEv#EPODONIOS
