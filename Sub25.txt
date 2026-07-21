@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://a3ab68bd-e835-5129-b8c5-335a709e8b3f@185.83.127.82:443?mode=gun&security=reality&encryption=none&pbk=h9aR_LyBrt2_zfbJYMZAGqfjk4zumCVuwOXzrFJEK1A&fp=chrome&type=grpc&serviceName=grpc-play-7f3a92&sni=play.google.com&sid=5b3aa0bdbe8d6a0e#EPODONIOS
+vless://a3c465cd-bf1d-4e70-99a4-d5d494a7a038@162.159.38.119:443?encryption=none&host=telegram.mxgrid.xyz&path=/----MxGriD-----&security=tls&sni=telegram.mxgrid.xyz&type=ws#EPODONIOS
+vless://a3f8f570-3e53-4252-a01f-f95156680e39@162.159.38.119:443?encryption=none&fp=chrome&host=telegram.mxgrid.xyz&path=/-----MxGriD-----&security=tls&sni=telegram.mxgrid.xyz&type=ws#EPODONIOS
+vless://a3f8f570-3e53-4252-a01f-f95156680e39@162.159.38.119:443?path=/-----MxGriD-----&security=tls&encryption=none&insecure=0&host=telegram.mxgrid.xyz&fp=chrome&type=ws&allowInsecure=0&sni=telegram.mxgrid.xyz#EPODONIOS
+vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@ashburn.yellowsky.ir:8080?encryption=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
 vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@om.mastermarly.ir:8080?encryption=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
 vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2052?encryption=none&type=httpupgrade&path=/graphql&host=CAdaba.amki.IR.#EPODONIOS
 vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2052?encryption=none&type=httpupgrade&path=/graphql&host=hosbia.amki.IR.#EPODONIOS
@@ -498,8 +503,3 @@ vless://dc423428-5e55-410e-80a2-264df565f52f@104.19.149.174:443?encryption=none&
 vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?security=reality&encryption=none&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=8433cb66b6c3ab6d#EPODONIOS
 vless://dc7b0174-8da2-e3a1-5ff1-f3460578ba32@ansooyefilter-channel-production-645b.up.railway.app:443?encryption=none&security=tls&type=ws&host=ansooyefilter-channel-production-645b.up.railway.app&path=/ws/dc7b0174-8da2-e3a1-5ff1-f3460578ba32&sni=ansooyefilter-channel-production-645b.up.railway.app&fp=chrome&alpn=http/1.1#EPODONIOS
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&host=de.vpnbase.net&path=/http&security=none&type=ws#EPODONIOS
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=&encryption=none&type=ws#EPODONIOS
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#EPODONIOS
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=none&encryption=none&type=ws#EPODONIOS
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=/http&encryption=none&host=@SylphNet&type=ws#EPODONIOS
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#EPODONIOS
