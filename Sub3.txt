@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c532eb8f-0ee6-4b9b-b258-3cc22dfd7130@165.245.255.43:43376?encryption=none&fp=chrome&pbk=wao7fuBMCR6po9PtLR1eRQjH7McA17SHoh95JudXaUI&security=reality&sid=0937ffd874d1&sni=www.m.amazon.com&spx=%2F9aeb9f49f7ea9c3&type=tcp#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20146ms
+vless://c8fe7ac3-b856-43a3-83c6-7add01473004@104.194.148.31:443?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=Ktlxb7kcAIB9_kWTWqD4EOcSLfwQsNqTrc3xBokhYBo&security=reality&sid=90&sni=www.nvidia.com&spx=%2FyCXkE90WA3xmofa&type=xhttp&x_padding_bytes=100-1000#🆔ar14n24b%20🔒%20VL-XHTTP-%20❔%20XX%20140ms
+vless://e6240cbb-e913-4d72-87ef-9f5daa5f73b3@ae-play.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=qq&type=tcp&sni=play.google.com&sid=aefc7f3722#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20233ms
+vless://e6240cbb-e913-4d72-87ef-9f5daa5f73b3@pt-play.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=qq&type=tcp&sni=play.google.com&sid=aefc7f3722#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20246ms
+vless://e6240cbb-e913-4d72-87ef-9f5daa5f73b3@sa-google.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=qq&type=tcp&sni=play.google.com&sid=377d#🆔ar14n24b%20🔒%20VL-TCP-%20❔%20XX%20289ms
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@one-for-all.levikogjgfdd.ir:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20❔%20XX%2054ms
+vless://543d9bd0-be2c-44d4-8e73-d9900fe9580d@0w48t.pastilbastani.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=chrome&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#🆔v2ray1_ng%20🔒%20VL-XHTTP-N/A%20❔%20XX%20134ms
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@gr4.levikogjgfdd.ir:3031?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20❔%20XX%20318ms
 vless://5e243126-4a2a-84b6-782a-73b14797fb5f@89.47.55.3:8443?mode=gun&security=reality&encryption=none&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&fp=chrome&type=grpc&serviceName=TunService&sni=dl.google.com#🆔v2ray1_ng%20🔒%20VL-GRPC-%20❔%20XX%20down
@@ -482,7 +489,6 @@ hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@germany1.noesissite.ru:443?secu
 hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?security=tls&obfs=salamander&obfs-password=w0tx1ju9iix6913p&insecure=1&sni=assets.gateway-stream.com#kurdconfig
 hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?security=tls&obfs=salamander&obfs-password=w0tx1ju9iix6913p&insecure=1&sni=assets.gateway-stream.com#🇫🇮@FreakConfig
 hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?security=tls&obfs=salamander&obfs-password=w0tx1ju9iix6913p&insecure=1&sni=assets.gateway-stream.com#🇫🇮@V2rayng_Fast
-hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52070?security=tls&obfs=salamander&alpn=h3&obfs-password=f7jlf6m0hwvcl593&insecure=1&sni=assets.gateway-stream.com
 hysteria2://1Tm8undefinedEG5fl@91.107.178.22:443?security=tls&obfs=salamander&obfs-password=RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak&insecure=1&pinSHA256=06c9289b97b5b4d2a002cce385e52ed6a434c9e0b4e56fc8eb7f608b7079ea9d&sni=www.refersion.com#🇩🇪 Telegram= V2RayyNGvpn 🇩🇪3
 hysteria2://4IGOAN2QIY@91.107.178.22:443?security=tls&obfs=salamander&obfs-password=RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak&insecure=1&pinSHA256=06c9289b97b5b4d2a002cce385e52ed6a434c9e0b4e56fc8eb7f608b7079ea9d&sni=www.refersion.com#🇩🇪 Telegram= V2RayyNGvpn 🇩🇪4
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52025?security=tls&obfs=salamander&obfs-password=iknjsvsjagi449mm&insecure=0&sni=assets.gateway-stream.com#@erfanandroid
@@ -497,9 +503,3 @@ hysteria2://84eyebdtl3tcbssn@assets.gateway-stream.com:52060?security=tls&obfs=s
 hysteria2://84eyebdtl3tcbssn@assets.gateway-stream.com:52060?security=tls&obfs=salamander&obfs-password=l960g2kn19nphlra&insecure=0&sni=assets.gateway-stream.com#@vmesskhodam
 hysteria2://84eyebdtl3tcbssn@assets.gateway-stream.com:52060?security=tls&obfs=salamander&obfs-password=l960g2kn19nphlra&insecure=0&sni=assets.gateway-stream.com#✅  @vistav2ray  👈👈کانال ما ✅
 hysteria2://84eyebdtl3tcbssn@assets.gateway-stream.com:52060?security=tls&obfs=salamander&obfs-password=l960g2kn19nphlra&insecure=0&sni=assets.gateway-stream.com#✅ t.me/bigAVPN ایران آزاد 👑
-hysteria2://84eyebdtl3tcbssn@assets.gateway-stream.com:52060?security=tls&obfs=salamander&obfs-password=l960g2kn19nphlra&insecure=0&sni=assets.gateway-stream.com#𝗡𝗲𝗧𝗠𝗲𝗹𝗶⚡️@prrofile_purple 🌩
-hysteria2://AstroVPN_official@hystry.accuratenetworkchecker.ir:8083?security=tls&obfs=salamander&obfs-password=4b6gmo4jujpapx99&insecure=0&sni=vhd.nth.gelzaro.ir#پرسرعت ⚡
-hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=179.61.132.96#🩵+@Azarakhsh_Proxy+🩷
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#@KAFING_2
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#کانال تلگرام : Free_VPN_CH@
