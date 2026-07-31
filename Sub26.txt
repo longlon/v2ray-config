@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c8fe7ac3-b856-43a3-83c6-7add01473004@104.194.148.31:443?mode=auto&path=/&security=reality&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&pbk=Ktlxb7kcAIB9_kWTWqD4EOcSLfwQsNqTrc3xBokhYBo&fp=chrome&spx=/yCXkE90WA3xmofa&type=xhttp&sni=www.nvidia.com&sid=90#EPODONIOS
+vless://c9380ef8-23f8-422e-81fe-ebbb032202cf@151.101.193.54:80/?type=ws&encryption=none&flow=&host=BankMelat.glObal.ssl.faStly.nEt.&path=/&packetEncoding=xudp#EPODONIOS
 vless://c9380ef8-23f8-422e-81fe-ebbb032202cf@151.101.193.54:80?path=/&security=&encryption=none&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws#EPODONIOS
 vless://c9380ef8-23f8-422e-81fe-ebbb032202cf@151.101.193.54:80?path=/&security=none&encryption=none&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws#EPODONIOS
 vless://c9380ef8-23f8-422e-81fe-ebbb032202cf@151.101.56.7:80/?type=ws&encryption=none&flow=&host=BankMelat.glObal.ssl.faStly.nEt.&path=/&packetEncoding=xudp#EPODONIOS
@@ -501,5 +503,3 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.72.50:443?path=/fp&security=
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.17.122.18:443?path=/fp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#EPODONIOS
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.17.184.155:443?&security=tls&fp=chrome&sni=t1s1.rittbo.kdns.fr&type=ws&headerType=none&host=t1s1.rittbo.kdns.fr&path=/#EPODONIOS
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.17.25.173:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#EPODONIOS
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.0.0:443?path=/fp=chrome&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#EPODONIOS
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.37.237:8443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=/#EPODONIOS
