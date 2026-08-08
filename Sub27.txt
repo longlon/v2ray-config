@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://66b63d3a-54ac-41f1-91f7-e74b171f3029@77.91.66.136:443?security=reality&encryption=none&pbk=HEJjjCvVugA6DyRLNL8dTHzBhS1wuaQYizrd_fGiGxA&host=BIA_TELEGRAM?=@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ge-x77.pingcentr.ru#EPODONIOS
+vless://66b63d3a-54ac-41f1-91f7-e74b171f3029@ge-x77.pingcentr.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ge-x77.pingcentr.ru&security=reality&pbk=HEJjjCvVugA6DyRLNL8dTHzBhS1wuaQYizrd_fGiGxA&sid=#EPODONIOS
 vless://66b63d3a-54ac-41f1-91f7-e74b171f3029@ge-x77.pingcentr.ru:443?security=reality&encryption=none&pbk=HEJjjCvVugA6DyRLNL8dTHzBhS1wuaQYizrd_fGiGxA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ge-x77.pingcentr.ru#EPODONIOS
 vless://66c0fc6b-a324-4e83-8f82-f70b9d4cba61@3x-ui-production-7cd6.up.railway.app:443?path=/in1&security=tls&encryption=none&host=3x-ui-production-7cd6.up.railway.app&type=ws#EPODONIOS
 vless://66ec6c13-bc43-4304-b2cf-479193d16a78@94.183.225.92:3030?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
@@ -501,5 +503,3 @@ vless://8d391797-01f4-4393-92d0-504c96ca4c29@pscresearch.faculty.ucdavis.edu:443
 vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.1.23:666/?type=ws&encryption=none&flow=&host=43.164.1.23&path=/proxy&security=tls&sni=43.164.1.23&allowInsecure=1&packetEncoding=xudp#EPODONIOS
 vless://8d90b4b4-1674-45a5-810e-57d939f53fe2@www.cnae.top:443?path=/&security=tls&encryption=none&insecure=0&host=hhslb.vavava.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=hhslb.vavava.kdns.fr#EPODONIOS
 vless://8d9f44e1-4ef7-4f25-8b2f-0e8c387ff2e7@test.tw1x.space:443?mode=packet-up&path=/j6s19LU1vQ&security=tls&encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&insecure=0&host=test.tw1x.space&type=xhttp&allowInsecure=0#EPODONIOS
-vless://8dae0da8-53e7-466d-bf50-8bb6dcd462be@digia.riziro.ir:8443?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=digia.riziro.ir&mode=auto&path=/&pbk=Ve-mF0aFGxV4deOSEA8jDe3FdjxLddF7n4IchNKvcDc&security=reality&sid=c8&sni=qapartners.sec.samsung.com&spx=/sKmkuWxoF1svNrD&type=xhttp&x_padding_bytes=100-1000#EPODONIOS
-vless://8dae0da8-53e7-466d-bf50-8bb6dcd462be@digin.riziro.ir:8443?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=digin.rizrio.ir&mode=auto&path=/&pbk=zKeOuPoCS_FA1bsfFr-A8MmdYIS-DhcHwxmhDC1WaSA&security=reality&sid=0f439f5a58a977&sni=image.semiconductor.samsung.com&spx=/DVh5EZ8eK7LMDiV&type=xhttp&x_padding_bytes=100-1000#EPODONIOS
