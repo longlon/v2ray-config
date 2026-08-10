@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://b543c35e-ec44-4979-849b-84099ca8a3d8@193.84.255.89:2095?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://b543c35e-ec44-4979-849b-84099ca8a3d8@88.218.196.52:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://b543c35e-ec44-4979-849b-84099ca8a3d8@91.99.12.14:8080?encryption=none&type=tcp&headerType=http&host=play.google.com#EPODONIOS
 vless://b543c35e-ec44-4979-849b-84099ca8a3d8@91.99.12.14:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
@@ -502,4 +503,3 @@ vless://dce761b1-e9c6-4d25-8ba3-d110309bcf4b@nzze.paydar.site:2020?security=none
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.18.41:443?path=/--Telegram---@MiTiVPN/---@MiTiVPN/---MiTiVPN/---@MiTiVPN&security=tls&encryption=none&insecure=0&host=www.getasa.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.getasa.ir#EPODONIOS
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/--Telegram---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=web.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=web.abcallcenter.com#EPODONIOS
 vless://dd331d81-072a-8644-87cf-6bab4216ed28@69.46.46.27:443?path=/ws/dd331d81-072a-8644-87cf-6bab4216ed28&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-d21e.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-d21e.up.railway.app#EPODONIOS
-vless://dd6af632-e4bb-400a-922f-43f75ec89d64@190.93.245.94:443?mode=auto&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&security=tls&alpn=h2&encryption=none&insecure=0&host=api-ws-de.nxping.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=api-ws-de.nxping.ir#EPODONIOS
