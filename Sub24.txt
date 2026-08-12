@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.105.53:13868?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amd.com&fp=chrome&pbk=XxzDVidmyjuPnBKrFDwCpowaIdLth4-kJsqrDvdPPx8&sid=e852dc&type=tcp&headerType=none#EPODONIOS
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.105.53:13868?security=reality&encryption=none&pbk=XxzDVidmyjuPnBKrFDwCpowaIdLth4-kJsqrDvdPPx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=e852dc#EPODONIOS
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.105.53:13868?security=reality&encryption=none&pbk=XxzDVidmyjuPnBKrFDwCpowaIdLth4-kJsqrDvdPPx8&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=e852dc#EPODONIOS
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.109.126:13868?security=reality&encryption=none&pbk=YxGdcVKnOjKUtaG-E68lzI_rd9DI5RvsbLY0qyMFX2w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wp.pl&sid=e852dc#EPODONIOS
@@ -502,4 +503,3 @@ vless://2b8c0574-ff6f-4975-8a06-e24ebefa1d1c@111.88.143.139:8443?security=realit
 vless://2c11796c-d642-4d80-819b-226ddba44561@46.249.103.67:443?authority=&encryption=none&security=none&serviceName=&type=grpc#EPODONIOS
 vless://2c11796c-d642-4d80-819b-226ddba44561@46.249.103.67:443?mode=gun&security=&encryption=none&type=grpc#EPODONIOS
 vless://2c11796c-d642-4d80-819b-226ddba44561@46.249.103.67:443?security=&encryption=none&type=grpc#EPODONIOS
-vless://2c26ed61-be8a-45d1-978c-3774e062ac2b@199.232.237.80:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=metali8492.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=global.fastly.com#EPODONIOS
