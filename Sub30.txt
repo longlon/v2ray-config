@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://f128bc2c-8018-43a1-8ed7-66eabc8f157c@142.111.244.75:448?security=reality&encryption=none&pbk=r8ljXJO_4yLUonHdkPeWbD9A__XqoudwWAiXx9fbcj8&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=39a997621a3598c9#EPODONIOS
+vless://f12cc297-c9ce-4cdb-98d4-8e47c3f09644@104.18.34.245:8880?encryption=none&security=none&type=ws&host=weathered-union-5358.101-262.workers.dev#EPODONIOS
+vless://f12cc297-c9ce-4cdb-98d4-8e47c3f09644@104.18.34.245:8880?host=weathered-union-5358.101-262.workers.dev&type=ws&security=none&encryption=none#EPODONIOS
 vless://f12cc297-c9ce-4cdb-98d4-8e47c3f09644@104.18.34.245:8880?security=none&encryption=none&host=weathered-union-5358.101-262.workers.dev&type=ws#EPODONIOS
 vless://f12cc297-c9ce-4cdb-98d4-8e47c3f09644@172.64.153.11:8880?encryption=none&type=ws&host=weathered-union-5358.101-262.workers.dev&security=none#EPODONIOS
 vless://f12cc297-c9ce-4cdb-98d4-8e47c3f09644@172.64.153.11:8880?host=weathered-union-5358.101-262.workers.dev&type=ws&security=none&encryption=none#EPODONIOS
@@ -500,6 +503,3 @@ vless://0f350a5d-e801-4eca-a1b9-abe9798ad48a@199.232.78.159:443?path=%2FTELEGRAM
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.204:4100?path=%2Fv1&security=none&encryption=none&type=ws#EPODONIOS
 vless://2730487f-0ed5-4f04-92d5-f95f9253d4f4@172.67.135.69:443?encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&path=ws&security=tls&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&type=ws#EPODONIOS
 vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@estproxy2.lockdwn.com:443?encryption=none&security=none&type=ws#EPODONIOS
-vless://26fb53e4-fd49-4b34-b605-b6cc1b1a06a8@104.16.72.21:8880?path=%2Fpyip&security=none&encryption=none&host=royal-shape-3771.93-728.workers.dev&type=ws#EPODONIOS
-vless://23182cbe-e05a-80f3-8f8b-230d00c68b6e@69.46.46.123:443?path=%2Fws%2F23182cbe-e05a-80f3-8f8b-230d00c68b6e&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-4b3e8.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-4b3e8.up.railway.app#EPODONIOS
-vless://2001e98b-e06e-4244-910f-7ff640746eda@168.222.202.15:4100?encryption=none&host=live.ok.ru&path=%2Fv1&security=none&type=ws#EPODONIOS
