@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://79a5be11-ec1f-4e18-b7fc-aef854234c43@199.232.78.159:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=ssl.fastly.com#EPODONIOS
+vless://79c9514e-aa3c-4cd0-bf0d-dd6df42039f6@151.101.56.6:443?path=/&security=tls&alpn=h2&encryption=none&host=c12.com&fp=chrome&type=ws&sni=ssl.fastly.com#EPODONIOS
+vless://79c9514e-aa3c-4cd0-bf0d-dd6df42039f6@151.101.56.6:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 vless://79c9514e-aa3c-4cd0-bf0d-dd6df42039f6@a2.arshia-nova.ir:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
 vless://79c9514e-aa3c-4cd0-bf0d-dd6df42039f6@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&host=c12.com&fp=chrome&type=ws&sni=ssl.fastly.com#EPODONIOS
 vless://79c9514e-aa3c-4cd0-bf0d-dd6df42039f6@k2.cloud--vpn.site:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
@@ -500,6 +503,3 @@ vless://9e6cf131-5323-4607-a51e-036e8097e676@212.74.39.13:18022?security=reality
 vless://9e81276e-5d48-4238-b725-5ed2feec5f51@104.16.144.131:80?encryption=none&security=none&type=ws&host=muddy-sun-f05e-ppal03.nakojof452.workers.dev&path=/?ed=2560#EPODONIOS
 vless://9e81276e-5d48-4238-b725-5ed2feec5f51@104.24.66.98:80?encryption=none&security=none&type=ws&host=muddy-sun-f05e-ppal03.nakojof452.workers.dev&path=/?ed=2560#EPODONIOS
 vless://9ebab373-19fe-4535-aa95-4e348ea300f1@46.235.186.50:443?path=/ws&security=tls&encryption=none&insecure=0&host=s28315.cdn.ngenix.net&type=ws&allowInsecure=0&sni=s28315.cdn.ngenix.net#EPODONIOS
-vless://9f01a1f2-9fd1-45f1-a1c5-435f55e6319c@am255.amin5646.ir:2082?mode=auto&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=&encryption=none&host=am290.amin5646.ir&type=xhttp#EPODONIOS
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://9f0a81d9-7c1a-4d5c-a18a-a19a2dac1c07@3x-ui-multi-production-5f14.up.railway.app:443?fp=chrome&host=3x-ui-multi-production-5f14.up.railway.app&path=/direct&security=tls&sni=3x-ui-multi-production-5f14.up.railway.app&type=ws#EPODONIOS
