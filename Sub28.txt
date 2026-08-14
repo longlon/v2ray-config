@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://bc527d04-6272-41d0-8c48-aa0e83638c94@164.90.165.38:46569?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+vless://bc527d04-6272-41d0-8c48-aa0e83638c94@164.90.165.38:46569?type=tcp&encryption=none&security=none#EPODONIOS
 vless://bc903fe3-865f-4f2e-87f9-24c4b58854de@newtr.karmatel.ir:20727?path=/&security=none&encryption=none&host=play.google.com&type=ws#EPODONIOS
 vless://bcc39590-45d5-4e21-95d9-184c188dea3e@158.160.186.6:443?security=reality&encryption=none&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=c31f9a0e7d4b52#EPODONIOS
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.140.106:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#EPODONIOS
@@ -501,5 +503,3 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.192.124:22223?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.192.124:22224?encryption=none&security=none&type=tcp#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.64.176:22222?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.64.176:22222?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.146.131:22222?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.209.231:22222?encryption=none&security=none&type=tcp#EPODONIOS
