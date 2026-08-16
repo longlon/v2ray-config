@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://9e1671d2-4092-4ae4-93b3-1d2db0f1a071@89.39.121.54:110?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&host=google.com&path=/vless/&security=none&type=ws#EPODONIOS
 vless://9e3de7f7-a595-4117-b1b6-dc41eb870ab1@144.31.213.225:443?security=reality&type=tcp&pbk=ABNRlkjlonYV9TOFYgjWwz0wn1s6sg_yCErsLYkU_Sg&sid=d6ff9019a77e354a&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision#EPODONIOS
 vless://9e685fe3-e0f9-482d-939c-200a3f89b363@cf.narton.ir:8443?path=/?ed=2560fp=chrome&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=vyznthvt7f5fr.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=vyznthvt7f5fr.zjde5.de5.net#EPODONIOS
 vless://9e81276e-5d48-4238-b725-5ed2feec5f51@104.16.144.131:80?encryption=none&security=none&type=ws&host=muddy-sun-f05e-ppal03.nakojof452.workers.dev&path=/?ed=2560#EPODONIOS
@@ -503,3 +501,5 @@ vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?&security=tls&sni
 vless://c1c4a6bd-526e-4e02-b3fe-3f4a4498011f@185.185.142.79:2200?encryption=none&security=none&type=ws&host=rzd.ru&path=/v1#EPODONIOS
 vless://c1de7c16-9c66-482c-82e5-8aeaeb5d53b3@ip2.neoservers.ir:8443?security=tls&alpn=h3,h2&encryption=none&insecure=0&host=i0PRBeE2rqIUmw2hEeJPLw8BRg56dkyN5rZrf5VU.ViPClUbIrAn.Ir.&fp=chrome&type=ws&allowInsecure=0&sni=i0PRBeE2rqIUmw2hEeJPLw8BRg56dkyN5rZrf5VU.ViPClUbIrAn.Ir.#EPODONIOS
 vless://c24a32f1-b645-47da-98a3-1e7c713229c1@104.18.12.149:8880?path=/api&security=none&encryption=none&host=armenia.chatgpt.com.siasia.ir&type=httpupgrade#EPODONIOS
+vless://c28ee61d-0d43-0064-8e6a-6397ed0ffc03@164.37.109.187:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gb.cdn.cachefleet.com&fp=chrome&pbk=sBSNX3DhJSWOkqTmRHisayVLisCBQLb4JcpKzwCrvC0&type=tcp&headerType=none#EPODONIOS
+vless://c28ee61d-0d43-0064-8e6a-6397ed0ffc03@164.37.109.187:443?security=reality&encryption=none&pbk=sBSNX3DhJSWOkqTmRHisayVLisCBQLb4JcpKzwCrvC0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gb.cdn.cachefleet.com#EPODONIOS
