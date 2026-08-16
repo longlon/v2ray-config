@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://@V2XNET@104.16.6.189:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.BBBQ6KZyjiYmpp2ErhKd0OwCBOm4J6_McyVQdB5yhBI&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=migmigyoulost.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=migmigyoulost.dpdns.org#EPODONIOS
 vless://@V2XNET@speedtest.net:80?mode=auto&path=/&security=none&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&host=Itshowtimefolksbaby.com&type=xhttp#EPODONIOS
 vless://@free_conf_iran@104.16.75.127:2095?path=/ed=2560&security=none&encryption=none&host=fr.mamish.ir&type=ws#EPODONIOS
 vless://@free_conf_iran@145.239.173.163:443?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
@@ -502,4 +503,3 @@ vless://c2b0f077-5ef5-462f-b70c-cefb718b1155@165.245.241.161:440?encryption=none
 vless://c2dc826d-2932-4fcd-8afe-c54f361ede76@spider-qqd5-production.up.railway.app:443?path=/ws/c2dc826d-2932-4fcd-8afe-c54f361ede76&security=tls&alpn=http/1.1&encryption=none&host=spider-qqd5-production.up.railway.app&fp=chrome&type=ws&sni=spider-qqd5-production.up.railway.app#EPODONIOS
 vless://c2f0a8f0-36fe-4a94-824b-bca271ca642b@188.114.97.6:443?path=/ws&security=tls&encryption=none&insecure=0&host=alphacdn.alphashops.shop&fp=chrome&type=ws&allowInsecure=0&sni=alphacdn.alphashops.shop#EPODONIOS
 vless://c327c13a-93c2-4be9-b420-e6837afeb4fd@dezh.dezhawo.ir:2026?mode=auto&path=/&security=reality&encryption=mlkem768x25519plus.native.0rtt.JDT6QKsrwVFSomwSV6SgJvZLbuvrJ37FwXSbQqkvV0U&pbk=37M_iSQk8QlYelP1PIMZ6j34PC6zDAfLN36ZBt8xgHk&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=b89342b314517af2#EPODONIOS
-vless://c327c13a-93c2-4be9-b420-e6837afeb4fd@dezh.dezhawo.ir:443?mode=auto&path=/&security=reality&encryption=mlkem768x25519plus.native.0rtt.Tue2TnufoVEAdzLwG1CBTvVqXJTpypda3hPI4Jl8EXE&pbk=2reYa60EcsmvHtXgf1CNWAgI0VOv4ktyNTSXq9IomzM&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=e14ddd072ea6dadd#EPODONIOS

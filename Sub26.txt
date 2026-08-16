@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://7aa508f3-176f-0024-add3-646af94d6288@185.137.232.194:443?mode=packet-up&path=/assets&security=reality&encryption=none&pbk=kYwdZueXQt_DEKPrWTw8yoj6G4AWqupg8UrWjAgWbkE&fp=chrome&type=xhttp&sni=aispir.ru&sid=8ba6e72ee60667f6#EPODONIOS
 vless://7ac34a93-0890-4eff-fc12-08b44d831e90@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#EPODONIOS
 vless://7b102311-43fd-4e8f-877e-8090623c101d@172.67.75.217:2096?security=tls&type=ws&path=/&host=vp14.cc.cd&packetEncoding=xudp&sni=vp14.cc.cd&fp=chrome#EPODONIOS
 vless://7b102311-43fd-4e8f-877e-8090623c101d@188.164.248.143:2087?security=tls&type=ws&path=/fp=chrome&host=vp24.cc.cd&packetEncoding=xudp&sni=vp24.cc.cd&fp=chrome#EPODONIOS
@@ -502,4 +503,3 @@ vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443?type=tcp&headerType
 vless://9fa6d846-5961-8e0e-ce27-77de00000000@172.67.199.62:443?path=/sync&security=tls&encryption=none&insecure=0&host=fancy-wind-799d.cloudneryacc.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=fancy-wind-799d.cloudneryacc.workers.dev#EPODONIOS
 vless://9ffcb940-cbf9-43ef-a077-20e26b2bde8c@ger.motorbazan.com:2087?security=none&encryption=none&host=play.google.com/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#EPODONIOS
 vless://@V2XNET@104.16.6.189:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.BBBQ6KZyjiYmpp2ErhKd0OwCBOm4J6_McyVQdB5yhBI&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=butimcreepimweirdo.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=butimcreepimweirdo.dpdns.org#EPODONIOS
-vless://@V2XNET@104.16.6.189:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.BBBQ6KZyjiYmpp2ErhKd0OwCBOm4J6_McyVQdB5yhBI&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=migmigyoulost.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=migmigyoulost.dpdns.org#EPODONIOS
