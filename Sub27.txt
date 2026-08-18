@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://@V2XNET@188.114.97.8:443?mode=auto&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.Rj5Jm-uPO7iwO9TJV7j4zgDKBpEvUNxDQafm_8zRND4&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=allineedradiohead.dpdns.org&fp=chrome&type=xhttp&allowInsecure=0&sni=allineedradiohead.dpdns.org#EPODONIOS
-vless://@free_conf_iran@104.16.75.127:2095?path=/ed=2560&security=none&encryption=none&host=fr.mamish.ir&type=ws#EPODONIOS
-vless://@free_conf_iran@145.239.173.163:443?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://@free_conf_iran@172.66.40.99:8880?path=/datax?ed=2560&security=none&encryption=none&host=fr.mamish.ir&type=httpupgrade#EPODONIOS
-vless://@free_conf_iran@172.66.40.99:8880?path=/datax?ed=2560&security=none&encryption=none&host=uk.dataxshop.ir&type=httpupgrade#EPODONIOS
-vless://@free_conf_iran@188.114.97.6:8443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=fr.mamish.ir&fp=chrome&type=ws&allowInsecure=1&sni=fr.mamish.ir#EPODONIOS
 vless://@free_conf_iran@51.79.89.68:443?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://@free_conf_iran@51.83.22.65:1935?path=/&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=fr.mamish.ir#EPODONIOS
 vless://@free_conf_iran@51.83.22.65:20021?security=reality&encryption=none&pbk=CsbATIwH_TIGR_U0eTjxv4aLhCTTuq-Roh2Bgu75QTY&headerType=none&fp=chrome&spx=/ppJiKOhhrr4BQMo&type=tcp&sni=play.google.com&sid=4b1771#EPODONIOS
@@ -503,3 +497,9 @@ vless://bf840e65-ae71-4d9d-afe8-bf77f032c63b@109.122.198.243:443?security=realit
 vless://bf840e65-ae71-4d9d-afe8-bf77f032c63b@193.233.126.97:443?security=reality&encryption=none&pbk=poHAmCMFLY7TOpA9hrI_sJGnXy796PrzQF4DHvpRCi0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#EPODONIOS
 vless://bf923569-ff69-4638-b1d3-38e3348d9571@irm2.server11net.ir:1010?encryption=none&security=none&type=tcp&headerType=http#EPODONIOS
 vless://bfd814a8-d377-4324-b23e-10d9dcd0a988@176.65.151.215:8443?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
+vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@78.17.208.22:443?encryption=none&type=tcp&security=reality&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus&sni=fr05.skorostnet.space&fp=chrome&insecure=1&allowInsecure=1&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&flow=xtls-rprx-vision#EPODONIOS
+vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@78.17.208.22:443?security=reality&encryption=none&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr05.skorostnet.space&sid=fdda9806fe5d8584#EPODONIOS
+vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@89.185.80.195:443?security=reality&encryption=none&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=5us.skorostnet.space&sid=fdda9806fe5d8584#EPODONIOS
+vless://c04e959d-3b7a-4d4f-881a-935762102704@www.zsu.gov.ua:8880?path=/pyip=ProxyIP.US.CMLiussss.net&security=&alpn=http/1.1&encryption=none&host=super-darkness-5bfb.298-142.workers.dev&fp=chrome&type=ws#EPODONIOS
+vless://c06b2815-c117-4319-8cf2-725fbf864f7e@freeiran-opiran-2.shaygan.site:8880?path=/&security=none&encryption=none&type=ws#EPODONIOS
+vless://c07e7a66-fc43-4958-a50b-16d619d754f5@87.107.146.184:15804?security=none&type=tcp&host=host:nasa.gov&headerType=http#EPODONIOS
