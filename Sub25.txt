@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://3ad1d277-5715-4ca1-84db-5baea72f822d@185.189.45.159:443?security=reality&encryption=none&pbk=Z2c9dK70_0OWBEZGgeaXJyt9dup9h2-hZlCCvIGLg1Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sw1-chr.astralweb.tech&sid=496ee75c2f91f51d#EPODONIOS
+vless://3ad1d277-5715-4ca1-84db-5baea72f822d@ddc-chr.astralweb.tech:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=ddc-chr.astralweb.tech#EPODONIOS
 vless://3b5fddd1-b156-4544-80fb-7c3071e63bc1@fardad-no.berzema.ir:6800?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com#EPODONIOS
 vless://3b77447b-a712-4de0-aea5-ad80fdd283fd@3x-ui-multi-production-5f14.up.railway.app:443?fp=chrome&host=3x-ui-multi-production-5f14.up.railway.app&path=/in9&security=tls&sni=3x-ui-multi-production-5f14.up.railway.app&type=ws#EPODONIOS
 vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@ip-data.turkserver.ir:2087?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=all-tm1.netsnap.ir.&fp=chrome&type=ws&sni=all-tm1.netsnap.ir.&note=@FreeOnlineVPN#EPODONIOS
@@ -501,5 +503,3 @@ vless://62a08ea5-0564-47b4-a92c-25be07ad6358@93.152.223.214:443?mode=gun&securit
 vless://62b72631-985d-4768-8b5a-7cc06753e0f0@83.138.53.193:443?encryption=none&security=reality&sni=centraleurope.koexp.ru&fp=chrome&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&sid=361c68748712c743&allowinsecure=1&type=grpc&mode=gun&authority=&serviceName=grpc#EPODONIOS
 vless://62b8f60b-1883-4094-b3c2-7c5214cf191a@iTV2RAY.ddns.net:999?path=/iTV2RAY&security=reality&encryption=none&pbk=TbEfreFBXTwf3jMZFm1Zv3s2gPazYFBgf1T_GK3UcAM&host=@iTV2RAY&fp=chrome&spx=/&type=http&sni=www.speedtest.net&sid=1b1bd767#EPODONIOS
 vless://631ee34f-4faf-4ad7-b49d-e6f50403cf0e@89.105.197.203:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#EPODONIOS
-vless://634394fa-957c-4e1b-ba31-ec2bc417c356@138.124.90.40:35872?encryption=none&security=reality&sni=www.icloud.com&fp=chrome&pbk=PnvtzlkQxMBo2VR7EB4BxqE3EgL6c_92Z8MYijqN2hI&sid=ee740b4fd675&spx=/&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#EPODONIOS
-vless://63a0b5e2-b684-4b05-b964-686aa416a868@194.110.207.195:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lerring.no&sid=fd55b698ee8c3629#EPODONIOS
