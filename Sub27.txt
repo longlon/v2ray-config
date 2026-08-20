@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://9627c5e0-9a11-4d36-a470-3ce64797149e@api.us.pngv.top:4999?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
+vless://9627c5e0-9a11-4d36-a470-3ce64797149e@fr-po.pngv.top:4999?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://9627c5e0-9a11-4d36-a470-3ce64797149e@gr-direct.pngv.top:4999?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
 vless://9627c5e0-9a11-4d36-a470-3ce64797149e@old.v2xpin.de:443?mode=auto&path=/random&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=api-fr.ipng.site&fp=chrome&type=xhttp&allowInsecure=0&sni=api-fr1.ipng.site#EPODONIOS
 vless://9627c5e0-9a11-4d36-a470-3ce64797149e@www1.n.ahmadhamoumi.fun:443?mode=auto&path=/random&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=api-tr.ipng.site&fp=chrome&type=xhttp&allowInsecure=0&sni=api-tr.ipng.site#EPODONIOS
@@ -501,5 +503,3 @@ vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.220:443?security=realit
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.222:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&security=reality&sid=f63805c3ecc7a483&sni=savesafe.co&type=tcp#EPODONIOS
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.222:443?encryption=none&type=tcp&security=reality&headerType=none&sni=savesafe.co&fp=chrome&insecure=1&allowInsecure=1&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&sid=f63805c3ecc7a483&flow=xtls-rprx-vision#EPODONIOS
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.222:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=savesafe.co&fp=chrome&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&sid=f63805c3ecc7a483&allowinsecure=1&type=tcp&headerType=none#EPODONIOS
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.222:443?security=reality&encryption=none&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=savesafe.co&sid=f63805c3ecc7a483#EPODONIOS
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.223:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&security=reality&sid=f63805c3ecc7a483&sni=savesafe.co&type=tcp#EPODONIOS

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://77a89d8d-9de3-cf40-bafb-e68f0000001a@104.16.133.220:443?path=/sync&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ez-5b038e.ezaccess1c7f862.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-5b038e.ezaccess1c7f862.workers.dev#EPODONIOS
+vless://77c9a41e-70bd-47c2-b5e1-bff49df325d9@pizzashop.dearhossein-taktaz.ir:443?path=/&security=tls&encryption=none&insecure=0&host=pizzashop.dearhossein-taktaz.ir&fp=chrome&type=ws&allowInsecure=0&sni=pizzashop.dearhossein-taktaz.ir#EPODONIOS
 vless://788c24fa-af91-4b0d-a589-48381b07101a@168.119.107.162:35448/?type=tcp&security=none#EPODONIOS
 vless://78a956d8-df3b-40f8-8634-cf9dd6799ca2@marzban-node-production-5e96.up.railway.app:443?security=tls&type=ws&headerType=&path=/vless&host=marzban-node-production-5e96.up.railway.app&sni=marzban-node-production-5e96.up.railway.app&fp=chrome&alpn=h2#EPODONIOS
 vless://78ac1880-2385-4d44-83e5-7d6af59e80a3@3x-ui-multi-production-5f14.up.railway.app:443?fp=chrome&host=3x-ui-multi-production-5f14.up.railway.app&path=/in10&security=tls&sni=3x-ui-multi-production-5f14.up.railway.app&type=ws#EPODONIOS
@@ -501,5 +503,3 @@ vless://95ae0de8-d944-4b1e-b450-d34d80f9a528@xit.saturn-cloud.net:443?flow=xtls-
 vless://95e8532b-cc69-42d4-9553-e3c23292b15b@45.151.101.103:443?encryption=none&security=reality&sni=maps.apple.com&fp=chrome&pbk=gr7DAOBqoNiHEUhWZQh3nSqBOmg6QwmRC0HKj7TOsUk&sid=2da4299da566b7&type=grpc&authority=&serviceName=your-custom-path&mode=gun#EPODONIOS
 vless://95e8532b-cc69-42d4-9553-e3c23292b15b@85.192.56.3:443?mode=gun&security=reality&encryption=none&pbk=jowOwf_cxg_FNpG36QJcyqBWtDItBBYjqj7VGhD2lnw&fp=chrome&type=grpc&serviceName=grpc&sni=www.google.com&sid=d3124debabf1456c#EPODONIOS
 vless://9627c5e0-9a11-4d36-a470-3ce64797149e@api.pl.pngv.top:4999?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
-vless://9627c5e0-9a11-4d36-a470-3ce64797149e@api.us.pngv.top:4999?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
-vless://9627c5e0-9a11-4d36-a470-3ce64797149e@fr-po.pngv.top:4999?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS

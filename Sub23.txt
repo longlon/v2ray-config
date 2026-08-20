@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://ON38567014@13.38.35.46:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lucky-marmot.rooster465.autos#EPODONIOS
+trojan://ON38567014@lucky-marmot.rooster465.autos:443?security=tls&sni=lucky-marmot.rooster465.autos#EPODONIOS
 trojan://PQ05174892@108.130.49.217:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=concise-bass.rooster465.autos#EPODONIOS
 trojan://PQ05174892@13.159.17.90:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=outgoing-cockatoo.rooster465.autos#EPODONIOS
 trojan://PQ05174892@13.159.17.90:443?security=tls&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=outgoing-cockatoo.rooster465.autos#EPODONIOS
@@ -501,5 +503,3 @@ vless://1ce9392f-caf4-48f7-bbb9-475b101fbde0@188.114.97.6:443?path=/id-tksi&secu
 vless://1d5a3836-1c2b-7b87-25db-917f29701da6@rvg-production-6c78.up.railway.app:443?encryption=none&type=xhttp&security=tls&path=/xhttp-siz10/stream-up/1d5a3836-1c2b-7b87-25db-917f29701da6&host=rvg-production-6c78.up.railway.app&mode=stream-up&sni=rvg-production-6c78.up.railway.app&alpn=h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#EPODONIOS
 vless://1d5a3836-1c2b-7b87-25db-917f29701da6@rvg-production-6c78.up.railway.app:443?mode=stream-up&path=/xhttp-siz10/stream-up/1d5a3836-1c2b-7b87-25db-917f29701da6&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=rvg-production-6c78.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=rvg-production-6c78.up.railway.app#EPODONIOS
 vless://1d8c331b-616b-72d5-881d-267460b41843@shayrad-production-8c26.up.railway.app:443?mode=packet-up&path=/xhttp-siz10/packet-up/1d8c331b-616b-72d5-881d-267460b41843&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=shayrad-production-8c26.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=shayrad-production-8c26.up.railway.app#EPODONIOS
-vless://1d977a71-920e-4846-98b1-24f8e2fa0ea3@176.120.17.6:59167?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://1da18def-6804-44c8-bb6d-83cff995f567@144.124.236.188:443?security=reality&encryption=none&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7bcfc0bc#EPODONIOS
