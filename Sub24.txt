@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://27b16a66-95e0-4c20-b00b-5dff91d9c9f5@212.46.33.38:443?encryption=none&fp=chrome&pbk=C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4&security=reality&serviceName=moktana.net.v1.StreamService&sid=7c4b9a2e8d5f3c1b&sni=login.moktana.app&type=grpc#EPODONIOS
-vless://28148be2-61a7-4f36-8adb-030cc9f82bd0@62.210.24.143:32202?mode=auto&path=/G3EEoH63&security=reality&encryption=none&pbk=bGe_-nAtOq6_w_2mv6pcmD8RzJP65Tti-vyMP2hAwDc&fp=chrome&type=xhttp&sni=www.amazon.com&sid=f57d8f26#EPODONIOS
-vless://283d36aa-5a4c-1322-aa77-bba9cb0fb512@69.46.46.13:443?path=/ws/283d36aa-5a4c-1322-aa77-bba9cb0fb512&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-07b0.up.railway.app&fp=chrome&type=ws&sni=rvg-production-07b0.up.railway.app#EPODONIOS
-vless://28607fa7-db30-47d6-942a-f5744e4be9ad@45.130.125.96:443?path=/id-pusat&security=tls&encryption=none&insecure=1&host=dfsuporte.garena.com.ex33r.eu.cc&type=ws&allowInsecure=1&sni=dfsuporte.garena.com.ex33r.eu.cc#EPODONIOS
-vless://2864de98-c04e-443a-b2d1-e7176cbcca22@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#EPODONIOS
-vless://289c4c75-9ea6-4c23-bda2-17d32c533db4@bolguarmarz.horlutr.ir:2087?security=none&encryption=none&host=/&headerType=http&type=tcp#EPODONIOS
 vless://28de0f44-0f9e-413c-94f3-c303baded20f@173.234.76.175:51359?security=reality&encryption=none&pbk=-ZWG_AEb-xDKOK8fWq4bRHn4bhTUkwvNkSe0qwbigCo&headerType=none&fp=chrome&type=tcp&sni=telekom.com&sid=c3177d4358119938#EPODONIOS
 vless://2942bae7-9dcf-4a2e-f928-933c0ab3eab0@139.180.198.220:52143?encryption=none&security=none&type=tcp#EPODONIOS
 vless://29662c1f-2478-4556-a9a3-b12a6a66e148@mci.sulduz.pw:2174?security=&encryption=none&host=filimo.com&headerType=http&type=tcp#EPODONIOS
@@ -503,3 +497,9 @@ vless://564082ff-cf3c-48db-9e10-8ad2312847b4@144.31.65.59:443?flow=xtls-rprx-vis
 vless://564082ff-cf3c-48db-9e10-8ad2312847b4@144.31.65.59:443?security=reality&encryption=none&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=node17.mxvpn.dev&sid=bbc68cec8bb8d2e3#EPODONIOS
 vless://564082ff-cf3c-48db-9e10-8ad2312847b4@144.31.65.68:443?security=reality&encryption=none&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=node18.mxvpn.dev&sid=bbc68cec8bb8d2e3#EPODONIOS
 vless://564082ff-cf3c-48db-9e10-8ad2312847b4@77.239.123.219:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=node19.mxvpn.dev&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3&type=tcp&headerType=none#EPODONIOS
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@77.239.123.224:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=node20.mxvpn.dev&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3&type=tcp&headerType=none#EPODONIOS
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node21.mxvpn.dev:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3&sni=node21.mxvpn.dev#EPODONIOS
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@soskeynets.mxvpn.dev:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&security=reality&sid=bbc68cec8bb8d2e3&sni=node17.mxvpn.dev&type=tcp#EPODONIOS
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@soskeynets.mxvpn.dev:443?security=reality&encryption=none&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=node15.mxvpn.dev&sid=bbc68cec8bb8d2e3#EPODONIOS
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@soskeynets.mxvpn.dev:443?security=reality&encryption=none&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=node16.mxvpn.dev&sid=bbc68cec8bb8d2e3#EPODONIOS
+vless://5668b380-6f15-4090-b999-0a4cb5520f8f@31.57.62.68:7443?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
