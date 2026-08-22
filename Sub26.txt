@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://74537cd2-28ff-3e41-e06a-299a60612247@69.46.46.100:443?path=/ws/74537cd2-28ff-3e41-e06a-299a60612247&security=tls&alpn=http/1.1&encryption=none&host=rvg-production-11b2.up.railway.app&fp=chrome&type=ws&sni=rvg-production-11b2.up.railway.app#EPODONIOS
 vless://74537cd2-28ff-3e41-e06a-299a60612247@69.46.46.100:443?path=/ws/74537cd2-28ff-3e41-e06a-299a60612247&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-11b2.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-11b2.up.railway.app#EPODONIOS
 vless://745bac6d-e48d-4556-aa77-09b68743a9ce@45.74.159.200:10131?encryption=none&type=tcp&headerType=none#EPODONIOS
 vless://749f916d-17b2-4589-8ca6-44e89abbbfc0@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=towndtime.global.ssl.fastly.neT.&type=ws&allowInsecure=0&sni=ssl.fastly.com#EPODONIOS
@@ -503,3 +502,4 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.144:8443?security=tls&en
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.178:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#EPODONIOS
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&headerType=none&type=tcp#EPODONIOS
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0#EPODONIOS
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1#EPODONIOS
