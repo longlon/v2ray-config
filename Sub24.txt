@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://14777bd9-56a5-46f6-a94f-826b4800dc05@176.108.243.192:9880?mode=gun&security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aa#EPODONIOS
-vless://14818654-7689-453a-9a1f-4c72f89782d5@77.239.103.29:2040?encryption=none&security=reality&sni=tradingview.com&fp=chrome&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&sid=50ed6f6007515d63&type=tcp&headerType=none#EPODONIOS
-vless://14a0c04a-8d53-4dcb-a450-8770a0a1ed1b@176.65.151.52:54334?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.138.101:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.251.89:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.149:443?encryption=none&type=xhttp&security=tls&path=/Join-JavidnamanIran-on-Telegram&host=static.lotussec.com&mode=stream-one&sni=static.lotussec.com&alpn=h2&fp=chrome&insecure=0&allowInsecure=0#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.149:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&host=static.lotussec.com&fp=chrome&type=xhttp&sni=static.lotussec.com#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.149:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@89.144.30.154:443?encryption=none&security=tls&sni=static.lotussec.com&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=xhttp&host=static.lotussec.com&path=/Join-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
-vless://14b48651-3738-4926-bc09-4c04e87ff80b@89.144.30.154:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&host=static.lotussec.com&fp=chrome&type=xhttp&sni=static.lotussec.com#EPODONIOS
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@89.144.30.154:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=chrome&type=xhttp&allowInsecure=0&sni=static.lotussec.com#EPODONIOS
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@soskeynets.lotussec.com:443?mode=stream-one&path=/Join-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&host=static.lotussec.com&fp=chrome&type=xhttp&sni=static.lotussec.com#EPODONIOS
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?encryption=none&security=tls&fp=chrome&alpn=h2&type=xhttp&path=/Join-JavidnamanIran-on-Telegram&mode=stream-one#EPODONIOS
@@ -503,3 +493,13 @@ vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&pat
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#EPODONIOS
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=0&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#EPODONIOS
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=1&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=1&sni=de.xn--q9jyb4c.online#EPODONIOS
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?mode=stream-one&path=/de&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#EPODONIOS
+vless://4077de3d-64cb-41cb-bee2-9178210e5fb4@167.233.54.146:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#EPODONIOS
+vless://4085e7cf-989e-4f92-a9c6-891b4b6e8daa@104.20.6.134:8880?type=httpupgrade&encryption=none&path=/join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH-join-proSSH&host=armenia.chatgpt.com.siasia.ir&security=none#EPODONIOS
+vless://408e08b4-4e08-4819-9eb6-0e660ec87530@5.254.14.165:443?security=reality&encryption=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn4-81.yahoo.com&sid=abe4a59b9f2407e3#EPODONIOS
+vless://408e08b4-4e08-4819-9eb6-0e660ec87530@5.254.14.165:443?type=tcp&flow=xtls-rprx-vision&headerType=none&sni=cdn4-81.yahoo.com&security=reality&fp=chrome&sid=abe4a59b9f2407e3&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&encryption=none#EPODONIOS
+vless://40b46f64-d8a5-4496-b86f-1d6db7d4bf39@95.179.159.222:19436?encryption=none&security=none&type=tcp@soskeynets#EPODONIOS
+vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=/&security=none&encryption=none&host=cdn.melodyshopone2.ir&type=ws#EPODONIOS
+vless://40c4b66b-88d7-407a-a161-6b3dc0003cfa@cf2.coixconqwe1.ir:443?path=/news&security=tls&encryption=none&insecure=0&host=cdn-gr.coixconqwe2.ir.&fp=chrome&type=ws&allowInsecure=0&sni=cdn-gr.coixconqwe2.ir.#EPODONIOS
+vless://40cfbd0a-f133-4174-8e03-ab0e587e1099@193.238.153.15:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dzknsuwujuOacNHTXzdPxBLNUEJfEImiwLinPPNFmwU&sid=1ea21a140beaecc5&sni=www.cloudflare.com#EPODONIOS
+vless://40e32120-08c8-4a48-aa0b-156b653f364f@217.179.221.234:24986?path=/&security=none&encryption=none&host=mci.ir&type=httpupgrade#EPODONIOS
