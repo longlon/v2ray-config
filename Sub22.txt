@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://f033bd38-fe03-4705-883c-e45654eaa082@103.195.236.24:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%BB%F0%9F%87%B3VN-103.195.236.24-0082
-trojan://f033bd38-fe03-4705-883c-e45654eaa082@20.24.44.110:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%B8%F0%9F%87%ACSG-20.24.44.110-0075
-trojan://f033bd38-fe03-4705-883c-e45654eaa082@91.243.81.42:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%B8%F0%9F%87%ACSG-91.243.81.42-0074
-trojan://f033bd38-fe03-4705-883c-e45654eaa082@18.162.207.193:28443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%AD%F0%9F%87%B0HK-18.162.207.193-0073
 trojan://f033bd38-fe03-4705-883c-e45654eaa082@18.162.56.130:443?security=tls&sni=www.download.windowsupdate1.com#%F0%9F%87%AD%F0%9F%87%B0HK-18.162.56.130-0072
 vmess://ewogICAgImFkZCI6ICIyMTkuNzYuMTMuMTc4IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiaGtoZ2MubWVpemhpeXVhbnlhLnh5eiIsCiAgICAiaWQiOiAiZjAzM2JkMzgtZmUwMy00NzA1LTg4M2MtZTQ1NjU0ZWFhMDgyIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL21laXpoaXl1YW4vaGtoZ2M/ZWQ9MjA0OCIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4et8J+HsEhLLTIxOS43Ni4xMy4xNzgtMDA3MSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICIyMTkuNzYuMTMuMTc3IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiaGtoZ2MubWVpemhpeXVhbnlhLnh5eiIsCiAgICAiaWQiOiAiZjAzM2JkMzgtZmUwMy00NzA1LTg4M2MtZTQ1NjU0ZWFhMDgyIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL21laXpoaXl1YW4vaGtoZ2M/ZWQ9MjA0OCIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4et8J+HsEhLLTIxOS43Ni4xMy4xNzctMDA3MCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
@@ -503,3 +499,7 @@ trojan://230c44dd-3c96-4b40-b4e7-fa64a65d6e87@bestcdn0.868863.xyz:2053/?type=ws&
 trojan://230c44dd-3c96-4b40-b4e7-fa64a65d6e87@bestcdn2.868863.xyz:2087/?type=ws&host=17874894327737.206353.xyz&path=/agrbniuh&security=tls&sni=206353.xyz#EPODONIOS
 trojan://319182a3-9ca5-456e-9acd-54e0df11b0be@172.237.81.74:46262/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#EPODONIOS
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com&note=@FreeOnlineVPN#EPODONIOS
+trojan://521314@millionaire.levikogjgfdd.ir:443?path=/&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#EPODONIOS
+trojan://521314@millionaire.levikogjgfdd.ir:443?path=/Leviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#EPODONIOS
+trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443/?type=tcp&security=tls&sni=moltbot.doctoroyy.net&allowInsecure=1#EPODONIOS
+trojan://5cc264ad-92a8-46cc-85b0-82dca5b12faf@172.238.22.232:43102/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#EPODONIOS
