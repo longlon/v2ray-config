@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
+#آموزش_تصویری🎈🎈آموزش استفاده از برنامه v2rayNG (اندروید)🎈1. اول از همه برنامه رو دانلود و نصب کنید که فایل نصب برنامه داخل کانال هست. از گوگل پلی یا هر منبع معتبر دیگه هم میتونید نصب کنید.2. بعد از نصب یکی از سرور های shadowsocks که داخل کانال قرار میگیره و با vmess یا vless شروع میشه رو کپی کنید.3. وارد برنامه v2rayNG رو بشید و روی گزینه + گوشه بالا بزنید و گزینه Import config from Clipboard رو انتخاب کنید تا سرور شدوساکس داخل برنامه اضافه بشه و در نهایت روی گزینه دایره ای V شکل گوشه پایین بزنید تا اتصال برقرار بشه و رنگ دایره به سبز تغییر کنه و عبارت Connected نمایش داده بشه.نکته: میتونید چندتا سرور داخل برنامه اضافه کنید تا هر کدوم وصل نشد، یکی دیگه رو امتحان کنید.🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈 • More: @Proxy_Beta
+
 ➕نحوه   نصب   برنامه    برای   iOS ? لینک دانلود برای iOShttps://apps.apple.com/us/app/napsternetv/id1629465476🎈آموزش استفاده از v2ray در آیفون🎈🎈برای گوشی های آیفون باید shadowlink رو از اپ استور دانلود و نصب کنید.🎈وارد برنامه شده (برای دفعه اول یک صفحه باز می شود که روی گزینه x گوشه بالا بزنید. داخل صفحه اصلی روی گزینه Server بزنید و در صفحه جدید از گوشه بالا سمت راست گزینه Add رو انتخاب کنید.🎈حالا گزینه Server urls رو انتخاب کنید و داخل کادر نمایش داده شده، یکی از آدرس های vmess  یا vless که داخل کانال قرار گرفته رو جایگذاری و گزینه Save رو انتخاب کنید.🎈حالا در لیست Server در قسمت Custom Server یک سرور جدید اضافه شده که انتخابش کنید و بهش وصل بشید.🎈امیدوارم به کارتون بیاد🌺 • More: @Proxy_Beta
 
 
@@ -501,5 +503,3 @@ vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?enc
 vless://44573770-963a-41f5-a080-3cc11e4957a2@82.24.203.37:2087?encryption=none&path=%2F5c62e3c616d8&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@108.162.198.178:2095?eh=Sec-WebSocket-Protocol&encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.43.187:2086?&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls#%3E%3E%40v2nodes%3A%3AUS
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@108.162.198.178:8880?eh=Sec-WebSocket-Protocol&encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://469bc714-57c1-4091-8913-ff804b38bd3a@104.21.74.214:8443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=maike-tison.briqivo.ir#%3E%3E%40configV2rayNG%3A%3AFR
