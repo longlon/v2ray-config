@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.70.32:443?security=reality&encryption=none&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=baltic.cendora.ru&sid=4a46213c935e2ee4#EPODONIOS
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@95.85.248.50:443?security=reality&encryption=none&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eu-west.cendora.ru&sid=dd3ff38418d29d22#EPODONIOS
-vless://4283865b-7145-44d3-9855-96298c47424d@136.244.112.46:37710?encryption=none&security=none&type=tcp&headerType=none#EPODONIOS
-vless://42994234-1689-48bc-8d01-cfb16e7b017a@45.74.158.180:443?security=reality&encryption=none&pbk=MgyA2FY0p2q_VOwoL9T1Z3rzpKEcGjfN61QliGcyHA8&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=ca41ef1263c02279#EPODONIOS
-vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/K2w7vCx3fNcdCrSc?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#EPODONIOS
-vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/AWGG17eLHc5QLzJr?ed=2560#EPODONIOS
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/Ay0V02ow7rt6P1Ml?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#EPODONIOS
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/FkJEHRUYQOp0TIQ5?ed=2560#EPODONIOS
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.40:10000?security=none&encryption=none&headerType=none&type=tcp#EPODONIOS
@@ -503,3 +497,9 @@ vless://603856a5-8604-4670-8ea5-ee3b39342a53@212.43.146.241:59726?security=reali
 vless://603856a5-8604-4670-8ea5-ee3b39342a53@212.43.146.241:59726?security=reality&encryption=none&pbk=7gvZqfl2U6DhRaaT6WAttHQSuVXrvuoVUDwuTvVhzmk&headerType=none&fp=chrome&spx=/d28df62fb7603a3&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=90a901#EPODONIOS
 vless://60722d6f-8b3a-4295-882b-58ca4185741d@jdzyw.com:443?encryption=mlkem768x25519plus.native.0rtt.55OiC1ErtBIrHTL_KgMG_YKH37Rjicr4b6CS9kO9vHw&security=tls&sni=deh.irandoc.info&fp=chrome&allowinsecure=0&type=httpupgrade&host=deh.irandoc.info&path=/45237/api4#EPODONIOS
 vless://6072ca43-2715-49a4-a9a2-a56be73ecfb0@188.137.234.211:443?mode=gun&security=reality&encryption=none&pbk=998RpVD5c_cwZC3GOK_JCQqICnDfI-5d9anOlT7Wf0w&fp=chrome&type=grpc&serviceName=MediaService&sni=google.com&sid=033a8331#EPODONIOS
+vless://6072ca43-2715-49a4-a9a2-a56be73ecfb0@188.137.234.211:443?mode=multi&security=reality&encryption=none&pbk=998RpVD5c_cwZC3GOK_JCQqICnDfI-5d9anOlT7Wf0w&fp=chrome&type=grpc&serviceName=MediaService&sni=google.com&sid=033a8331#EPODONIOS
+vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269#EPODONIOS
+vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&security=reality&sid=d1742269&sni=www.cloudflare.com&type=tcp#EPODONIOS
+vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&sid=d1742269&type=tcp&headerType=none#EPODONIOS
+vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?security=reality&encryption=none&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d1742269#EPODONIOS
+vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?security=reality&encryption=none&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d1742269#EPODONIOS
