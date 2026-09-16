@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@170.168.99.8:443?path=/&security=reality&encryption=none&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&fp=chrome&type=xhttp&sni=www.epson.com#@ICV2RAY
 vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@170.168.99.8:8443?mode=gun&security=reality&encryption=none&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&fp=chrome&type=grpc&serviceName=TunService&sni=www.epson.com#@V2ray_Alpha🐬 9
 vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@170.168.99.8:8443?mode=gun&security=reality&encryption=none&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&fp=chrome&type=grpc&serviceName=TunService&sni=www.epson.com#@vasl_bashim
 vless://dca76b88-b038-e82b-45e1-1d76b476d7ca@62.233.39.7:443?path=/&security=reality&encryption=none&pbk=Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ&fp=chrome&type=xhttp&sni=www.philips.com#@ICV2RAY
@@ -502,4 +503,3 @@ vless://ec350ba0-fc5f-423b-8029-85afd61720f0@play.phonoma.ir:1310?security=none&
 vless://ec43c5d5-b6f9-4077-95cf-1450abf48441@m2-production-2516.up.railway.app:443?encryption=none&security=tls&sni=m2-production-2516.up.railway.app&fp=chrome&alpn=h3,h2,http/1.1&type=ws&host=m2-production-2516.up.railway.app&path=/vless#@Daily_Configs
 vless://ec43c5d5-b6f9-4077-95cf-1450abf48441@m2-production-2516.up.railway.app:443?encryption=none&security=tls&sni=m2-production-2516.up.railway.app&fp=chrome&alpn=h3,h2,http/1.1&type=ws&host=m2-production-2516.up.railway.app&path=/vless#@meliproxyy
 vless://ec43c5d5-b6f9-4077-95cf-1450abf48441@m3-production-fa8d.up.railway.app:443?path=/vless&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=m3-production-fa8d.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=m3-production-fa8d.up.railway.app#@ICV2RAY
-vless://ec43c5d5-b6f9-4077-95cf-1450abf48441@m3-production-fa8d.up.railway.app:443?path=/vless&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=m3-production-fa8d.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=m3-production-fa8d.up.railway.app#@Shh_Proxy-New¹
