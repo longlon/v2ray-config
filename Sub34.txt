@@ -3,6 +3,36 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+
+
+<template class="js-flash-template">
+
+<div class="flash flash-full   {{ className }}">
+<button autofocus class="flash-close js-flash-close" type="button" aria-label="Dismiss this message">
+<svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+<div aria-atomic="true" role="alert" class="js-flash-alert">
+
+<div>{{ message }}</div>
+
+
+
+
+
+
+
+
+
+
+class="application-main d-flex flex-auto flex-column"
+
+data-discussion-hovercards-enabled
+data-issue-and-pr-hovercards-enabled
+<main class="font-mktg " >
+
+
+
+<div class="position-relative" style="z-index: 0; --not-found-height: clamp(clamp(240px, calc(100vw - 280px), 370px), min(56.3vw, calc(100dvh - 390px)), 529px)">
+<div class="position-absolute overflow-hidden width-full top-0 left-0" style="height: var(--not-found-height)" data-hpc>
 <img data-static-error-asset="404-background" alt="" class="position-absolute" height="415" width="940" style="inset: 0; z-index: 1; width: 100%; height: 100%; max-width: none; object-fit: cover; object-position: center 48%;"
 class="position-relative width-full mx-auto overflow-hidden"
 <img data-static-error-asset="404-illustration"
