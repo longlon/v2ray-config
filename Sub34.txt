@@ -4,6 +4,11 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
+
+
+<link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+
 <body class="logged-out env-production page-responsive min-height-full d-flex flex-column" style="word-wrap: break-word;" >
 <div data-turbo-body class="logged-out env-production page-responsive min-height-full d-flex flex-column" style="word-wrap: break-word;" >
 
@@ -60,8 +65,8 @@ data-attempted-ssr="true"
 <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
-<button id="icon-button-c613117e-b471-4df4-a4ab-e3d7781f6387" aria-labelledby="tooltip-c1a5d1bd-de60-497e-97e5-5f30a3e2c9ab" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
-</button><tool-tip id="tooltip-c1a5d1bd-de60-497e-97e5-5f30a3e2c9ab" for="icon-button-c613117e-b471-4df4-a4ab-e3d7781f6387" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+<button id="icon-button-2e6099c6-79c4-45cd-b513-0005a9ecc8f6" aria-labelledby="tooltip-c8a62e74-9479-404b-97ed-e960f2ef1a4f" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" data-component="Octicon" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+</button><tool-tip id="tooltip-c8a62e74-9479-404b-97ed-e960f2ef1a4f" for="icon-button-2e6099c6-79c4-45cd-b513-0005a9ecc8f6" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 
 
 
